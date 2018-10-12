@@ -42,8 +42,8 @@ IndustrialOre:*processing*
 # ADDING EXCEPTIONS
 #
 
-# Let's say there is one industrial ore processing building I would like to use, regardless of skipping.
-# I can do that by adding an exception for it:
+# Let's say there is one industrial ore processing building I would like to use,
+# regardless of skipping. I can do that by adding an exception for it:
 Except:Ore 2x2 Processing
 
 # Any exceptions you add outweigh skipping.
