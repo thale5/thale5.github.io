@@ -80,9 +80,8 @@ industrial ore : *processing*
 
 # Some things that Cities Skylines considers as buildings do not look like buildings.
 # Those things include pillars, pipes, and network connections.
-# You should keep that in mind if you use a powerful pattern such as * to skip all buildings.
+# You should keep that in mind if you use a powerful pattern such as * to skip everything.
 # I recommend adding the exceptions shown below if you use the * pattern or something similar.
-# However, the game runs even if you don't add these exceptions.
 
 # Network connections
 Except:Road Connection
@@ -128,8 +127,6 @@ Except:RoundaboutL
 Except:RoundaboutS
 
 # Other infrastructure
-Except:Water Pipe Junction
-Except:Heating Pipe Junction
 Except:Integrated Metro Station
 Except:Metro Entrance
 Except:Water Intake
