@@ -11,7 +11,7 @@ Ore 4x3 Processing02
 Space Elevator
 
 # All building names are available here, with pictures:
-# https://cdn.rawgit.com/thale5/Buildings/2018/index.htm
+# https://cdn.rawgit.com/thale5/Buildings/2018b/index.htm
 
 # You can use wildcards: * means any number of characters while ? means one character.
 # In case you are wondering: yes, you can just type * to skip all buildings.
