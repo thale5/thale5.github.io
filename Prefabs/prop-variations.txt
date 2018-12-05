@@ -1,0 +1,285 @@
+Ac box random
+  Ac box 01  34
+  Ac box 02  33
+  Ac box 03  33
+Rooftop access random
+  Rooftop access 01  34
+  Rooftop access 02  33
+  Rooftop access 03  33
+Rooftop window random
+  Rooftop window 01  34
+  Rooftop window 02  33
+  Rooftop window 03  33
+Industrial random
+  Barrels  17
+  Crate pile  17
+  Plank pile  17
+  Plank stack  17
+  Cable reel 02  17
+  Trashpile  17
+Destroyed Props Random
+  Dirt Pile 02   3
+  Dirt Pile 03   3
+  Congrete Debree 01   4
+  Congrete Debree 02   4
+  Congrete Debree 03   4
+  Trash Pile 01   3
+  Trash Pile 02   3
+  Trash Pile 03   3
+  Trash Pile 04   3
+  Trash Pile 05   3
+  Destroyed Decal 01   6
+  Destroyed Decal 02   6
+  Destroyed Decal 03   6
+  Destroyed Decal 04   6
+  Destroyed Vehicle 01   1
+  Destroyed Vehicle 02   1
+  Destroyed Vehicle 03   1
+  Congrete Debree Large 01  10
+  Congrete Debree Large 02   9
+  Congrete Debree Large 03   9
+  Congrete Rock Pile 01   2
+  Congrete Rock Pile 02   2
+  Congrete Rock Pile 03   2
+  Wood Pile 01   1
+  Wood Pile 02   1
+  Wood Pile 03   1
+Destroyed Road Props Random
+  Destroyed Road Decal 02  11
+  Destroyed Road Decal 03  11
+  Destroyed Road Decal 04  11
+  Destroyed Road Dirt 01   2
+  Destroyed Road Dirt 02   2
+  Destroyed Road Prop 01  12
+  Destroyed Road Prop 02  12
+  Destroyed Road Prop 03  12
+  Destroyed Road Prop 04  12
+Hightech Industrial Logo Random
+  Hightech Industrial Logo 02  16
+  Hightech Industrial Logo 03  16
+  Hightech Industrial Logo 01  16
+  Hightech Industrial Logo 05  16
+  Hightech Industrial Logo 06  16
+Hightech Industrial Medium Billboard Random
+  Hightech Industrial Medium Billboard 02  25
+  Hightech Industrial Medium Billboard 03  25
+  Hightech Industrial Medium Billboard 04  25
+Hightech Industrial Small Billboard Random
+  Hightech Industrial Small Billboard 02  25
+  Hightech Industrial Small Billboard 03  25
+  Hightech Industrial Small Billboard 04  25
+Organic Shop Medium Billboard Random
+  Organic Shop Medium Billboard 02  14
+  Organic Shop Medium Billboard 03  14
+  Organic Shop Medium Billboard 04  14
+  Organic Shop Medium Billboard 05  14
+  Organic Shop Medium Billboard 06  14
+  Organic Shop Medium Billboard 07  14
+Organic Shop Small Billboard Random
+  Organic Shop Small Billboard 02  14
+  Organic Shop Small Billboard 03  14
+  Organic Shop Small Billboard 04  14
+  Organic Shop Small Billboard 05  14
+  Organic Shop Small Billboard 06  14
+  Organic Shop Small Billboard 07  14
+Billboard_big_go_nuts
+  Festival Billboard Big 01  75
+Billboard_big_yakisoba
+  Park Billboard Large 01  37
+  Amusement Park Billboard Large 01  37
+Billboard_big_yaxu
+  Nature Reserve Billboard Large 01  37
+  Zoo Billboard Large 01  37
+Billboard_big_jubilee_01
+  Nature Reserve Billboard Large 01  75
+Billboard_big_popsoda_01
+  Zoo Billboard Large 01  75
+Billboard_big_bigbite
+  Amusement Park Billboard Large 01  75
+Billboard_big_go_nuts_01
+  Nature Reserve Billboard Large 01  75
+Billboard_big_yaxu_01
+  Festival Billboard Big 01  75
+Billboard_big_yakisoba_01
+  Festival Billboard Big 01  75
+Billboard_big_bigbite_01
+  Festival Billboard Big 01  75
+Billboard_big_bigbite_02
+  Festival Billboard Big 02  75
+Billboard_big_go_nuts_02
+  Festival Billboard Big 02  75
+Billboard_3D_variation
+  Rotating_morelloscone  35
+  Clown  35
+Billboard_small_variation_01
+  Billboard_small_lehto_01  25
+  Billboard_small_meaty_01  25
+  Billboard_small_nightwatch_01  25
+  Billboard_small_silky_01  25
+Billboard_small_variation_02
+  Billboard_small_lehto_02  25
+  Billboard_small_meaty_02  25
+  Billboard_small_nightwatch_02  25
+  Billboard_small_silky_02  25
+Billboard_small_variation_03
+  Billboard_small_lehto_03  25
+  Billboard_small_meaty_03  25
+  Billboard_small_nightwatch_03  25
+  Billboard_small_silky_03  25
+Billboard_medium_flat_bigbite_01
+  Festival Billboard Medium 01  75
+Billboard_medium_flat_bigbite_02
+  Park Billboard Medium 01  37
+  Amusement Park Billboard Medium 01  37
+Billboard_medium_flat_go_nuts_01
+  Festival Billboard Medium 01  75
+Billboard_medium_flat_go_nuts_02
+  Nature Reserve Billboard Medium 01  37
+  Zoo Billboard Medium 01  37
+Billboard_medium_flat_variation_01
+  Billboard_medium_flat_go_nuts_01  35
+Billboard_big_variation_03
+  Billboard_big_go_nuts_02   8
+  Billboard_big_jubilee   8
+  Billboard_big_popsoda_03   8
+  Billboard_big_yakisoba_02   8
+  Billboard_big_yaxu_02   8
+  billboard_big_Sparkly_02   8
+  billboard_big_Furniture_02   8
+  billboard_big_Realestate_02   8
+  billboard_big_Fallout_02   8
+  Nightwatch_billboard_big_anim   8
+  jubilee_billboard_big_anim   8
+  burnedbean_billboard_big_anim   9
+Billboard_big_variation_01
+  Billboard_big_go_nuts  11
+  Billboard_big_yakisoba_01  11
+  Billboard_big_yaxu_01  11
+  Billboard_big_jubilee_02  11
+  Billboard_big_popsoda_02  11
+  billboard_big_Sparkly_01  11
+  billboard_big_Furniture_01  11
+  billboard_big_realestate_01  11
+  billboard_big_Fallout_01  11
+Billboard_big_variation_02
+  Billboard_big_go_nuts_01  11
+  Billboard_big_jubilee_01  11
+  Billboard_big_popsoda_01  11
+  Billboard_big_yakisoba  11
+  Billboard_big_yaxu  11
+  billboard_big_Sparkly  11
+  billboard_big_Furniture  11
+  billboard_big_realestate  11
+  billboard_big_Fallout  11
+Billboard_big_variation_04
+  Billboard_big_go_nuts_03  11
+  Billboard_big_jubilee_03  11
+  Billboard_big_popsoda  11
+  Billboard_big_yakisoba_03  11
+  Billboard_big_yaxu_03  11
+  billboard_big_Sparkly_03  11
+  billboard_big_Furniture_03  11
+  billboard_big_realestate_03  11
+  billboard_big_Fallout_03  11
+Billboard_big_variation
+  Billboard_big_popsoda_02  11
+  Billboard_big_jubilee_02  11
+  Billboard_big_go_nuts  11
+  Billboard_big_yakisoba_01  11
+  Billboard_big_yaxu_01  11
+  billboard_big_Sparkly_01  11
+  billboard_big_Furniture_01  11
+  billboard_big_realestate_01  11
+  billboard_big_Fallout_01  11
+Logo_commercial_variation01
+  Logo_barber  33
+  Logo_bowling  33
+  Logo_burned_bean  33
+Logo_commercial_variation
+  Logo_flaming_ring  25
+  Logo_pernu  25
+  Logo_mariina  25
+  Logo_lizard  25
+  Logo_bowling  25
+  Logo_barber  25
+  Logo_silky  25
+Logo_industrial_variation
+  Logo_square_packages  33
+  Logo_williams  33
+  Logo_rapido  33
+  Logo_sports  33
+  Logo_silky  33
+  Logo_plastimold  33
+  Logo_rapido  33
+logo_office_random
+  Logo_itsy_bitsy  33
+  Logo_fault_tec  33
+  logo_thelawaccounting  33
+  Logo_greed_grief  33
+  Logo_news  33
+  Logo_loimu  33
+  logo_orlysbookstore  33
+  Logo_sunnygrain  33
+  Logo_radio  33
+  logo_myrtlebio  33
+  Logo_sports  33
+billboard_big_Fallout
+  Park Billboard Large 01  75
+billboard_big_Furniture
+  Amusement Park Billboard Large 01  75
+billboard_big_realestate
+  Park Billboard Large 01  75
+billboard_big_Sparkly
+  Zoo Billboard Large 01  75
+billboard_big_Sparkly_01
+  Festival Billboard Big 01  75
+animated_billboard_big_anim_variation
+  Nightwatch_billboard_big_anim  25
+  jubilee_billboard_big_anim  50
+Random Street Prop
+  Electricity Box  25
+  Fire Hydrant  25
+  Info Terminal  15
+  Parking Meter  35
+Random Street Prop NoParking
+  Electricity Box  40
+  Fire Hydrant  40
+  Info Terminal  20
+Flower pot random
+  Flower pot 01  34
+  Flower pot 02  33
+  Flower pot 03  33
+High Flower Pot random
+  High Flower Pot 01  34
+  High Flower Pot 02  34
+  High Flower Pot 03  34
+Rock 01
+  Rock 02  13
+  Rock 03  13
+  Rock 04  13
+  Rock 05  13
+  Rock 06  12
+  Rock 07  12
+  Rock 08  12
+Snowman Random
+  Snowman01  34
+  Snowman02  33
+  Snowman03  33
+Path Grass 01
+  Path Grass 02  33
+  Path Grass 03  33
+Path Rock 01
+  Path Rock 02  25
+  Path Rock 03  25
+  Path Rock 04  25
+Waymarker 01
+  Waymarker 02  20
+  Waymarker 03  30
+  Waymarker 04  20
+Path Rock Small 01
+  Path Rock Small 02  25
+  Path Rock Small 03  25
+  Path Rock Small 04  25
+Random Industrial Street Prop
+  Electricity Box  50
+  Fire Hydrant  50

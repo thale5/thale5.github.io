@@ -1,0 +1,862 @@
+
+Europe Props
+  beergarden_bench                                               Beautification L1
+  beergarden_sign                                                None L1
+  bicycle_stand                                                  None L1
+  flag_pole                                                      None L1
+  kiosk_01                                                       Beautification L1
+  kiosk_02                                                       Beautification L1
+  kiosk_03                                                       Beautification L1
+  rider_statue                                                   Beautification L1
+  streetclock                                                    Beautification L1
+  video_screen                                                   None L1
+  billboard_pylon                                                None L1
+  shopping_cart                                                  None L1
+  shopping_cart_shelter                                          None L1
+  billboard01                                                    None L1
+  billboard02                                                    None L1
+  billboard03                                                    None L1
+  cityad01                                                       None L1
+  cityad02                                                       None L1
+  roofad01                                                       None L1
+  roofad02                                                       None L1
+  roofad03                                                       None L1
+  roofad04                                                       None L1
+  roofad05                                                       None L1
+  roofad06                                                       None L1
+  roofad07                                                       None L1
+  roofad08                                                       None L1
+  roofad09                                                       None L1
+  roofad10                                                       None L1
+  roofad11                                                       None L1
+  roofad12                                                       None L1
+  sliding_ad01                                                   None L1
+  sliding_ad02                                                   None L1
+  street_ad01                                                    None L1
+  street_ad02                                                    None L1
+  street_ad03                                                    None L1
+  street_ad04                                                    None L1
+  street_ad05                                                    None L1
+  street_ad06                                                    None L1
+  street_ad07                                                    None L1
+  wall_ad01                                                      None L1
+  wall_ad02                                                      None L1
+  wall_ad03                                                      None L1
+  wall_ad04                                                      None L1
+  wall_ad05                                                      None L1
+  wall_ad06                                                      None L1
+  flag_pole_wall                                                 None L1
+
+Common
+  Garbage Bin                                                    Garbage L1
+  Parking Spaces 01                                              None L1
+  Ac box 01                                                      None L1
+  Bench 01                                                       Beautification L1
+  Flowerpot 04                                                   Beautification L1
+  Barrel 01                                                      None L1
+  Barrels                                                        None L1
+  Cable reel 01                                                  None L1
+  Cable reel 02                                                  Beautification L1
+  Concrete block 01                                              None L1
+  Concrete support                                               None L1
+  Crate 01                                                       None L1
+  Crate pile                                                     None L1
+  Plank pile                                                     None L1
+  Plank stack                                                    None L1
+  Trash container 01                                             None L1
+  Trashpile                                                      None L1
+  Ac box 02                                                      None L1
+  Ac box 03                                                      None L1
+  Ac box random                                                  None L1 variations
+  Microwave antenna                                              None L1
+  Radio mast                                                     None L1
+  Rooftop access 01                                              None L1
+  Rooftop access 02                                              None L1
+  Rooftop access 03                                              None L1
+  Rooftop access random                                          None L1 variations
+  Rooftop window 01                                              None L1
+  Rooftop window 02                                              None L1
+  Rooftop window 03                                              None L1
+  Rooftop window random                                          None L1 variations
+  Rotating ac                                                    None L1
+  Solar panel 01                                                 None L1
+  Solar panel 02                                                 None L1
+  Solar panel 03                                                 None L1
+  Wifi antenna                                                   None L1
+  combustion plant roof platform                                 None L1
+  High Bench                                                     Beautification L1
+  Vending machine                                                None L1
+  Factory Smoke                                                  None L1
+  StreetLamp01 1                                                 Beautification L1
+  StreetLamp02                                                   Beautification L1
+  Large Fountain                                                 Beautification L1
+  Small Fountain                                                 Beautification L1
+  TrashCan01                                                     Beautification L1
+  TrashCan02                                                     Beautification L1
+  high-seesaw                                                    Beautification L1
+  high-slide-complex                                             Beautification L1
+  high-spinning-wheel                                            Beautification L1
+  Pavilion                                                       Beautification L1
+  seesaw                                                         Beautification L1
+  slide-complex                                                  Beautification L1
+  spinning-wheel                                                 Beautification L1
+  Door Marker                                                    None L1
+  Invisible Parking Space                                        None L1
+  Hang Around Marker                                             None L1
+  Large Hang Around Marker                                       None L1
+  industrial_gate                                                None L1
+  industrial_fence                                               None L1
+  Industrial random                                              None L1 variations
+  Slanted rooftop window 01                                      None L1
+  Slanted rooftop window 02                                      None L1
+  Slanted rooftop window 03                                      None L1
+  Garden_pot                                                     Beautification L1
+  Factory Smoke Small                                            None L1
+  Factory Steam                                                  None L1
+  Cargo container                                                None L1
+  logo_tyrell                                                    None L1
+  Parking Spaces 02                                              None L1
+  Flood Light White                                              None L1
+  Flood Light Blue                                               None L1
+  Light Pole Red                                                 None L1
+  Light Pole Orange                                              None L1
+  Warning Light Red                                              None L1
+  Warning Light Orange                                           None L1
+  Flood Light Down Blue                                          None L1
+  Flood Light Down Orange                                        None L1
+  Flood Light Down Red                                           None L1
+  Flood Light Down White                                         None L1
+  Flood Light Orange                                             None L1
+  Flood Light Red                                                None L1
+  Flood Light Wall Blue                                          None L1
+  Flood Light Wall White                                         None L1
+  Flood Light Wall Orange                                        None L1
+  Flood Light Wall Red                                           None L1
+  Flood Light Floor Red                                          None L1
+  Flood Light Floor White                                        None L1
+  Wall Light Orange                                              None L1
+  Wall Light White                                               None L1
+  Fire Camp                                                      None L1
+  Pool Steam                                                     None L1
+  Enter Only Door Marker                                         None L1
+  Exit Only Door Marker                                          None L1
+  Invisible Helipad Marker                                       None L1
+  Destroyed Props Random                                         Disaster L1 variations
+  Dirt Pile 01                                                   Disaster L1
+  Dirt Pile 02                                                   Disaster L1
+  Dirt Pile 03                                                   Disaster L1
+  Congrete Debree 01                                             Disaster L1
+  Congrete Debree 02                                             Disaster L1
+  Congrete Debree 03                                             Disaster L1
+  Trash Pile 01                                                  Disaster L1
+  Trash Pile 02                                                  Disaster L1
+  Trash Pile 03                                                  Disaster L1
+  Trash Pile 04                                                  Disaster L1
+  Trash Pile 05                                                  Disaster L1
+  Destroyed Decal 01                                             None L1
+  Destroyed Decal 02                                             None L1
+  Destroyed Decal 03                                             None L1
+  Destroyed Decal 04                                             None L1
+  Destroyed Vehicle 01                                           Disaster L1
+  Destroyed Vehicle 02                                           Disaster L1
+  Destroyed Vehicle 03                                           Disaster L1
+  Congrete Debree Large 01                                       Disaster L1
+  Congrete Debree Large 02                                       Disaster L1
+  Congrete Debree Large 03                                       Disaster L1
+  Congrete Rock Pile 01                                          Disaster L1
+  Congrete Rock Pile 02                                          Disaster L1
+  Congrete Rock Pile 03                                          Disaster L1
+  Wood Pile 01                                                   Disaster L1
+  Wood Pile 02                                                   Disaster L1
+  Wood Pile 03                                                   Disaster L1
+  Destroyed Road Props Random                                    Road L2 variations
+  Destroyed Road Decal 02                                        Road L2
+  Destroyed Road Decal 03                                        Road L2
+  Destroyed Road Decal 04                                        Road L2
+  Destroyed Road Dirt 01                                         Road L2
+  Destroyed Road Dirt 02                                         Road L2
+  Destroyed Road Prop 01                                         Road L2
+  Destroyed Road Prop 02                                         Road L2
+  Destroyed Road Prop 03                                         Road L2
+  Destroyed Road Prop 04                                         Road L2
+  Roof Vegetation 01                                             None L1
+  Roof Vegetation 02                                             None L1
+  Roof Vegetation 03                                             None L1
+  Roof Vegetation 04                                             None L1
+  Roof Vegetation 05                                             None L1
+  Roof Vegetation 06                                             None L1
+  Roof Vegetation 07                                             None L1
+  Roof Vegetation 08                                             None L1
+  Plant Pot 01                                                   None L1
+  Beehive 01                                                     None L1
+  Birdhouse 01                                                   None L1
+  Eco Street Lamp 01                                             None L1
+  Horizontal Solar Panel 01                                      None L1
+  Horizontal Solar Panel 02                                      None L1
+  Large Recycling Container 01                                   None L1
+  Large Recycling Container 02                                   None L1
+  Modern Table Set 01                                            None L1
+  Small Recycling Container 01                                   None L1
+  Small Recycling Container 02                                   None L1
+  Small Recycling Container 03                                   None L1
+  Plant Pot 02                                                   None L1
+  Plant Pot 03                                                   None L1
+  Plant Pot 04                                                   None L1
+  Plant Pot 05                                                   None L1
+  Plant Pot 06                                                   None L1
+  Motorboat 01                                                   None L1
+  Motorboat 02                                                   None L1
+  Organic Shop 3d Sign 03                                        None L1
+  Parking Space                                                  None L1
+  Parking Space Electric                                         None L1
+  Organic Shop 3d Sign 02                                        None L1
+  Organic Shop Medium Billboard 01                               None L1
+  Organic Shop Medium Billboard 02                               None L1
+  Organic Shop Medium Billboard 03                               None L1
+  Organic Shop Medium Billboard 04                               None L1
+  Organic Shop Medium Billboard 05                               None L1
+  Organic Shop Medium Billboard 06                               None L1
+  Organic Shop Small Billboard 01                                None L1
+  Organic Shop Small Billboard 02                                None L1
+  Organic Shop Small Billboard 03                                None L1
+  Organic Shop Small Billboard 04                                None L1
+  Organic Shop Small Billboard 05                                None L1
+  Organic Shop Small Billboard 06                                None L1
+  Organic Shop 3d Sign 04                                        None L1
+  Organic Shop 3d Sign 01                                        None L1
+  Modern Fence 01                                                None L1
+  Modern Fence 02                                                None L1
+  Hightech Industrial Logo 01                                    None L1
+  Hightech Industrial Logo 02                                    None L1
+  Hightech Industrial Logo 03                                    None L1
+  Hightech Industrial Logo 04                                    None L1
+  Hightech Industrial Logo 05                                    None L1
+  Hightech Industrial Logo 06                                    None L1
+  Hightech Industrial Small Billboard 01                         None L1
+  Hightech Industrial Small Billboard 02                         None L1
+  Hightech Industrial Small Billboard 03                         None L1
+  Hightech Industrial Small Billboard 04                         None L1
+  Hightech Industrial Medium Billboard 01                        None L1
+  Hightech Industrial Medium Billboard 02                        None L1
+  Hightech Industrial Medium Billboard 03                        None L1
+  Hightech Industrial Medium Billboard 04                        None L1
+  Hightech Industrial Logo Random                                None L1 variations
+  Hightech Industrial Medium Billboard Random                    None L1 variations
+  Hightech Industrial Small Billboard Random                     None L1 variations
+  Organic Shop Medium Billboard Random                           None L1 variations
+  Organic Shop Small Billboard Random                            None L1 variations
+  Organic Shop Small Billboard 07                                None L1
+  Organic Shop Medium Billboard 07                               None L1
+  Wall Vegetation 01                                             None L1
+  Wall Vegetation 02                                             None L1
+  Wall Vegetation 03                                             None L1
+  Wall Vegetation 04                                             None L1
+  Hanging Vegetation 01                                          None L1
+  Hanging Vegetation 02                                          None L1
+  Hanging Vegetation 03                                          None L1
+  Hanging Vegetation 04                                          None L1
+  Air Source Heat Pump 01                                        None L1
+  Air Source Heat Pump 02                                        None L1
+  Roof Walkway 01                                                None L1
+  Ventilation Pipe 01                                            None L1
+  Ventilation Pipe 02                                            None L1
+  Roof Walkway 02                                                None L1
+  Wall Vegetation 05                                             None L1
+  Wall Vegetation 06                                             None L1
+  Wall Vegetation 07                                             None L1
+  Wall Vegetation 08                                             None L1
+  Wall Vegetation 09                                             None L1
+  Large Pool Steam                                               None L1
+  Flowerbed 01                                                   Beautification L1
+  Flowerbed 02                                                   Beautification L1
+  Flowerbed 03                                                   Beautification L1
+  Flowerbed 04                                                   Beautification L1
+  Food Stall 01                                                  Beautification L1
+  Food Stall 02                                                  Beautification L1
+  Hedge 01                                                       Beautification L1
+  Hedge 02                                                       Beautification L1
+  Ice Cream Kiosk                                                Beautification L1
+  Old Cannon 01                                                  Beautification L1
+  Park Bench 01                                                  Beautification L1
+  Park Bench 02                                                  Beautification L1
+  Park Billboard Large 01                                        None L1
+  Park Billboard Medium 01                                       None L1
+  Park Sign 01                                                   Beautification L1
+  Park Sign 02                                                   Beautification L1
+  Park Streetlight 01                                            Beautification L1
+  Park Tableset 01                                               Beautification L1
+  Park Tableset 02                                               Beautification L1
+  Park Trashbin 01                                               Beautification L1
+  Park Trashbin 02                                               Beautification L1
+  Sandbox 01                                                     Beautification L1
+  Sandbox 02                                                     Beautification L1
+  Flood Light Blue2                                              None L1
+  Flood Light Down Blue2                                         None L1
+  Flood Light Wall Blue2                                         None L1
+  Flood Light Down Green                                         None L1
+  Flood Light Green                                              None L1
+  Flood Light Wall Green                                         None L1
+  Flood Light Down Pink                                          None L1
+  Flood Light Pink                                               None L1
+  Flood Light Wall Pink                                          None L1
+  Flood Light Down Turquoise                                     None L1
+  Flood Light Turquoise                                          None L1
+  Flood Light Wall Turquoise                                     None L1
+  Dust Marker 01                                                 None L1
+  Ore Debris Marker 01                                           None L1
+  Sand Debris Marker 01                                          None L1
+
+Billboards
+  Bigbite sign                                                   None L1
+  Rotating_squirrel                                              None L1
+  Billboard_big_go_nuts                                          None L1 variations
+  Billboard_big_jubilee                                          None L1
+  Billboard_big_popsoda                                          None L1
+  Billboard_big_yakisoba                                         None L1 variations
+  Clown                                                          None L1
+  Billboard_big_yaxu                                             None L1 variations
+  Billboard_big_jubilee_01                                       None L1 variations
+  Billboard_big_popsoda_01                                       None L1 variations
+  Billboard_big_bigbite                                          None L1 variations
+  Billboard_big_go_nuts_01                                       None L1 variations
+  Billboard_big_yaxu_01                                          None L1 variations
+  Billboard_big_yakisoba_01                                      None L1 variations
+  Billboard_big_popsoda_02                                       None L1
+  Billboard_big_jubilee_02                                       Beautification L1
+  Billboard_big_bigbite_01                                       None L1 variations
+  Billboard_big_bigbite_02                                       None L1 variations
+  Billboard_big_go_nuts_02                                       None L1 variations
+  Billboard_big_popsoda_03                                       None L1
+  Billboard_big_yakisoba_02                                      None L1
+  Billboard_big_yaxu_02                                          None L1
+  Billboard_big_bigbite_03                                       None L1
+  Billboard_big_go_nuts_03                                       None L1
+  Billboard_big_jubilee_03                                       None L1
+  Billboard_big_yakisoba_03                                      None L1
+  Billboard_big_yaxu_03                                          None L1
+  Rotating_morelloscone                                          None L1
+  Billboard_3D_variation                                         None L1 variations
+  Logo_flaming_ring                                              None L1
+  Logo_itsy_bitsy                                                None L1
+  Logo_jubilee                                                   None L1
+  Logo_burned_bean                                               Beautification L1
+  Logo_pernu                                                     None L1
+  Logo_cinema                                                    None L1
+  Logo_aukio                                                     None L1
+  Logo_greed_grief                                               None L1
+  Logo_loimu                                                     None L1
+  Logo_nightwatch                                                None L1
+  Logo_square_packages                                           None L1
+  Logo_steel_rhino                                               None L1
+  Logo_sternberger                                               None L1
+  Billboard_small_go_nuts_01                                     None L1
+  Billboard_small_go_nuts_02                                     None L1
+  Billboard_small_go_nuts_03                                     None L1
+  Billboard_small_lehto_01                                       None L1
+  Billboard_small_lehto_02                                       None L1
+  Billboard_small_lehto_03                                       None L1
+  Billboard_small_meaty_01                                       None L1
+  Billboard_small_meaty_02                                       None L1
+  Billboard_small_meaty_03                                       None L1
+  Billboard_small_nightwatch_01                                  None L1
+  Billboard_small_nightwatch_02                                  None L1
+  Billboard_small_nightwatch_03                                  None L1
+  Billboard_small_silky_01                                       None L1
+  Billboard_small_silky_02                                       None L1
+  Billboard_small_silky_03                                       None L1
+  Billboard_small_variation_01                                   None L1 variations
+  Billboard_small_variation_02                                   None L1 variations
+  Billboard_small_variation_03                                   None L1 variations
+  Logo_banhammer                                                 None L1
+  Logo_bowling                                                   None L1
+  Logo_lizard                                                    None L1
+  Logo_plastimold                                                None L1
+  Logo_radio                                                     None L1
+  Logo_rapido                                                    None L1
+  Logo_silky                                                     None L1
+  Logo_barber                                                    None L1
+  Logo_electricity                                               None L1
+  Logo_sports                                                    None L1
+  Logo_news                                                      None L1
+  Logo_williams                                                  None L1
+  Logo_fault_tec                                                 None L1
+  Billboard_medium_flat_bigbite_01                               None L1 variations
+  Billboard_medium_flat_bigbite_02                               None L1 variations
+  Billboard_medium_flat_go_nuts_01                               None L1 variations
+  Billboard_medium_flat_go_nuts_02                               None L1 variations
+  Billboard_medium_flat_variation_01                             None L1 variations
+  Logo_sunnygrain                                                None L1
+  Octopus                                                        None L1
+  Logo_neckbeard                                                 None L1
+  Billboard_silky_anim                                           None L1
+  Billboard_lehto_anim                                           None L1
+  Logo_dino                                                      Beautification L1
+  Billboard_critter_anim                                         Beautification L1
+  Billboard_pop_soda_anim                                        None L1
+  Billboard_big_variation_03                                     None L1 variations
+  Billboard_big_variation_01                                     None L1 variations
+  Billboard_big_variation_02                                     None L1 variations
+  Billboard_big_variation_04                                     None L1 variations
+  Billboard_big_variation                                        None L1 variations
+  Logo_commercial_variation01                                    None L1 variations
+  Logo_commercial_variation                                      Beautification L1 variations
+  logo_thelawaccounting                                          None L1
+  logo_radiclean                                                 None L1
+  logo_orlysbookstore                                            None L1
+  logo_myrtlebio                                                 None L1
+  logo_morellos                                                  None L1
+  logo_meatybits                                                 None L1
+  logo_mattockwinch                                              None L1
+  Logo_mariina                                                   None L1
+  logo_forestfoundation                                          None L1
+  logo_dobbelbock                                                None L1
+  logo_colossalore                                               None L1
+  Logo_industrial_variation                                      None L1 variations
+  logo_office_random                                             None L1 variations
+  billboard_big_Fallout                                          None L1 variations
+  billboard_big_Fallout_01                                       None L1
+  billboard_big_Fallout_02                                       None L1
+  billboard_big_Fallout_03                                       None L1
+  billboard_big_Furniture                                        None L1 variations
+  billboard_big_Furniture_01                                     None L1
+  billboard_big_Furniture_02                                     None L1
+  billboard_big_Furniture_03                                     None L1
+  billboard_big_realestate                                       None L1 variations
+  billboard_big_realestate_01                                    None L1
+  billboard_big_Realestate_02                                    None L1
+  billboard_big_realestate_03                                    None L1
+  billboard_big_Sparkly                                          None L1 variations
+  billboard_big_Sparkly_01                                       None L1 variations
+  billboard_big_Sparkly_02                                       None L1
+  billboard_big_Sparkly_03                                       None L1
+  neon-andys-bowling-alley                                       None L1
+  neon-burned-bean-coffee                                        None L1
+  neon-flaming-ring                                              None L1
+  neon-go-nuts-doughnuts                                         None L1
+  neon-morellos                                                  None L1
+  neon-open-sign                                                 None L1
+  neon-yakisoba-noodles                                          None L1
+  Nightwatch_billboard_big_anim                                  None L1
+  burnedbean_billboard_big_anim                                  None L1
+  animated_billboard_big_anim_variation                          None L1 variations
+  jubilee_billboard_big_anim                                     None L1
+  neon-pinkunicorn                                               None L1
+
+Road
+  Road Arrow F                                                   Road L2
+  Road Arrow FR                                                  Road L2
+  Road Arrow L                                                   Road L2
+  Road Arrow LF                                                  Road L2
+  Road Arrow LFR                                                 Road L2
+  Road Arrow LR                                                  Road L2
+  Road Arrow R                                                   Road L2
+  Bus Stop Large                                                 PublicTransport PublicTransportBus L1
+  Bus Stop Small                                                 PublicTransport PublicTransportBus L1
+  Traffic Light 01                                               Road L4
+  Traffic Light 02                                               Road L4
+  30 Speed Limit                                                 Road L2
+  40 Speed Limit                                                 Road L3
+  50 Speed Limit                                                 Road L3
+  60 Speed Limit                                                 Road L4
+  100 Speed Limit                                                Road L4
+  Motorway Overroad Signs                                        Road L5
+  Motorway Sign                                                  Road L5
+  No Left Turn Sign                                              Road L3
+  No Parking Sign                                                Road L3
+  No Right Turn Sign                                             Road L3
+  Street Name Sign                                               Road L2
+  New Street Light                                               Road L2
+  Avenue Light                                                   Road L3
+  Highway Light                                                  Road L5
+  Traffic Light 01 Mirror                                        Road L4
+  Traffic Light 02 Mirror                                        Road L4
+  Traffic Light Pedestrian                                       Road L4
+  Electricity Box                                                Road L2
+  Fire Hydrant                                                   Road L2
+  Info Terminal                                                  Road L2
+  Parking Meter                                                  Road L2
+  Random Street Prop                                             Road L2 variations
+  Manhole                                                        Road L2
+  Random Street Prop NoParking                                   Road L2 variations
+  New Street Light Highway                                       Road L2
+  New Street Light Small Road                                    Road L2
+  Tunnel Light Small Road                                        None L1
+  Tunnel Light Medium Road                                       None L1
+  Tunnel Light Large Road                                        None L1
+  Tunnel Light Highway                                           None L1
+  Bus Lane                                                       Road L2
+  New Street Light Avenue                                        Road L2
+  Stop Sign                                                      Road L4
+  Sightseeing Bus Stop Large                                     PublicTransport PublicTransportBus L1
+  Sightseeing Bus Stop Small                                     PublicTransport PublicTransportBus L1
+  Toll Boom Barrier                                              None L1
+  Toll Booth Large                                               None L1
+  Toll Booth Large Mirrored                                      None L1
+  Toll Booth Small                                               None L1
+  Toll Road Light Double                                         Road L3
+  Toll Road Light Single                                         Road L3
+  Road Decal Slow                                                Road L2
+
+Beautification
+  Bison Marker                                                   None L1
+  Moose Marker                                                   None L1
+
+Public Transport
+  Airport Light                                                  PublicTransport PublicTransportPlane L1
+  ILS Building                                                   PublicTransport PublicTransportPlane L1
+  Luggage Car                                                    PublicTransport PublicTransportPlane L1
+  Taxiway Light                                                  PublicTransport PublicTransportPlane L1
+  Taxiway Sign 01                                                PublicTransport PublicTransportPlane L1
+  Taxiway Sign 02                                                PublicTransport PublicTransportPlane L1
+  Windsock                                                       PublicTransport PublicTransportPlane L1
+  RailwayPowerline                                               PublicTransport PublicTransportTrain L1
+  Railway Crossing Short                                         PublicTransport PublicTransportTrain L1
+  Railway Crossing Long                                          PublicTransport PublicTransportTrain L1
+  Railway Crossing Medium                                        PublicTransport PublicTransportTrain L1
+  Railway Crossing Very Long                                     PublicTransport PublicTransportTrain L1
+  Railway Buffer                                                 PublicTransport PublicTransportTrain L1
+  Runway Light                                                   PublicTransport PublicTransportPlane L1
+  RailwayPowerline Singular                                      PublicTransport PublicTransportTrain L1
+  Train Caution Sign Right                                       PublicTransport PublicTransportTrain L1
+  Train Caution Sign Left                                        PublicTransport PublicTransportTrain L1
+
+Replaced Stuff
+  Swimming pool                                                  Residential ResidentialHigh L1
+  High swimming pool                                             Residential ResidentialHigh L1
+  parasol                                                        Residential ResidentialLow L1
+  High Parasol                                                   Residential ResidentialHigh L1
+  deck-chair                                                     Residential ResidentialLow L1
+  High deck chair                                                Residential ResidentialHigh L1
+  High Flower Pot 01                                             Residential ResidentialHigh L1
+  High Flower Pot 02                                             Residential ResidentialHigh L1
+  High Flower Pot 03                                             Residential ResidentialHigh L1
+  Tiles                                                          None L1
+  High-Tiles                                                     None L1
+  hedge                                                          None L1
+  hedge2                                                         None L1
+  Asphalt_old                                                    None L1
+
+Residential Props
+  Mailbox01                                                      Beautification L1
+  grill                                                          Residential ResidentialLow L1
+  table-set                                                      Residential ResidentialLow L1
+  mailbox02                                                      Residential ResidentialLow L1
+  Bird bath                                                      Residential ResidentialLow L1
+  Doghouse                                                       Residential ResidentialLow L1
+  Flower pot 01                                                  Residential ResidentialLow L1
+  Flower pot 02                                                  Residential ResidentialLow L1
+  Flower pot 03                                                  Residential ResidentialLow L1
+  Flower pot random                                              Residential ResidentialLow L1 variations
+  Satellite                                                      None L1
+  High Birdbath                                                  Residential ResidentialHigh L1
+  High Doghouse                                                  Residential ResidentialHigh L1
+  High Flower Pot random                                         Residential ResidentialHigh L1 variations
+  High Grill                                                     Residential ResidentialHigh L1
+  High Mailbox                                                   Residential ResidentialHigh L1
+  High Sandbox                                                   Residential ResidentialHigh L1
+  High Swing set                                                 Residential ResidentialHigh L1
+  High Tableset                                                  Residential ResidentialHigh L1
+  sandbox                                                        Residential ResidentialLow L1
+  swing-set                                                      Residential ResidentialLow L1
+
+Landscaping
+  Rock 01                                                        Beautification L1 variations
+  Rock 02                                                        Beautification L1
+  Rock 03                                                        Beautification L1
+  Rock 04                                                        Beautification L1
+  Rock 05                                                        Beautification L1
+  Rock 06                                                        Beautification L1
+  Rock 07                                                        Beautification L1
+  Rock 08                                                        Beautification L1
+  Standing Stone 01                                              Beautification L1
+  Standing Stone 02                                              Beautification L1
+  Standing Stone 03                                              Beautification L1
+  Standing Stone 04                                              Beautification L1
+  Standing Stone 05                                              Beautification L1
+  Standing Stone 06                                              Beautification L1
+  Abandoned Car 01                                               Beautification L1
+  Abandoned Car 02                                               Beautification L1
+  Fallen Tree 01                                                 Beautification L1
+  Fallen Tree 02                                                 Beautification L1
+  Fallen Tree 03                                                 Beautification L1
+  Fallen Tree 04                                                 Beautification L1
+  High Vegetation 01                                             Beautification L1
+  High Vegetation 02                                             Beautification L1
+  High Vegetation 03                                             Beautification L1
+  High Vegetation 04                                             Beautification L1
+  Low Vegetation 01                                              Beautification L1
+  Low Vegetation 02                                              Beautification L1
+  Low Vegetation 03                                              Beautification L1
+  Low Vegetation 04                                              Beautification L1
+  Low Vegetation 06                                              Beautification L1
+  Low Vegetation 07                                              Beautification L1
+  Low Vegetation 08                                              Beautification L1
+  High Vegetation 05                                             Beautification L1
+  High Vegetation 06                                             Beautification L1
+  High Vegetation 07                                             Beautification L1
+  High Vegetation 08                                             Beautification L1
+  Low Vegetation 05                                              Beautification L1
+
+Preorder Pack
+  Basketball Court Decal                                         None L1
+  Botanical garden flowers                                       None L1
+  Botanical garden fountain                                      None L1
+  dog-park-a-frame                                               None L1
+  dog-park-hoop                                                  None L1
+  dog-park-sign                                                  None L1
+  dog-park-teeter-totter                                         None L1
+  dog-park-trash-can                                             None L1
+  dog-park-water-station                                         None L1
+
+Expansion 1
+  Bike Lane                                                      Road L2
+  Prison fence                                                   None L1
+  Prison fence long                                              None L1
+  Basketball hoop                                                Residential ResidentialLow L1
+  Prison table                                                   Residential ResidentialLow L1
+  Weighlifting bench                                             Residential ResidentialLow L1
+  taxi_stand                                                     PublicTransport PublicTransportTaxi L1
+  Riding Stable Fence Long                                       None L1
+  Riding Stable Fence Short                                      None L1
+  Jetski                                                         None L1
+  motorboat01a                                                   None L1
+  motorboat01b                                                   None L1
+  motorboat02                                                    None L1
+  Bike Middle                                                    Road L2
+  Hologram Ad Game Arcade                                        None L1
+  houseboat                                                      None L1
+  Beachvolley Court Decal                                        None L1
+  Yacht                                                          None L1
+
+Expansion 2
+  Tram Pole Side                                                 Road L2
+  Ice Decal                                                      None L1
+  Snow Decal                                                     None L1
+  Tram Pole Center                                               Road L2
+  Tram Stop                                                      PublicTransport PublicTransportTram L1
+  Tram Stop Sign                                                 PublicTransport PublicTransportTram L1
+  Snowman01                                                      None L1
+  Snowman02                                                      None L1
+  Snowman03                                                      None L1
+  Rustic_Table                                                   None L1
+  Snowman Random                                                 None L1 variations
+  Snowmobile                                                     None L1
+  Reindeer_Fence                                                 None L1
+  Ice_Bench                                                      None L1
+  Christmas_Tree_Prop                                            None L1
+  Tram Arrow                                                     Road L2
+
+Expansion 3
+  Chainlink Fence 8m                                             None L1
+  Chainlink Fence 16m                                            None L1
+  Chainlink Fence Gate                                           None L1
+  Road Block                                                     None L1
+  Safety Barrier                                                 None L1
+  Cargo container - disaster response unit                       None L1
+
+Expansion 4
+  Paddle Car 01                                                  None L1
+  Paddle Car 02                                                  None L1
+  Nautical Marker                                                PublicTransport PublicTransportShip L2
+  Monorail Pylon Small                                           PublicTransport PublicTransportMonorail L1
+  Lifebuoy                                                       None L1
+  Rubber Tire Row                                                None L1
+  Passenger Ramp                                                 None L1
+  Ferry Sign                                                     None L1
+  Pier Rope Pole                                                 None L1
+  Ferry Info Sign                                                None L1
+  Monorail Pylon Small 2                                         PublicTransport PublicTransportMonorail L1
+  Monorail Pylon Small 2 Narrow                                  PublicTransport PublicTransportMonorail L1
+  Monorail Pylon Small Elevated                                  PublicTransport PublicTransportMonorail L1
+
+Expansion 5 - Summer Only
+
+Expansion 6
+  Well 01                                                        Beautification L1
+  Outhouse 01                                                    Beautification L1
+  Path Grass 02                                                  Beautification L1
+  Path Grass 03                                                  Beautification L1
+  Path Grass 01                                                  Beautification L1 variations
+  Path Rock 01                                                   Beautification L1 variations
+  Path Rock 02                                                   Beautification L1
+  Path Rock 03                                                   Beautification L1
+  Path Rock 04                                                   Beautification L1
+  Waymarker 01                                                   Beautification L1 variations
+  Waymarker 02                                                   Beautification L1
+  Waymarker 03                                                   Beautification L1
+  Waymarker 04                                                   Beautification L1
+  Folding Chair 01                                               Beautification L1
+  Folding Chair 02                                               Beautification L1
+  Nature Reserve Bench 01                                        Beautification L1
+  Nature Reserve Sign 01                                         Beautification L1
+  Nature Reserve Sign 02                                         Beautification L1
+  Nature Reserve Tableset 01                                     Beautification L1
+  Nature Reserve Tableset 02                                     Beautification L1
+  Amusement Bench 01                                             Beautification L1
+  Amusement Park Fence Queue                                     Beautification L1
+  Amusement Park Fence Small 8m                                  Beautification L1
+  Amusement Park Fence Small 16m                                 Beautification L1
+  Amusement Park Sign 01                                         Beautification L1
+  Amusement Park Sign 02                                         Beautification L1
+  Amusement Park Tableset 01                                     Beautification L1
+  Firewood Rack 01                                               Beautification L1
+  Balloon Cart 01                                                Beautification L1
+  Cotton Candy Cart 01                                           Beautification L1
+  Coin Game 01                                                   Beautification L1
+  Coin Game 02                                                   Beautification L1
+  Dolphin Marker                                                 None L1
+  Kayak 01                                                       Beautification L1
+  Kayak 02                                                       Beautification L1
+  Childrens Ride 01                                              Beautification L1
+  Childrens Ride 02                                              Beautification L1
+  Reindeer Marker                                                None L1
+  Public Binoculars 01                                           Beautification L1
+  Nature Reserve Billboard Large 01                              None L1
+  Nature Reserve Billboard Medium 01                             None L1
+  Nature Reserve Streetlight 01                                  Beautification L1
+  Antelope Enclosure Fence 8m                                    None L1
+  Antelope Enclosure Fence 16m                                   None L1
+  Antelope Enclosure Fence Corner                                None L1
+  Antelope Enclosure Gate                                        None L1
+  Antelope Enclosure Tree Cage                                   None L1
+  Whale Marker                                                   None L1
+  Elephant Marker                                                None L1
+  Bison Enclosure Fence 8m                                       None L1
+  Tourist Attraction Stop Nature Reserve                         Beautification L1
+  Tourist Attraction Stop Park                                   Beautification L1
+  Zoo Streetlight 01                                             Beautification L1
+  Tourist Attraction Stop Amusement Park                         Beautification L1
+  Zoo Bench 01                                                   Beautification L1
+  Amusement Park Streetlight 01                                  Beautification L1
+  Amusement Park Billboard Large 01                              None L1
+  Amusement Park Billboard Medium 01                             None L1
+  Antelope Marker                                                None L1
+  Rhino Marker                                                   None L1
+  Clock Tower Clock                                              None L1
+  Zoo Tableset 01                                                Beautification L1
+  Zoo Sign 01                                                    Beautification L1
+  Zoo Billboard Large 01                                         None L1
+  Zoo Billboard Medium 01                                        None L1
+  Tourist Attraction Stop Zoo                                    Beautification L1
+  Zoo Sign 02                                                    Beautification L1
+  Giraffe Enclosure Feeding Pole                                 None L1
+  Chimpanzee Marker                                              None L1
+  Flamingo Marker                                                None L1
+  Giraffe Marker                                                 None L1
+  Gorilla Marker                                                 None L1
+  Lion Marker                                                    None L1
+  Manta Ray Marker                                               None L1
+  Swan Marker                                                    None L1
+  Firework Launcher                                              None L1
+  Path Rock Small 01                                             Beautification L1 variations
+  Path Rock Small 02                                             Beautification L1
+  Path Rock Small 03                                             Beautification L1
+  Path Rock Small 04                                             Beautification L1
+
+Expansion 6 - Sunny Only
+  Park Tiles 01                                                  Beautification L1
+  Amusement Park Tiles 01                                        Beautification L1
+  Nature Reserve Ground Tiles 01                                 Beautification L1
+  Zoo Ground Tiles 01                                            Beautification L1
+
+Expansion 7
+  Post Container 01                                              None L1
+  Delineator 01                                                  Beautification L1
+  Delineator 02                                                  Beautification L1
+  Industry Road Light Double                                     Road L3
+  Industry Road Light Single                                     Road L2
+  Random Industrial Street Prop                                  Road L2 variations
+  Pallet 01                                                      None L1
+  Pallet 02                                                      None L1
+  Pallet 03                                                      None L1
+  Pallet 04                                                      None L1
+  Tank 01                                                        None L1
+  Tank 02                                                        None L1
+  Tank 03                                                        None L1
+  Tank 04                                                        None L1
+  Hay Bale 01                                                    None L1
+  Barrel 02                                                      None L1
+  Barrel 03                                                      None L1
+  Barrel 04                                                      None L1
+  Barrel Pallet 01                                               None L1
+  Barrel Pallet 02                                               None L1
+  Barrel Pallet 03                                               None L1
+  Industry Road Light Single Medium                              Road L2
+  Tunnel Light Industry Road Medium                              None L1
+  Tunnel Light Industry Road Small                               None L1
+  Cow Marker 01                                                  None L1
+  Highland Cow Marker 01                                         None L1
+  Pig Marker 01                                                  None L1
+  Sheep Marker 01                                                None L1
+  Farmer Marker 01                                               None L1
+  Forestry Worker Marker 01                                      None L1
+  Oil Industry Worker Marker 01                                  None L1
+  Ore Industry Worker Marker 01                                  None L1
+  Tree Sapling Field Pot 01                                      None L1
+
+Festival
+  Amp Stack                                                      None L1
+  Bass Amp                                                       None L1
+  Guitar Amp                                                     None L1
+  Guitar Rack                                                    None L1
+  Mic Stand                                                      None L1
+  Pedal Board                                                    None L1
+  Festival Billboard Big 01                                      None L1
+  Festival Billboard Big 02                                      None L1
+  Festival Billboard Medium 01                                   None L1
+  Led Screen 01                                                  None L1
+  Led Screen 02                                                  None L1
+  Led Screen 03                                                  None L1
+  Par Light Horizontal 01                                        None L1
+  Par Light Horizontal 02                                        None L1
+  Par Light Horizontal 03                                        None L1
+  Par Light Horizontal 04                                        None L1
+  Par Light Horizontal 05                                        None L1
+  Par Light Horizontal 06                                        None L1
+  Par Light Horizontal Mirrored 01                               None L1
+  Par Light Horizontal Mirrored 02                               None L1
+  Par Light Horizontal Mirrored 03                               None L1
+  Par Light Horizontal Mirrored 04                               None L1
+  Par Light Horizontal Mirrored 05                               None L1
+  Par Light Horizontal Mirrored 06                               None L1
+  Par Light Vertical 01                                          None L1
+  Par Light Vertical 02                                          None L1
+  Par Light Vertical 03                                          None L1
+  Par Light Vertical 04                                          None L1
+  Par Light Vertical 05                                          None L1
+  Par Light Vertical 06                                          None L1
+  Truss Lightrig 01                                              None L1
+  Truss Lightrig 02                                              None L1
+  Truss Lightrig 03                                              None L1
+  Truss Lightrig 04                                              None L1
+  Truss Lightrig 05                                              None L1
+  Truss Lightrig 06                                              None L1
+  Truss Tower 01                                                 None L1
+  Truss Tower 02                                                 None L1
+  Truss Tower 03                                                 None L1
+  Truss Tower 04                                                 None L1
+  Truss Tower 05                                                 None L1
+  Truss Tower 06                                                 None L1
+
+Modder Pack 3
+  Carport 1                                                      Residential ResidentialLow L1
+  Carport 2                                                      Residential ResidentialLow L1
+  Dormer 1                                                       Residential ResidentialLow L1
+  Dormer 2                                                       Residential ResidentialLow L1
+  Shed 1                                                         Residential ResidentialLow L1
+
+China Pack
+  Bamboo Fence 8m                                                None L1
+  Bamboo Fence Tall 8m                                           None L1
+  Bamboo Fence Gate                                              None L1
+  SteetLampChina                                                 None L1
+  Temple lantern 01                                              None L1
+  Bonsai Pot 01                                                  None L1
+  Bonsai Pot 02                                                  None L1
+  Asian Garden Decoration 02                                     None L1
+  Asian Garden Decoration 01                                     None L1
+  Bamboo Pot 01                                                  None L1
+  Bamboo Pot 02                                                  None L1
+
+Europe Style Services
+  tennis_court_Decal                                             None L1

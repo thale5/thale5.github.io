@@ -1,0 +1,50 @@
+Tractor
+  Tractor Trailer  50
+  Tractor Trailer 02  100
+Ore Truck
+  Ore Truck Trailer  100
+Oil Truck
+  Oil Truck Trailer  100
+Train Engine
+  Train Passenger  100
+  Train Passenger  100
+  Train Passenger  100
+  Train Passenger  100
+  Train Passenger  100
+  Train Passenger  100
+  Train Engine  100
+Metro
+  Metro  100
+  Metro  100
+  Metro  100
+  Metro  100
+  Metro  100
+Train Cargo Engine
+  Train Cargo  100
+  Train Cargo  100
+  Train Cargo  100
+  Train Cargo  100
+  Train Cargo  100
+  Train Cargo  100
+  Train Cargo  100
+  Train Cargo  100
+  Train Cargo  100
+Forestry Truck
+  Forestry Trailer  100
+Tram
+  Tram Middle  100
+  Tram End  100
+Fire Helicopter
+  Fire Helicopter Bucket  100
+Monorail Front
+  Monorail Passenger  100
+  Monorail Passenger  100
+  Monorail Passenger  100
+  Monorail Passenger  100
+  Monorail Front  100
+Forest Forwarder 01
+  Forest Forwarder Trailer 01 Empty  100
+Truck Animal
+  Truck Trailer Animal 01  100
+Truck Luxury Products
+  Truck Trailer Car 01  100

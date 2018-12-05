@@ -1,0 +1,134 @@
+
+Industrial Farming
+  Tractor                                                        Industrial IndustrialFarming L1
+  Tractor Trailer                                                Industrial IndustrialFarming L1
+  Tractor Trailer 02                                             Industrial IndustrialFarming L1
+
+Residential Low
+  Sedan                                                          Residential ResidentialLow L1
+  Sports-car                                                     Residential ResidentialLow L1
+  Station-wagon                                                  Residential ResidentialLow L1
+  Suv                                                            Residential ResidentialLow L1
+  Scooter                                                        Residential ResidentialLow L1
+  Hatchback                                                      Residential ResidentialLow L1
+  Electric Car 01                                                Residential ResidentialLowEco L1
+  Electric Car 02                                                Residential ResidentialLowEco L1
+  Electric Car 03                                                Residential ResidentialLowEco L1
+  Electric Car 04                                                Residential ResidentialLowEco L1
+  Personal Electric Transport Ride                               Residential ResidentialLowEco L1
+  Camper Van 01                                                  Residential ResidentialLow L2
+  Camper Van 02                                                  Residential ResidentialLow L2
+  Camper Van 03                                                  Residential ResidentialLow L2
+  Camper Trailer 01                                              Residential ResidentialLow L2
+  Camper Trailer 02                                              Residential ResidentialLow L2
+
+Mars
+  ChirpX Crawler                                                 Monument L1
+  ChirpX Rocket                                                  Monument L1
+
+Industrial Ore
+  Ore Truck                                                      Industrial IndustrialOre L1
+  Ore Truck Trailer                                              Industrial IndustrialOre L1
+
+Garbage
+  Garbage Truck                                                  Garbage L1
+
+Police Department
+  Police Car                                                     PoliceDepartment L1
+
+Fire Department
+  Fire Truck                                                     FireDepartment L1
+
+Industrial Oil
+  Oil Truck                                                      Industrial IndustrialOil L1
+  Oil Truck Trailer                                              Industrial IndustrialOil L1
+
+Public Transport
+  Bus                                                            PublicTransport PublicTransportBus L1
+  Train Engine                                                   PublicTransport PublicTransportTrain L1
+  Train Passenger                                                PublicTransport PublicTransportTrain L1
+  Train Cargo                                                    PublicTransport PublicTransportTrain L4
+  Metro                                                          PublicTransport PublicTransportMetro L1
+  Aircraft Passenger                                             PublicTransport PublicTransportPlane L1
+  Ship Passenger                                                 PublicTransport PublicTransportShip L1
+  Train Cargo Engine                                             PublicTransport PublicTransportTrain L4
+  Ship Cargo                                                     PublicTransport PublicTransportShip L4
+
+Industrial Forestry
+  Forestry Truck                                                 Industrial IndustrialForestry L1
+  Forestry Trailer                                               Industrial IndustrialForestry L1
+
+Industrial
+  Lorry                                                          Industrial IndustrialGeneric L1
+  Van                                                            Industrial IndustrialGeneric L1
+  Donut Van                                                      Industrial IndustrialGeneric L1
+  Bugspray Van                                                   Industrial IndustrialGeneric L1
+  hotdog-van                                                     Industrial IndustrialGeneric L1
+
+Health Care
+  Ambulance                                                      HealthCare L1
+  Hearse                                                         HealthCare L2
+
+Expansion 1
+  Bicycle                                                        Residential ResidentialHigh L2
+  Bicycle02                                                      Residential ResidentialHigh L2
+  Bicycle03                                                      Residential ResidentialHigh L2
+  Taxi                                                           PublicTransport PublicTransportTaxi L1
+  Bicycle Child                                                  Residential ResidentialHigh L1
+  beetle                                                         Residential ResidentialLow L1
+  Jeep                                                           Residential ResidentialLow L1
+  Pickup                                                         Residential ResidentialLow L1
+  PoliceVan                                                      PoliceDepartment L4
+
+Expansion 2
+  Tram                                                           PublicTransport PublicTransportTram L1
+  Tram Middle                                                    PublicTransport PublicTransportTram L1
+  Tram End                                                       PublicTransport PublicTransportTram L1
+  4WD_Jeep                                                       Residential ResidentialLow L1
+  Engineering_Truck                                              Road L2
+
+Expansion 3
+  Police Helicopter                                              PoliceDepartment L3
+  Fire Helicopter                                                FireDepartment L1
+  Fire Helicopter Bucket                                         FireDepartment L1
+  Meteor                                                         Natural L1
+  Medical Helicopter                                             HealthCare L3
+  Evacuation Bus                                                 Disaster L4
+  Disaster Response Vehicle                                      Disaster L2
+  Disaster Response Helicopter                                   Disaster L2
+  Water Pumping Truck                                            Water L1
+  Vortex                                                         Natural L1
+  Meteor Small                                                   Natural L1
+  Vortex Chirpy                                                  Natural L1
+
+Expansion 4
+  Ferry                                                          PublicTransport PublicTransportShip L2
+  Blimp                                                          PublicTransport PublicTransportPlane L2
+  Cable Car                                                      PublicTransport PublicTransportCableCar L1
+  Monorail Front                                                 PublicTransport PublicTransportMonorail L1
+  Monorail Passenger                                             PublicTransport PublicTransportMonorail L1
+
+Expansion 5
+  Biofuel Bus 01                                                 PublicTransport PublicTransportBus L2
+  Biofuel Garbage Truck 01                                       Garbage L2
+
+Expansion 6
+  Sightseeing Bus 01                                             PublicTransport PublicTransportTours L3
+  Hot Air Balloon 01                                             PublicTransport PublicTransportTours L4
+  Park Staff Vehicle 01                                          Beautification BeautificationParks L2
+
+Expansion 7
+  Post Vehicle 01                                                PublicTransport PublicTransportPost L2
+  Delivery Van 01                                                PlayerIndustry L1
+  Cargo Airplane 01                                              PublicTransport PublicTransportPlane L4
+  Delivery Truck 01                                              PlayerIndustry L1
+  Post Truck 01                                                  PublicTransport PublicTransportPost L5
+  Oil Truck 01                                                   Industrial IndustrialOil L1
+  Truck Trailer Animal 01                                        PlayerIndustry PlayerIndustryFarming L1
+  Truck Trailer Car 01                                           PlayerIndustry L2
+  Ore Mining Truck 01 Empty                                      Industrial IndustrialOre L1
+  Farm Truck 01                                                  Industrial IndustrialFarming L1
+  Forest Forwarder 01                                            Industrial IndustrialForestry L1
+  Forest Forwarder Trailer 01 Empty                              Industrial IndustrialForestry L1
+  Truck Animal                                                   PlayerIndustry PlayerIndustryFarming L1
+  Truck Luxury Products                                          PlayerIndustry L2

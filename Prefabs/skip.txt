@@ -1,0 +1,137 @@
+#
+# BASIC SKIPPING
+#
+
+# Comment lines start with hashtag.
+
+# When you skip a building, it will not be available in game.
+# To skip some buildings, just name them, one building per line:
+Ore 4x3 Processing
+Ore 4x3 Processing02
+Space Elevator
+
+# All building names are available here, with pictures:
+# https://cdn.rawgit.com/thale5/Buildings/2018b/index.htm
+# Same information in compact text format:
+# https://cdn.rawgit.com/thale5/Buildings/2018b/config/buildings.txt
+
+# You can use wildcards: * means any number of characters while ? means one character.
+# In case you are wondering: yes, you can just type * to skip all buildings.
+# This line skips all buildings that contain the word processing in the name:
+*processing*
+
+# Skipping ignores case, so these two mean the same:
+*Processing*
+*processing*
+
+#
+# SERVICES AND SUB-SERVICES
+#
+
+# To limit skipping to some service, you can add a service prefix.
+# This skips all industrial buildings that contain the word processing:
+Industrial:*processing*
+
+# To be even more specific, you can use a sub-service prefix instead.
+# This skips all industrial ore buildings that contain the word processing.
+# Generic, oil, farming and forestry industry are not affected by this:
+IndustrialOre:*processing*
+
+# You find the service and sub-service prefixes on the page linked above.
+# Look for the second line in the grey boxes.
+
+#
+# ADDING EXCEPTIONS
+#
+
+# Let's say there is one industrial ore processing building I would like to use,
+# regardless of skipping. I can do that by adding an exception for it:
+Except:Ore 2x2 Processing
+
+# Any exceptions you add outweigh skipping.
+
+# Here is another example about exceptions.
+# Skip all commercial buildings except the new commercial eco ones:
+Commercial:*
+Except:CommercialEco:*
+
+# One more example.
+# Skip all shops but keep the shopping center and all industrial sweatshops:
+*shop*
+Except:shopping_center
+Except:Industrial:*sweatshop*
+
+#
+# ADVANCED FEATURES
+#
+
+# If you are familiar with C# regular expressions, you can use them.
+# Just use @ to mark the pattern as a regex.
+# These two lines mean the same:
+IndustrialOre:*processing*
+IndustrialOre:@^.*processing.*$
+
+#
+# LASTLY
+#
+
+# You can use spaces and/or lowercase in the prefixes if you like, for better readability.
+# These two lines mean the same:
+IndustrialOre:*processing*
+industrial ore : *processing*
+
+# Some things that Cities Skylines considers as buildings do not look like buildings.
+# Those things include pillars, pipes, and network connections.
+# You should keep that in mind if you use a powerful pattern such as * to skip everything.
+# I recommend adding the exceptions shown below if you use the * pattern or something similar.
+
+# Network connections
+Except:Road Connection
+Except:Road Connection Small
+Except:Train Connection
+Except:Airplane Connection
+Except:Ship Connection
+
+# Pillars
+Except:MediumBridgePillar
+Except:HighwayBridgePillar
+Except:HighwayRampPillar
+Except:HighwayBridgeSuspensionPillar
+Except:LargeRoadBridgeSuspensionPillar
+Except:RoadSmallBridgePillar
+Except:GravelBridgePillar
+Except:RailwayBridgePillar
+Except:RailwayElevatedPillar
+Except:RailOnewayBridgePillar
+Except:RailOnewayElevatedPillar
+Except:Pedestrian Elevated Pillar
+Except:LargeRoadBikeBridgeSuspensionPillar
+Except:Two Lane Highway Bridge Pillar
+Except:Two Lane Highway Suspension Pillar
+Except:Four Lane Highway Bridge Pillar
+Except:Four Lane Highway Suspension Pillar
+Except:Wooden Footbridge Pillar 6
+Except:Wooden Footbridge Pillar 12
+Except:Wooden Footbridge Pillar 18
+Except:Wooden Footbridge Pillar 24
+Except:Cable Car Pylon 12
+Except:Cable Car Pylon 24
+Except:Cable Car Pylon 36
+Except:Cable Car Pylon 48
+Except:Cable Car Pylon 60
+Except:Monorail Pylon
+Except:Monorail Pylon 2
+Except:Monorail Pylon 3
+
+# Road infrastructure
+Except:Empty Intersection
+Except:RoundaboutL
+Except:RoundaboutS
+
+# Other infrastructure
+Except:Integrated Metro Station
+Except:Metro Entrance
+Except:Water Intake
+Except:Water Outlet
+Except:Fresh Water Outlet
+Except:Eco Water Outlet
