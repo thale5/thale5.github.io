@@ -1,26 +1,31 @@
 #
-# BASIC SKIPPING
+# PREFAB SKIPPING USING LOADING SCREEN MOD [TEST]
 #
 
 # Comment lines start with hashtag.
 
+
+Buildings:
+
+
+# The above heading means that what follows concerns building prefabs.
+# But Buildings are the default, so the heading is not required here.
+
 # When you skip a building, it will not be available in game.
-# To skip some buildings, just name them, one building per line:
+# To skip some buildings, just name them, one building per line, like here.
 Ore 4x3 Processing
 Ore 4x3 Processing02
 Space Elevator
 
 # All building names are available here, with pictures:
-# https://cdn.rawgit.com/thale5/Buildings/2018b/index.htm
-# Same information in compact text format:
-# https://cdn.rawgit.com/thale5/Buildings/2018b/config/buildings.txt
+# https://thale5.github.io/Prefabs/
 
-# You can use wildcards: * means any number of characters while ? means one character.
-# In case you are wondering: yes, you can just type * to skip all buildings.
-# This line skips all buildings that contain the word processing in the name:
+# You can use wildcards. * means any number of characters while ? means one character.
+# In case you are wondering, yes, you can just type * to skip all buildings.
+# This line skips all buildings that contain the word 'processing' in the name.
 *processing*
 
-# Skipping ignores case, so these two mean the same:
+# Skipping ignores case, so these two mean the same.
 *Processing*
 *processing*
 
@@ -29,15 +34,15 @@ Space Elevator
 #
 
 # To limit skipping to some service, you can add a service prefix.
-# This skips all industrial buildings that contain the word processing:
+# This skips all industrial buildings that contain the word processing.
 Industrial:*processing*
 
 # To be even more specific, you can use a sub-service prefix instead.
 # This skips all industrial ore buildings that contain the word processing.
-# Generic, oil, farming and forestry industry are not affected by this:
+# Generic, oil, farming and forestry industry are not affected by this.
 IndustrialOre:*processing*
 
-# You find the service and sub-service prefixes on the page linked above.
+# You find the service and sub-service prefixes by following the link above.
 # Look for the second line in the grey boxes.
 
 #
@@ -45,18 +50,18 @@ IndustrialOre:*processing*
 #
 
 # Let's say there is one industrial ore processing building I would like to use,
-# regardless of skipping. I can do that by adding an exception for it:
+# regardless of skipping. I can do that by adding an exception for it.
 Except:Ore 2x2 Processing
 
 # Any exceptions you add outweigh skipping.
 
 # Here is another example about exceptions.
-# Skip all commercial buildings except the new commercial eco ones:
+# Skip all commercial buildings except the new commercial eco ones.
 Commercial:*
 Except:CommercialEco:*
 
 # One more example.
-# Skip all shops but keep the shopping center and all industrial sweatshops:
+# Skip all shops but keep the shopping center and all industrial sweatshops.
 *shop*
 Except:shopping_center
 Except:Industrial:*sweatshop*
@@ -67,16 +72,16 @@ Except:Industrial:*sweatshop*
 
 # If you are familiar with C# regular expressions, you can use them.
 # Just use @ to mark the pattern as a regex.
-# These two lines mean the same:
+# These two lines mean the same.
 IndustrialOre:*processing*
 IndustrialOre:@^.*processing.*$
 
 #
-# LASTLY
+# THINGS TO REMEMBER
 #
 
 # You can use spaces and/or lowercase in the prefixes if you like, for better readability.
-# These two lines mean the same:
+# These two lines mean the same.
 IndustrialOre:*processing*
 industrial ore : *processing*
 
@@ -135,3 +140,244 @@ Except:Water Intake
 Except:Water Outlet
 Except:Fresh Water Outlet
 Except:Eco Water Outlet
+
+#
+# VEHICLE SKIPPING
+#
+
+
+Vehicles:
+
+
+# The above heading means that what follows concerns vehicle prefabs.
+# You can skip vehicles just like you skip buildings. You can skip them by name,
+# use wildcards and prefixes, and add exceptions.
+
+# I do not want to see these ones in game.
+Donut Van
+Bugspray Van
+hotdog-van
+
+# Not a fan of these, either.
+Beetle
+Camper Trailer 01
+Camper Trailer 02
+
+# I would like to skip Tractor and its trailers because they look silly on highways.
+# However, Tractor is the only Industrial Farming vehicle in the base game. Farms cannot
+# operate without vehicles!
+# To skip these ones, I need to find replacements on the workshop first.
+# Industries DLC has a new Industrial Farming truck. If you have the DLC, you are covered.
+#Tractor
+#Tractor Trailer
+#Tractor Trailer 02
+
+# You should not skip Sedan because it is special in the game (used as a fallback vehicle).
+# To prevent accidental skipping, you can add an exception for it like shown here.
+Except:Sedan
+
+# I have tested skipping all vehicle prefabs and the game worked. However, as mentioned above,
+# city services do not function properly without vehicles. Also remember that metros, bicycles
+# airplanes, ships, etc. are also vehicles.
+
+#
+# PROP SKIPPING
+#
+
+
+Props:
+
+
+# The above heading means that what follows concerns prop prefabs. Again, you can skip by name,
+# use wildcards and prefixes, and add exceptions.
+
+# The game has too many flashy billboards. Let's skip them, starting with the awful ones.
+Billboard_3D_variation
+Rotating_squirrel
+Rotating_morelloscone
+Clown
+Octopus
+Nightwatch_billboard_big_anim
+Logo_flaming_ring
+Logo_neckbeard
+logo_meatybits
+Logo_pernu
+Logo_burned_bean
+
+# Because the game uses prop variations (explained on the Props htm page),
+# the more billboards you skip, the more often you see the remaining variations,
+# which becomes annoying. Skipping most of the big billboards works best for me.
+Billboard_big_bigbite
+Billboard_big_bigbite_01
+Billboard_big_bigbite_02
+Billboard_big_bigbite_03
+billboard_big_Fallout
+billboard_big_Fallout_01
+billboard_big_Fallout_02
+billboard_big_Fallout_03
+billboard_big_Furniture
+billboard_big_Furniture_01
+billboard_big_Furniture_02
+billboard_big_Furniture_03
+Billboard_big_go_nuts
+Billboard_big_go_nuts_01
+Billboard_big_go_nuts_02
+Billboard_big_go_nuts_03
+Billboard_big_jubilee
+Billboard_big_jubilee_01
+Billboard_big_jubilee_02
+Billboard_big_jubilee_03
+Billboard_big_popsoda
+Billboard_big_popsoda_01
+Billboard_big_popsoda_02
+Billboard_big_popsoda_03
+billboard_big_realestate
+billboard_big_realestate_01
+billboard_big_realestate_02
+billboard_big_realestate_03
+billboard_big_Sparkly
+billboard_big_Sparkly_01
+billboard_big_Sparkly_02
+billboard_big_Sparkly_03
+Billboard_big_variation
+Billboard_big_variation_01
+Billboard_big_variation_02
+Billboard_big_variation_03
+Billboard_big_variation_04
+Billboard_big_yakisoba
+Billboard_big_yakisoba_01
+Billboard_big_yakisoba_02
+Billboard_big_yakisoba_03
+Billboard_big_yaxu
+Billboard_big_yaxu_01
+Billboard_big_yaxu_02
+Billboard_big_yaxu_03
+Billboard_lehto_anim
+Billboard_medium_flat_bigbite_01
+Billboard_medium_flat_bigbite_02
+Billboard_medium_flat_go_nuts_01
+Billboard_medium_flat_go_nuts_02
+Billboard_medium_flat_variation_01
+Billboard_pop_soda_anim
+Billboard_small_go_nuts_02
+Billboard_small_lehto_02
+Billboard_small_meaty_02
+neon-burned-bean-coffee
+neon-flaming-ring
+neon-yakisoba-noodles
+
+# If you want to test eco buildings without vegetation, just uncomment these lines.
+# Notice that None is actually a valid service prefix.
+#None:Wall Vegetation*
+#None:Roof Vegetation*
+
+# I have tested skipping all prop prefabs and the game worked. However, some props have special
+# purpose and should not be skipped. These are described below using the exception notation.
+
+# Markers (for example door markers) should not be skipped. To prevent accidental skipping,
+# you can add an exception.
+Except:None:*Marker*
+
+# Ensure that parking spaces are always kept.
+Except:Parking Space
+Except:Parking Space Electric
+Except:Parking Spaces 01
+Except:Parking Spaces 02
+Except:Invisible Parking Space
+
+# Some mods expect to find certain props in the game. Aggressive prop skipping may cause problems
+# if you use many mods.
+
+# Network Extensions 2 requires some props. If you use NEXT 2, you can add these exceptions
+# to prevent accidental skipping. Even if you don't use NEXT 2, it is a good idea to always keep
+# these props.
+Except:Wall Light Orange
+Except:StreetLamp02
+Except:High Bench
+Except:Traffic Light 01
+Except:Traffic Light 01 Mirror
+Except:Traffic Light 02
+Except:Traffic Light 02 Mirror
+Except:Traffic Light Pedestrian
+Except:New Street Light
+Except:New Street Light Highway
+Except:New Street Light Small Road
+Except:New Street Light Avenue
+Except:30 Speed Limit
+Except:40 Speed Limit
+Except:50 Speed Limit
+Except:60 Speed Limit
+Except:100 Speed Limit
+Except:Motorway Sign
+
+# Additional infractructure worth keeping.
+Except:RailwayPowerline
+Except:RailwayPowerline Singular
+
+#
+# UNITY LEVEL SKIPPING
+#
+
+
+Levels:
+
+
+# The above heading means that what follows concerns Unity level loading. Here, you
+# can skip only by Unity level name.
+
+# Level skipping is actually the most efficient form of skipping because the level
+# is skipped as a whole. However, you must be careful because some levels contain
+# buildings and events. If you have used some level content in your savegame, do
+# not skip that level!
+
+# Relaxation Station Radio Channel.
+# Uncomment the next line to skip this level.
+#RadioStation1
+
+# Rock City Radio Channel.
+# Uncomment the next line to skip this level.
+#RadioStation2
+
+# All That Jazz Radio Channel.
+# Uncomment the next line to skip this level.
+#RadioStation3
+
+# Country Road Radio Channel.
+# Uncomment the next line to skip this level.
+#RadioStation4
+
+# Synthetic Dawn Radio Channel.
+# Uncomment the next line to skip this level.
+#RadioStation5
+
+# Carols, Candles and Candy Radio Channel.
+# Uncomment the next line to skip this level.
+#Christmas
+
+# Match Day Stadium.
+# Uncomment the next line to skip this level.
+#Football
+
+# Stadium ITA.
+# Uncomment the next line to skip this level.
+#Football2
+
+# Stadium ENG.
+# Uncomment the next line to skip this level.
+#Football3
+
+# Stadium SPA.
+# Uncomment the next line to skip this level.
+#Football4
+
+# Stadium FRA.
+# Uncomment the next line to skip this level.
+#Football5
+
+# Concerts DLC.
+# Uncomment the next line to skip this level.
+#MusicFestival
+
+# Pearls From the East DLC.
+# Uncomment the next line to skip this level.
+#OrientalBuildings
