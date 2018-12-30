@@ -309,6 +309,12 @@ Except:50 Speed Limit
 Except:60 Speed Limit
 Except:100 Speed Limit
 Except:Motorway Sign
+# NEXT 2 requires the next ones for European maps only.
+Except:Traffic Light European 01
+Except:Traffic Light European 01 Mirror
+Except:Traffic Light European 02
+Except:Traffic Light European 02 Mirror
+Except:Traffic Light Pedestrian European
 
 # Additional infractructure worth keeping.
 Except:RailwayPowerline
