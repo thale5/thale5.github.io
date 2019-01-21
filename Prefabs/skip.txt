@@ -1,5 +1,5 @@
 #
-# PREFAB SKIPPING USING LOADING SCREEN MOD [TEST]
+# PREFAB SKIPPING USING LOADING SCREEN MOD
 #
 
 # Comment lines start with hashtag.
@@ -266,7 +266,7 @@ neon-burned-bean-coffee
 neon-flaming-ring
 neon-yakisoba-noodles
 
-# If you want to test eco buildings without vegetation, just uncomment these lines.
+# If you want to see eco buildings without vegetation, just uncomment these lines.
 # Notice that None is actually a valid service prefix.
 #None:Wall Vegetation*
 #None:Roof Vegetation*
