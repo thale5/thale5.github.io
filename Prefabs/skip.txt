@@ -9,7 +9,7 @@ Buildings:
 
 
 # The above heading means that what follows concerns building prefabs.
-# But Buildings are the default, so the heading is not required here.
+# But Buildings are the default, so the heading is not mandatory here.
 
 # When you skip a building, it will not be available in game.
 # To skip some buildings, just name them, one building per line, like here.
@@ -265,6 +265,16 @@ Billboard_small_meaty_02
 neon-burned-bean-coffee
 neon-flaming-ring
 neon-yakisoba-noodles
+VS Sponsorship 01 Billboard Large 01
+VS Sponsorship 01 Billboard Medium 01
+VS Sponsorship 02 Billboard Large 01
+VS Sponsorship 02 Billboard Medium 01
+VS Sponsorship 03 Billboard Large 01
+VS Sponsorship 03 Billboard Medium 01
+VS Sponsorship 04 Billboard Large 01
+VS Sponsorship 04 Billboard Medium 01
+VS Sponsorship 05 Billboard Large 01
+VS Sponsorship 05 Billboard Medium 01
 
 # If you want to see eco buildings without vegetation, just uncomment these lines.
 # Notice that None is actually a valid service prefix.
@@ -355,6 +365,14 @@ Levels:
 # Synthetic Dawn Radio Channel.
 # Uncomment the next line to skip this level.
 #RadioStation5
+
+# Deep Focus Radio Channel.
+# Uncomment the next line to skip this level.
+#RadioStation6
+
+# Campus Radio Channel.
+# Uncomment the next line to skip this level.
+#RadioStation7
 
 # Carols, Candles and Candy Radio Channel.
 # Uncomment the next line to skip this level.

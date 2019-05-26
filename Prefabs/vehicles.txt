@@ -53,6 +53,7 @@ Public Transport
   Ship Passenger                                                 PublicTransport PublicTransportShip L1
   Train Cargo Engine                                             PublicTransport PublicTransportTrain L4
   Ship Cargo                                                     PublicTransport PublicTransportShip L4
+  School Bus 01                                                  PublicTransport PublicTransportBus L1
 
 Industrial Forestry
   Forestry Truck                                                 Industrial IndustrialForestry L1

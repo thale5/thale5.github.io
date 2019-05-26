@@ -794,6 +794,47 @@ Expansion 7
   Ore Industry Worker Marker 01                                  None L1
   Tree Sapling Field Pot 01                                      None L1
 
+Expansion 8
+  Liberal Arts Bench 01                                          Beautification L1
+  Liberal Arts Street Light 01                                   Beautification L1
+  Liberal Arts Table 01                                          Beautification L1
+  Liberal Arts Trash Bin 01                                      Beautification L1
+  Trade School Bench 01                                          Beautification L1
+  Trade School Street Light 01                                   Beautification L1
+  Trade School Table 01                                          Beautification L1
+  Trade School Trash Bin 01                                      Beautification L1
+  University Bench 01                                            Beautification L1
+  University Street Light 01                                     Beautification L1
+  University Table 01                                            Beautification L1
+  University Trash Bin 01                                        Beautification L1
+  Arena Fence 01                                                 Beautification L1
+  Billboard Large Variation 01                                   None L1 variations
+  Billboard Medium Variation 01                                  None L1 variations
+  VS Sponsorship 01 Billboard Large 01                           None L1
+  VS Sponsorship 01 Billboard Medium 01                          None L1
+  VS Sponsorship 02 Billboard Large 01                           None L1
+  VS Sponsorship 02 Billboard Medium 01                          None L1
+  VS Sponsorship 03 Billboard Large 01                           None L1
+  VS Sponsorship 03 Billboard Medium 01                          None L1
+  VS Sponsorship 04 Billboard Large 01                           None L1
+  VS Sponsorship 04 Billboard Medium 01                          None L1
+  VS Sponsorship 05 Billboard Large 01                           None L1
+  VS Sponsorship 05 Billboard Medium 01                          None L1
+  VS Team 01 Billboard Large 01                                  None L1
+  VS Team 01 Billboard Medium 01                                 None L1
+  VS Team 02 Billboard Large 01                                  None L1
+  VS Team 02 Billboard Medium 01                                 None L1
+  VS Team 03 Billboard Large 01                                  None L1
+  VS Team 03 Billboard Medium 01                                 None L1
+  VS Team 04 Billboard Large 01                                  None L1
+  VS Team 04 Billboard Medium 01                                 None L1
+  VS Team 05 Billboard Large 01                                  None L1
+  VS Team 05 Billboard Medium 01                                 None L1
+  VS Team 06 Billboard Large 01                                  None L1
+  VS Team 06 Billboard Medium 01                                 None L1
+  VS Team 07 Billboard Large 01                                  None L1
+  VS Team 07 Billboard Medium 01                                 None L1
+
 Festival
   Amp Stack                                                      None L1
   Bass Amp                                                       None L1
@@ -844,6 +885,24 @@ Modder Pack 3
   Dormer 1                                                       Residential ResidentialLow L1
   Dormer 2                                                       Residential ResidentialLow L1
   Shed 1                                                         Residential ResidentialLow L1
+
+Modder Pack 4
+  Random Commercial 1 Sign Long                                  None L1 variations
+  Random Commercial 1 Sign Long CRP Wireless                     None L1
+  Random Commercial 1 Sign Long Pernu                            None L1
+  Random Commercial 1 Sign Long Skytrust                         None L1
+  Random Commercial 1 Sign Long Vabor Vibez                      None L1
+  Random Commercial 2 Logo                                       None L1 variations
+  Random Commercial 2 Logo Cramburgers                           None L1
+  Random Commercial 2 Logo Custom Ts                             None L1
+  Random Commercial 2 Logo State City Insurance                  None L1
+  Random Commercial 2 Logo Game Go                               None L1
+  Random Commercial 3 Logo On Both Sides Records                 None L1
+  Random Commercial 3 Logo Other                                 None L1 variations
+  Random Commercial 3 Logo Other OK Sign                         None L1
+  Random Commercial 3 Logo RCI Sign                              None L1
+  Random Commercial 3 Logo Sparx                                 None L1
+  Random Commercial 3 Logo Throwback Sign                        None L1
 
 China Pack
   Bamboo Fence 8m                                                None L1

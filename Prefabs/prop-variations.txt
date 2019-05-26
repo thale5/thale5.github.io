@@ -87,17 +87,59 @@ Billboard_big_go_nuts
 Billboard_big_yakisoba
   Park Billboard Large 01  37
   Amusement Park Billboard Large 01  37
+  VS Team 01 Billboard Large 01  37
+  VS Team 02 Billboard Large 01  37
+  VS Team 03 Billboard Large 01  37
+  VS Team 04 Billboard Large 01  37
+  VS Team 05 Billboard Large 01  37
+  VS Team 06 Billboard Large 01  37
+  VS Team 07 Billboard Large 01  37
 Billboard_big_yaxu
   Nature Reserve Billboard Large 01  37
   Zoo Billboard Large 01  37
+  VS Team 01 Billboard Large 01  37
+  VS Team 02 Billboard Large 01  37
+  VS Team 03 Billboard Large 01  37
+  VS Team 04 Billboard Large 01  37
+  VS Team 05 Billboard Large 01  37
+  VS Team 06 Billboard Large 01  37
+  VS Team 07 Billboard Large 01  37
 Billboard_big_jubilee_01
   Nature Reserve Billboard Large 01  75
+  VS Team 01 Billboard Large 01  37
+  VS Team 02 Billboard Large 01  37
+  VS Team 03 Billboard Large 01  37
+  VS Team 04 Billboard Large 01  37
+  VS Team 05 Billboard Large 01  37
+  VS Team 06 Billboard Large 01  37
+  VS Team 07 Billboard Large 01  37
 Billboard_big_popsoda_01
   Zoo Billboard Large 01  75
+  VS Team 01 Billboard Large 01  37
+  VS Team 02 Billboard Large 01  37
+  VS Team 03 Billboard Large 01  37
+  VS Team 04 Billboard Large 01  37
+  VS Team 05 Billboard Large 01  37
+  VS Team 06 Billboard Large 01  37
+  VS Team 07 Billboard Large 01  37
 Billboard_big_bigbite
   Amusement Park Billboard Large 01  75
+  VS Team 01 Billboard Large 01  37
+  VS Team 02 Billboard Large 01  37
+  VS Team 03 Billboard Large 01  37
+  VS Team 04 Billboard Large 01  37
+  VS Team 05 Billboard Large 01  37
+  VS Team 06 Billboard Large 01  37
+  VS Team 07 Billboard Large 01  37
 Billboard_big_go_nuts_01
   Nature Reserve Billboard Large 01  75
+  VS Team 01 Billboard Large 01  37
+  VS Team 02 Billboard Large 01  37
+  VS Team 03 Billboard Large 01  37
+  VS Team 04 Billboard Large 01  37
+  VS Team 05 Billboard Large 01  37
+  VS Team 06 Billboard Large 01  37
+  VS Team 07 Billboard Large 01  37
 Billboard_big_yaxu_01
   Festival Billboard Big 01  75
 Billboard_big_yakisoba_01
@@ -131,11 +173,25 @@ Billboard_medium_flat_bigbite_01
 Billboard_medium_flat_bigbite_02
   Park Billboard Medium 01  37
   Amusement Park Billboard Medium 01  37
+  VS Team 01 Billboard Medium 01  37
+  VS Team 02 Billboard Medium 01  37
+  VS Team 03 Billboard Medium 01  37
+  VS Team 04 Billboard Medium 01  37
+  VS Team 05 Billboard Medium 01  37
+  VS Team 06 Billboard Medium 01  37
+  VS Team 07 Billboard Medium 01  37
 Billboard_medium_flat_go_nuts_01
   Festival Billboard Medium 01  75
 Billboard_medium_flat_go_nuts_02
   Nature Reserve Billboard Medium 01  37
   Zoo Billboard Medium 01  37
+  VS Team 01 Billboard Medium 01  37
+  VS Team 02 Billboard Medium 01  37
+  VS Team 03 Billboard Medium 01  37
+  VS Team 04 Billboard Medium 01  37
+  VS Team 05 Billboard Medium 01  37
+  VS Team 06 Billboard Medium 01  37
+  VS Team 07 Billboard Medium 01  37
 Billboard_medium_flat_variation_01
   Billboard_medium_flat_go_nuts_01  35
 Billboard_big_variation_03
@@ -225,12 +281,40 @@ logo_office_random
   Logo_sports  33
 billboard_big_Fallout
   Park Billboard Large 01  75
+  VS Team 01 Billboard Large 01  37
+  VS Team 02 Billboard Large 01  37
+  VS Team 03 Billboard Large 01  37
+  VS Team 04 Billboard Large 01  37
+  VS Team 05 Billboard Large 01  37
+  VS Team 06 Billboard Large 01  37
+  VS Team 07 Billboard Large 01  37
 billboard_big_Furniture
   Amusement Park Billboard Large 01  75
+  VS Team 01 Billboard Large 01  37
+  VS Team 02 Billboard Large 01  37
+  VS Team 03 Billboard Large 01  37
+  VS Team 04 Billboard Large 01  37
+  VS Team 05 Billboard Large 01  37
+  VS Team 06 Billboard Large 01  37
+  VS Team 07 Billboard Large 01  37
 billboard_big_realestate
   Park Billboard Large 01  75
+  VS Team 01 Billboard Large 01  37
+  VS Team 02 Billboard Large 01  37
+  VS Team 03 Billboard Large 01  37
+  VS Team 04 Billboard Large 01  37
+  VS Team 05 Billboard Large 01  37
+  VS Team 06 Billboard Large 01  37
+  VS Team 07 Billboard Large 01  37
 billboard_big_Sparkly
   Zoo Billboard Large 01  75
+  VS Team 01 Billboard Large 01  37
+  VS Team 02 Billboard Large 01  37
+  VS Team 03 Billboard Large 01  37
+  VS Team 04 Billboard Large 01  37
+  VS Team 05 Billboard Large 01  37
+  VS Team 06 Billboard Large 01  37
+  VS Team 07 Billboard Large 01  37
 billboard_big_Sparkly_01
   Festival Billboard Big 01  75
 animated_billboard_big_anim_variation
@@ -283,3 +367,45 @@ Path Rock Small 01
 Random Industrial Street Prop
   Electricity Box  50
   Fire Hydrant  50
+Billboard Large Variation 01
+  VS Sponsorship 01 Billboard Large 01  20
+  VS Sponsorship 02 Billboard Large 01  20
+  VS Sponsorship 03 Billboard Large 01  20
+  VS Sponsorship 04 Billboard Large 01  20
+  VS Sponsorship 05 Billboard Large 01  20
+  VS Team 01 Billboard Large 01  100
+  VS Team 02 Billboard Large 01  100
+  VS Team 03 Billboard Large 01  100
+  VS Team 04 Billboard Large 01  100
+  VS Team 05 Billboard Large 01  100
+  VS Team 06 Billboard Large 01  100
+  VS Team 07 Billboard Large 01  100
+Billboard Medium Variation 01
+  VS Sponsorship 01 Billboard Medium 01  20
+  VS Sponsorship 02 Billboard Medium 01  20
+  VS Sponsorship 03 Billboard Medium 01  20
+  VS Sponsorship 04 Billboard Medium 01  20
+  VS Sponsorship 05 Billboard Medium 01  20
+  VS Team 01 Billboard Medium 01  100
+  VS Team 02 Billboard Medium 01  100
+  VS Team 03 Billboard Medium 01  100
+  VS Team 04 Billboard Medium 01  100
+  VS Team 05 Billboard Medium 01  100
+  VS Team 06 Billboard Medium 01  100
+  VS Team 07 Billboard Medium 01  100
+Random Commercial 1 Sign Long
+  Random Commercial 1 Sign Long CRP Wireless  20
+  Random Commercial 1 Sign Long Pernu  20
+  Random Commercial 1 Sign Long Skytrust  20
+  Random Commercial 1 Sign Long Vabor Vibez  20
+Random Commercial 2 Logo
+  Random Commercial 2 Logo Cramburgers  20
+  Random Commercial 2 Logo Custom Ts  20
+  Random Commercial 2 Logo Game Go  20
+  Random Commercial 2 Logo State City Insurance  20
+Random Commercial 3 Logo Other
+  Random Commercial 3 Logo On Both Sides Records  16
+  Random Commercial 3 Logo Other OK Sign  16
+  Random Commercial 3 Logo RCI Sign  16
+  Random Commercial 3 Logo Sparx  16
+  Random Commercial 3 Logo Throwback Sign  16

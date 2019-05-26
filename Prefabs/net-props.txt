@@ -9590,3 +9590,51 @@ Industry Road Small 01 Oneway Slope
   Road Arrow R
   Manhole
 Industry Road Small 01 Oneway Tunnel
+Liberal Arts Path 01
+  --
+  Liberal Arts Street Light 01
+  Liberal Arts Bench 01
+  Liberal Arts Bench 01
+  Liberal Arts Trash Bin 01
+Liberal Arts Path 01 Elevated
+  --
+  Liberal Arts Street Light 01
+Liberal Arts Path 01 Propless
+Liberal Arts Path 01 Propless Elevated
+Liberal Arts Path 02
+  --
+  Liberal Arts Street Light 01
+  Liberal Arts Bench 01
+  Liberal Arts Bench 01
+Trade School Path 01
+  --
+  Trade School Street Light 01
+  Trade School Bench 01
+  Trade School Bench 01
+  Trade School Trash Bin 01
+Trade School Path 01 Elevated
+  --
+  Trade School Street Light 01
+Trade School Path 01 Propless
+Trade School Path 01 Propless Elevated
+Trade School Path 02
+  --
+  Trade School Street Light 01
+  Trade School Bench 01
+  Trade School Bench 01
+University Path 01
+  --
+  University Street Light 01
+  University Bench 01
+  University Bench 01
+  University Trash Bin 01
+University Path 01 Elevated
+  --
+  University Street Light 01
+University Path 01 Propless
+University Path 01 Propless Elevated
+University Path 02
+  --
+  University Street Light 01
+  University Bench 01
+  University Bench 01
