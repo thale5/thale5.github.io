@@ -1,22 +1,9 @@
-<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Cities Skylines Props</title><style>
-* {font-family:sans-serif;}
-body {background-color:#f8f4e2;}
-.my {display:-webkit-flex;display:flex;}
-.my div {min-width:30%;margin:1px 1px 1px 10px;font-size:100%;}
-h1 {margin-top:55px;border-bottom:2px solid black;}
-h2 {margin-top:40px;color:#000090;}
-code {display:block;font-family:Consolas, Menlo, Courier, monospace;line-height:125%;padding:10px 10px;background-color:#e2e0de;border-radius:7px;}
-pre {white-space:pre;margin:6px 0px;}
-img {display:block;margin:6px 0px 6px 10px;border-radius:7px;box-shadow:8px 6px 10px #5a5a5a;}
-a {margin:10px 1px 1px 20px;}
-a:link {color:#000090;font-family:Consolas, Menlo, Courier, monospace;text-decoration:inherit;}
-a:visited {color:#000090;font-family:Consolas, Menlo, Courier, monospace;text-decoration:inherit;}
-a:hover {font-weight:bold;}
-</style></head><body>
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><title>Cities Skylines Props</title><link rel="stylesheet" type="text/css" href="s.css"></head><body>
 <noscript><h2 style="color:red">JavaScript is required to display the images.</h2></noscript>
 <h1>Cities Skylines Props</h1>
-<div class="my"><div><i>This page shows standard props in Cities: Skylines, including DLCs. The props are organized by Prop Collection.<br><br>In each gray box, the first line is the name of the prop. The second line is the service and sub-service (often 'None').<br><br>Cities Skylines props support variations. This means that the game selects the appearance of the prop randomly from a set of alternatives.<br>For example, Billboard_3D_variation can be either Rotating_squirrel, Rotating_morelloscone or Clown.<br><br>Below, props that have variations are marked with 'Has variations'.</i></div></div>
-<h2 id="Table_of_Contents">Table of Contents</h2>
+<div class="my"><div><i>This page shows standard props in Cities: Skylines, including DLCs. The props are organized by Prop Collection.<br><br>In each gray box, the first line is the name of the prop. The second line is the service and sub-service (often 'None').<br><br>Cities Skylines supports prop variations. This means that the game selects the appearance of the prop randomly from a set of alternatives.<br>For example, Billboard_3D_variation can be either Rotating_squirrel, Rotating_morelloscone or Clown.<br>Below, props that have variations are marked with 'Has variations'.<br><br></i></div></div>
+<div class="my"><div><i><b>New:</b> Interactive feature provided by aubergine18 (Thanks!).<br>You can click on the gray boxes to create contents for skip.txt, for use with Loading Screen Mod. You can also click on the headings (Prop Collections).<br>You find the skip list at the bottom of this page.</i></div></div>
+<h3 id="Table_of_Contents">Table of Contents</h3>
 <div><a href="#Common">Common</a></div>
 <div><a href="#Residential_Props">Residential Props</a></div>
 <div><a href="#Billboards">Billboards</a></div>
@@ -40,6 +27,7 @@ a:hover {font-weight:bold;}
 <div><a href="#University_City_DLC">University City DLC</a></div>
 <div><a href="#Europe_Props">Europe Props</a></div>
 <div><a href="#Europe_Style_Services">Europe Style Services</a></div>
+<div><a href="#Skip_List">Skip List</a></div>
 <h2 id="Common">Common</h2>
 <div class="my"><div><pre><code>Ac box 01
 None
@@ -2745,7 +2733,9 @@ L1</code></pre></div><div><img data-s="prop/wall_ad06.jpg" style="width:216px;he
 <div class="my"><div><pre><code>tennis_court_Decal
 None
 L1</code></pre></div><div><img data-s="prop/tennis_court_Decal.jpg" style="width:376px;height:200px;"></div></div>
-<script>
-var nodes=document.querySelectorAll('img');for (var i=0;i<nodes.length;i++){var img=nodes[i];img.setAttribute('src',img.getAttribute('data-s'));}
-</script>
+<h3 id="Skip_List">Skip List</h3>
+<div id="skips"></div>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+<script src="props.js"></script>
+<script>$(Ini)</script>
 </body></html>

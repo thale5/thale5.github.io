@@ -22,10 +22,11 @@ Space Elevator
 
 # You can use wildcards. * means any number of characters while ? means one character.
 # In case you are wondering, yes, you can just type * to skip all buildings.
+
 # This line skips all buildings that contain the word 'processing' in the name.
 *processing*
 
-# Skipping ignores case, so these two mean the same.
+# Skipping ignores case, so these two lines mean the same.
 *Processing*
 *processing*
 
