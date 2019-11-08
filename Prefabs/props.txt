@@ -904,6 +904,11 @@ Modder Pack 4
   Random Commercial 3 Logo Sparx                                 None L1
   Random Commercial 3 Logo Throwback Sign                        None L1
 
+Modder Pack 5
+  MCW2W-prop1                                                    None L1
+  MCW2W-prop2                                                    None L1
+  MCW2W-prop3                                                    None L1
+
 China Pack
   Bamboo Fence 8m                                                None L1
   Bamboo Fence Tall 8m                                           None L1

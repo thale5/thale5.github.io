@@ -1782,6 +1782,75 @@ Modder Pack 4
   College Park U40                                               Residential ResidentialLow L4 3x3 Straight
   College Park U41                                               Residential ResidentialLow L4 3x3 Straight
 
+Modder Pack 5
+  MCW2W-01-L1                                                    Commercial CommercialHigh L1 2x3 Straight
+  MCW2W-01-L2                                                    Commercial CommercialHigh L2 2x3 Straight
+  MCW2W-01-L3                                                    Commercial CommercialHigh L3 2x3 Straight
+  MCW2W-02A-L1                                                   Commercial CommercialHigh L1 3x4 Straight
+  MCW2W-02A-L2                                                   Commercial CommercialHigh L2 3x4 Straight
+  MCW2W-02B-L1                                                   Commercial CommercialHigh L1 3x4 Straight
+  MCW2W-02B-L2                                                   Commercial CommercialHigh L2 3x4 Straight
+  MCW2W-03A-COR-L1                                               Commercial CommercialHigh L1 4x3 CornerLeft
+  MCW2W-03A-COR-L2                                               Commercial CommercialHigh L2 4x3 CornerLeft
+  MCW2W-03B-L1                                                   Commercial CommercialHigh L1 2x4 Straight
+  MCW2W-03B-L2                                                   Commercial CommercialHigh L2 2x4 Straight
+  MCW2W-04-L1                                                    Commercial CommercialHigh L1 4x3 Straight
+  MCW2W-04-L2                                                    Commercial CommercialHigh L2 4x3 Straight
+  MCW2W-04-L3                                                    Commercial CommercialHigh L3 4x3 Straight
+  MCW2W-05-L1                                                    Commercial CommercialHigh L1 3x3 Straight
+  MCW2W-05-L2                                                    Commercial CommercialHigh L2 3x3 Straight
+  MCW2W-06A-COR-L1                                               Commercial CommercialHigh L1 3x4 CornerLeft
+  MCW2W-06A-COR-L2                                               Commercial CommercialHigh L2 3x4 CornerLeft
+  MCW2W-06B-L1                                                   Commercial CommercialHigh L1 4x4 Straight
+  MCW2W-06B-L2                                                   Commercial CommercialHigh L2 4x4 Straight
+  MCW2W-06C-COR-L1                                               Commercial CommercialHigh L1 3x4 CornerRight
+  MCW2W-06C-COR-L2                                               Commercial CommercialHigh L2 3x4 CornerRight
+  MCW2W-07A-COR-L1                                               Commercial CommercialHigh L1 3x3 CornerLeft
+  MCW2W-07A-COR-L2                                               Commercial CommercialHigh L2 3x3 CornerLeft
+  MCW2W-07A-COR-L3                                               Commercial CommercialHigh L3 3x3 CornerLeft
+  MCW2W-07B-L1                                                   Commercial CommercialHigh L1 4x3 Straight
+  MCW2W-07B-L2                                                   Commercial CommercialHigh L2 4x3 Straight
+  MCW2W-07B-L3                                                   Commercial CommercialHigh L3 4x3 Straight
+  MCW2W-07C-COR-L1                                               Commercial CommercialHigh L1 3x3 CornerRight
+  MCW2W-07C-COR-L2                                               Commercial CommercialHigh L2 3x3 CornerRight
+  MCW2W-07C-COR-L3                                               Commercial CommercialHigh L3 3x3 CornerRight
+  MCW2W-08A-COR-L1                                               Commercial CommercialHigh L1 4x4 CornerLeft
+  MCW2W-08A-COR-L2                                               Commercial CommercialHigh L2 4x4 CornerLeft
+  MCW2W-08A-COR-L3                                               Commercial CommercialHigh L3 4x4 CornerLeft
+  MCW2W-08B-L1                                                   Commercial CommercialHigh L1 2x4 Straight
+  MCW2W-08B-L2                                                   Commercial CommercialHigh L2 2x4 Straight
+  MCW2W-08B-L3                                                   Commercial CommercialHigh L3 2x4 Straight
+  MCW2W-08C-COR-L1                                               Commercial CommercialHigh L1 4x4 CornerRight
+  MCW2W-08C-COR-L2                                               Commercial CommercialHigh L2 4x4 CornerRight
+  MCW2W-08C-COR-L3                                               Commercial CommercialHigh L3 4x4 CornerRight
+  MCW2W-09-L2                                                    Commercial CommercialHigh L2 3x4 Straight
+  MCW2W-09-L3                                                    Commercial CommercialHigh L3 3x4 Straight
+  MCW2W-10-L2                                                    Commercial CommercialHigh L3 3x4 Straight
+  MCW2W-10-L3                                                    Commercial CommercialHigh L3 3x4 Straight
+  MCW2W-11A-L2                                                   Commercial CommercialHigh L2 3x4 Straight
+  MCW2W-11A-L3                                                   Commercial CommercialHigh L3 3x4 Straight
+  MCW2W-11B-L2                                                   Commercial CommercialHigh L2 3x4 Straight
+  MCW2W-11B-L3                                                   Commercial CommercialHigh L3 3x4 Straight
+  MCW2W-12-L2                                                    Commercial CommercialHigh L2 1x3 Straight
+  MCW2W-12-L3                                                    Commercial CommercialHigh L3 1x3 Straight
+  MCW2W-13A-L2                                                   Commercial CommercialHigh L2 2x4 Straight
+  MCW2W-13A-L3                                                   Commercial CommercialHigh L3 2x4 Straight
+  MCW2W-13B-COR-L2                                               Commercial CommercialHigh L2 4x4 CornerLeft
+  MCW2W-13B-COR-L3                                               Commercial CommercialHigh L3 4x4 CornerLeft
+  MCW2W-13C-L2                                                   Commercial CommercialHigh L2 1x4 Straight
+  MCW2W-13C-L3                                                   Commercial CommercialHigh L3 1x4 Straight
+  MCW2W-13D-L2                                                   Commercial CommercialHigh L2 4x4 Straight
+  MCW2W-13D-L3                                                   Commercial CommercialHigh L3 4x4 Straight
+  MCW2W-14A-COR-L3                                               Commercial CommercialHigh L3 4x4 CornerLeft
+  MCW2W-14B-L3                                                   Commercial CommercialHigh L3 2x4 Straight
+  MCW2W-14C-COR-L3                                               Commercial CommercialHigh L3 4x4 CornerRight
+  MCW2W-14D-COR-L3                                               Commercial CommercialHigh L3 4x4 CornerRight
+  MCW2W-14E-L3                                                   Commercial CommercialHigh L3 2x4 Straight
+  MCW2W-14F-COR-L3                                               Commercial CommercialHigh L3 4x4 CornerLeft
+  MCW2W-15-L1                                                    Commercial CommercialHigh L1 1x1 Straight
+  MCW2W-16-L2                                                    Commercial CommercialHigh L2 1x1 Straight
+  MCW2W-17-L3                                                    Commercial CommercialHigh L3 1x1 Straight
+
 China Pack
   Panda Sanctuary                                                Monument L1 12x12 Straight
   Panda Sanctuary Back                                           Monument L1 12x8 Straight
