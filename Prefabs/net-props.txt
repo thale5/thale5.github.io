@@ -3476,6 +3476,174 @@ Twoway Toll Road Large 01b
   Traffic Light 02 Mirror
   Railway Crossing Short
   Railway Crossing Short
+Highway Connection
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Stop Sign
+  Stop Sign
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  Traffic Light 02 Mirror
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Traffic Light 02
+  --
+  Motorway Overroad Signs
+  Motorway Overroad Signs
+  --
+  Stop Sign
+  Stop Sign
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  New Street Light Highway
+  Traffic Light 02
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Traffic Light 02 Mirror
+  Railway Crossing Very Long
+  Railway Crossing Very Long
+Highway Connection Elevated
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Stop Sign
+  Stop Sign
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  Traffic Light 02 Mirror
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Traffic Light 02
+  --
+  Motorway Overroad Signs
+  Motorway Overroad Signs
+  --
+  Stop Sign
+  Stop Sign
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  New Street Light Highway
+  Traffic Light 02
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Traffic Light 02 Mirror
+  Railway Crossing Very Long
+  Railway Crossing Very Long
+Highway Barrier Connection
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Stop Sign
+  Stop Sign
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  Traffic Light 02 Mirror
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Traffic Light 02
+  --
+  Motorway Overroad Signs
+  Motorway Overroad Signs
+  --
+  Stop Sign
+  Stop Sign
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  New Street Light Highway
+  Traffic Light 02
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Traffic Light 02 Mirror
+  Railway Crossing Very Long
+  Railway Crossing Very Long
 Pedestrian Gravel
 Pedestrian Pavement
   --
@@ -3578,11 +3746,8 @@ Train Station Track
   RailwayPowerline
   Railway Buffer
   Railway Buffer
-Metro Track
-Metro Station Track
 Pedestrian Connection
 Bus Line
-Metro Line
 Train Line
 Airplane Line
 Airplane Runway
@@ -3915,6 +4080,79 @@ Train Oneway Track Tunnel
   RailwayPowerline Singular
   RailwayPowerline Singular
   RailwayPowerline Singular
+  Railway Buffer
+  Railway Buffer
+Metro Station Track Ground 01
+  --
+  Train Caution Sign Right
+  Train Caution Sign Right
+  Train Caution Sign Left
+  Train Caution Sign Left
+  Railway Buffer
+  Railway Buffer
+  --
+  Train Caution Sign Right
+  Train Caution Sign Right
+  Train Caution Sign Left
+  Train Caution Sign Left
+  Railway Buffer
+  Railway Buffer
+Metro Station Track
+Metro Track Ground 01
+  --
+  Train Caution Sign Right
+  Train Caution Sign Left
+  Railway Buffer
+  Railway Buffer
+  --
+  Train Caution Sign Right
+  Train Caution Sign Left
+  Railway Buffer
+  Railway Buffer
+Metro Track Bridge 01
+  --
+  Train Caution Sign Right
+  Train Caution Sign Left
+  Railway Buffer
+  Railway Buffer
+  --
+  Train Caution Sign Right
+  Train Caution Sign Left
+  Railway Buffer
+  Railway Buffer
+Metro Track Elevated 01
+  --
+  Train Caution Sign Right
+  Train Caution Sign Left
+  Railway Buffer
+  Railway Buffer
+  --
+  Train Caution Sign Right
+  Train Caution Sign Left
+  Railway Buffer
+  Railway Buffer
+Metro Track Slope 01
+  --
+  Train Caution Sign Right
+  Train Caution Sign Left
+  Railway Buffer
+  Railway Buffer
+  --
+  Train Caution Sign Right
+  Train Caution Sign Left
+  Railway Buffer
+  Railway Buffer
+Metro Track
+Metro Line
+Metro Station Track Elevated 01
+  --
+  Train Caution Sign Right
+  Train Caution Sign Left
+  Railway Buffer
+  Railway Buffer
+  --
+  Train Caution Sign Right
+  Train Caution Sign Left
   Railway Buffer
   Railway Buffer
 Canal
@@ -8611,6 +8849,504 @@ Small Road Monorail Elevated
   Road Arrow LR
   Road Arrow R
   Manhole
+Four Lane Highway Connection
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Stop Sign
+  Stop Sign
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  Traffic Light 02 Mirror
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Traffic Light 02
+  --
+  Motorway Overroad Signs
+  Motorway Overroad Signs
+  --
+  Stop Sign
+  Stop Sign
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  New Street Light Highway
+  Traffic Light 02
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Traffic Light 02 Mirror
+  Railway Crossing Very Long
+  Railway Crossing Very Long
+Four Lane Highway Connection Elevated
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Stop Sign
+  Stop Sign
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  Traffic Light 02 Mirror
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Traffic Light 02
+  --
+  Motorway Overroad Signs
+  Motorway Overroad Signs
+  --
+  Stop Sign
+  Stop Sign
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  New Street Light Highway
+  Traffic Light 02
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Traffic Light 02 Mirror
+  Railway Crossing Very Long
+  Railway Crossing Very Long
+Two Lane Highway Connection
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Stop Sign
+  Stop Sign
+  Traffic Light 01
+  Traffic Light Pedestrian
+  Traffic Light 01 Mirror
+  Traffic Light Pedestrian
+  --
+  Stop Sign
+  Stop Sign
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  New Street Light Highway
+  Traffic Light 02
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Traffic Light 02 Mirror
+  Railway Crossing Medium
+  Railway Crossing Medium
+Two Lane Highway Connection Elevated
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Stop Sign
+  Stop Sign
+  Traffic Light 01
+  Traffic Light Pedestrian
+  Traffic Light 01 Mirror
+  Traffic Light Pedestrian
+  --
+  Stop Sign
+  Stop Sign
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  New Street Light Highway
+  Traffic Light 02
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Traffic Light 02 Mirror
+  Railway Crossing Medium
+  Railway Crossing Medium
+Two Lane Highway Twoway Connection
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Stop Sign
+  Stop Sign
+  Traffic Light 01
+  Traffic Light 02
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  Traffic Light 02 Mirror
+  Traffic Light 01 Mirror
+  Railway Crossing Short
+  Railway Crossing Short
+  --
+  Stop Sign
+  Stop Sign
+  New Street Light Highway
+  Traffic Light 02
+  Traffic Light 01
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  Traffic Light 01 Mirror
+  Traffic Light 02 Mirror
+  Railway Crossing Short
+  Railway Crossing Short
+Two Lane Highway Twoway Connection Elevated
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Stop Sign
+  Stop Sign
+  Traffic Light 01
+  Traffic Light 02
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  Traffic Light 02 Mirror
+  Traffic Light 01 Mirror
+  Railway Crossing Short
+  Railway Crossing Short
+  --
+  Stop Sign
+  Stop Sign
+  New Street Light Highway
+  Traffic Light 02
+  Traffic Light 01
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  Traffic Light 01 Mirror
+  Traffic Light 02 Mirror
+  Railway Crossing Short
+  Railway Crossing Short
+Four Lane Highway Barrier Connection
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Stop Sign
+  Stop Sign
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  Traffic Light 02 Mirror
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Traffic Light 02
+  --
+  Motorway Overroad Signs
+  Motorway Overroad Signs
+  --
+  Stop Sign
+  Stop Sign
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  New Street Light Highway
+  Traffic Light 02
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Traffic Light 02 Mirror
+  Railway Crossing Very Long
+  Railway Crossing Very Long
+Two Lane Highway Barrier Connection
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Stop Sign
+  Stop Sign
+  Traffic Light 01
+  Traffic Light Pedestrian
+  Traffic Light 01 Mirror
+  Traffic Light Pedestrian
+  --
+  Stop Sign
+  Stop Sign
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  New Street Light Highway
+  Traffic Light 02
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Traffic Light 02 Mirror
+  Railway Crossing Medium
+  Railway Crossing Medium
+Two Lane Highway Twoway Barrier Connection
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Stop Sign
+  Stop Sign
+  Traffic Light 01
+  Traffic Light 02
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  Traffic Light 02 Mirror
+  Traffic Light 01 Mirror
+  Railway Crossing Short
+  Railway Crossing Short
+  --
+  Stop Sign
+  Stop Sign
+  New Street Light Highway
+  Traffic Light 02
+  Traffic Light 01
+  100 Speed Limit
+  Motorway Sign
+  100 Speed Limit
+  Motorway Sign
+  Traffic Light 01 Mirror
+  Traffic Light 02 Mirror
+  Railway Crossing Short
+  Railway Crossing Short
 Pedestrian Line
 Park Fence 01
 Nature Reserve Path 01
@@ -9638,3 +10374,1007 @@ University Path 02
   University Street Light 01
   University Bench 01
   University Bench 01
+Helicopter Depot Path
+Helicopter Line
+Helicopter Path
+Helicopter Stop
+Intercity Bus Line
+Fishing Path
+Fishing Dockway
+Basic Road Bridge Trolleybus
+  --
+  Stop Sign
+  Stop Sign
+  New Street Light Small Road
+  Traffic Light 01
+  Traffic Light 02
+  40 Speed Limit
+  40 Speed Limit
+  No Left Turn Sign
+  No Right Turn Sign
+  No Left Turn Sign
+  No Right Turn Sign
+  Traffic Light 02 Mirror
+  Traffic Light 01 Mirror
+  Random Street Prop NoParking
+  Railway Crossing Short
+  Railway Crossing Short
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Stop Sign
+  Stop Sign
+  Traffic Light 02
+  Traffic Light 01
+  40 Speed Limit
+  40 Speed Limit
+  No Left Turn Sign
+  No Right Turn Sign
+  No Left Turn Sign
+  No Right Turn Sign
+  Street Name Sign
+  Street Name Sign
+  Traffic Light 01 Mirror
+  Traffic Light 02 Mirror
+  Random Street Prop NoParking
+  Railway Crossing Short
+  Railway Crossing Short
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+Basic Road Elevated Trolleybus
+  --
+  Stop Sign
+  Stop Sign
+  New Street Light Small Road
+  Traffic Light 01
+  Traffic Light 02
+  40 Speed Limit
+  40 Speed Limit
+  No Left Turn Sign
+  No Right Turn Sign
+  No Left Turn Sign
+  No Right Turn Sign
+  Traffic Light 02 Mirror
+  Traffic Light 01 Mirror
+  Random Street Prop NoParking
+  Railway Crossing Short
+  Railway Crossing Short
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Stop Sign
+  Stop Sign
+  Traffic Light 02
+  Traffic Light 01
+  40 Speed Limit
+  40 Speed Limit
+  No Left Turn Sign
+  No Right Turn Sign
+  No Left Turn Sign
+  No Right Turn Sign
+  Street Name Sign
+  Street Name Sign
+  Traffic Light 01 Mirror
+  Traffic Light 02 Mirror
+  Random Street Prop NoParking
+  Railway Crossing Short
+  Railway Crossing Short
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+Basic Road Slope Trolleybus
+  --
+  Stop Sign
+  Stop Sign
+  Traffic Light 01
+  Traffic Light 02
+  40 Speed Limit
+  40 Speed Limit
+  No Left Turn Sign
+  No Right Turn Sign
+  No Left Turn Sign
+  No Right Turn Sign
+  Traffic Light 02 Mirror
+  Traffic Light 01 Mirror
+  Railway Crossing Short
+  Railway Crossing Short
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  Tunnel Light Small Road
+  Tunnel Light Small Road
+  Tunnel Light Small Road
+  --
+  Stop Sign
+  Stop Sign
+  Traffic Light 02
+  Traffic Light 01
+  40 Speed Limit
+  40 Speed Limit
+  No Left Turn Sign
+  No Right Turn Sign
+  No Left Turn Sign
+  No Right Turn Sign
+  Street Name Sign
+  Street Name Sign
+  Traffic Light 01 Mirror
+  Traffic Light 02 Mirror
+  Railway Crossing Short
+  Railway Crossing Short
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  Tunnel Light Small Road
+  Tunnel Light Small Road
+  Tunnel Light Small Road
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+Basic Road Trolleybus
+  --
+  Stop Sign
+  Stop Sign
+  Bus Stop Small
+  Sightseeing Bus Stop Small
+  Trolleybus Stop
+  New Street Light Small Road
+  New Street Light Small Road
+  Traffic Light 01
+  Traffic Light 02
+  40 Speed Limit
+  40 Speed Limit
+  No Left Turn Sign
+  No Right Turn Sign
+  No Left Turn Sign
+  No Right Turn Sign
+  Traffic Light 02 Mirror
+  Traffic Light 01 Mirror
+  Random Street Prop
+  Railway Crossing Short
+  Railway Crossing Short
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Stop Sign
+  Stop Sign
+  Bus Stop Small
+  Sightseeing Bus Stop Small
+  Trolleybus Stop
+  Traffic Light 02
+  Traffic Light 01
+  40 Speed Limit
+  40 Speed Limit
+  No Left Turn Sign
+  No Right Turn Sign
+  No Left Turn Sign
+  No Right Turn Sign
+  Street Name Sign
+  Street Name Sign
+  Traffic Light 01 Mirror
+  Traffic Light 02 Mirror
+  Random Street Prop
+  Railway Crossing Short
+  Railway Crossing Short
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+Basic Road Tunnel Trolleybus
+Medium Road Bridge Trolleybus
+  --
+  Stop Sign
+  Stop Sign
+  50 Speed Limit
+  Traffic Light Pedestrian
+  Traffic Light 01 Mirror
+  50 Speed Limit
+  No Right Turn Sign
+  No Left Turn Sign
+  Traffic Light 01
+  Traffic Light Pedestrian
+  Random Street Prop NoParking
+  Railway Crossing Medium
+  Railway Crossing Medium
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Stop Sign
+  Stop Sign
+  50 Speed Limit
+  Traffic Light 01 Mirror
+  Traffic Light 01
+  50 Speed Limit
+  No Right Turn Sign
+  No Left Turn Sign
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Random Street Prop NoParking
+  Railway Crossing Medium
+  Railway Crossing Medium
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Stop Sign
+  Stop Sign
+  Stop Sign
+  Stop Sign
+  Traffic Light Pedestrian
+  Avenue Light
+  Traffic Light 01
+  Traffic Light Pedestrian
+  Traffic Light 01 Mirror
+  Traffic Light Pedestrian
+  Traffic Light 01
+  Traffic Light Pedestrian
+  Traffic Light 01 Mirror
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+Medium Road Elevated Trolleybus
+  --
+  Stop Sign
+  Stop Sign
+  50 Speed Limit
+  Traffic Light Pedestrian
+  Traffic Light 01 Mirror
+  50 Speed Limit
+  No Right Turn Sign
+  No Left Turn Sign
+  Traffic Light 01
+  Traffic Light Pedestrian
+  Random Street Prop NoParking
+  Railway Crossing Medium
+  Railway Crossing Medium
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Stop Sign
+  Stop Sign
+  50 Speed Limit
+  Traffic Light 01 Mirror
+  Traffic Light 01
+  50 Speed Limit
+  No Right Turn Sign
+  No Left Turn Sign
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Random Street Prop NoParking
+  Railway Crossing Medium
+  Railway Crossing Medium
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Stop Sign
+  Stop Sign
+  Stop Sign
+  Stop Sign
+  Traffic Light Pedestrian
+  Avenue Light
+  Traffic Light 01
+  Traffic Light Pedestrian
+  Traffic Light 01 Mirror
+  Traffic Light Pedestrian
+  Traffic Light 01
+  Traffic Light Pedestrian
+  Traffic Light 01 Mirror
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+Medium Road Slope Trolleybus
+  --
+  Stop Sign
+  Stop Sign
+  50 Speed Limit
+  Traffic Light Pedestrian
+  Traffic Light 01 Mirror
+  50 Speed Limit
+  No Right Turn Sign
+  No Left Turn Sign
+  Traffic Light 01
+  Traffic Light Pedestrian
+  Railway Crossing Medium
+  Railway Crossing Medium
+  Tunnel Light Medium Road
+  Tunnel Light Medium Road
+  Tunnel Light Medium Road
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Stop Sign
+  Stop Sign
+  50 Speed Limit
+  Traffic Light 01 Mirror
+  Traffic Light 01
+  50 Speed Limit
+  No Right Turn Sign
+  No Left Turn Sign
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Railway Crossing Medium
+  Railway Crossing Medium
+  Tunnel Light Medium Road
+  Tunnel Light Medium Road
+  Tunnel Light Medium Road
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Stop Sign
+  Stop Sign
+  Stop Sign
+  Stop Sign
+  Traffic Light Pedestrian
+  Traffic Light 02 Mirror
+  Traffic Light Pedestrian
+  Traffic Light 02
+  Traffic Light Pedestrian
+  Traffic Light 02 Mirror
+  Traffic Light Pedestrian
+  Traffic Light 02
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+Medium Road Trolleybus
+  --
+  Stop Sign
+  Stop Sign
+  Bus Stop Large
+  Trolleybus Stop Large 01
+  Sightseeing Bus Stop Large
+  50 Speed Limit
+  Traffic Light Pedestrian
+  Traffic Light 02
+  50 Speed Limit
+  No Right Turn Sign
+  No Left Turn Sign
+  Traffic Light 02 Mirror
+  Traffic Light Pedestrian
+  Random Street Prop
+  Railway Crossing Long
+  Railway Crossing Long
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Stop Sign
+  Stop Sign
+  Bus Stop Large
+  Trolleybus Stop Large 01
+  Sightseeing Bus Stop Large
+  50 Speed Limit
+  Traffic Light 02
+  Traffic Light 02 Mirror
+  50 Speed Limit
+  No Right Turn Sign
+  No Left Turn Sign
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Random Street Prop
+  Railway Crossing Long
+  Railway Crossing Long
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Stop Sign
+  Stop Sign
+  Stop Sign
+  Stop Sign
+  Traffic Light Pedestrian
+  50 Speed Limit
+  50 Speed Limit
+  50 Speed Limit
+  50 Speed Limit
+  Avenue Light
+  No Left Turn Sign
+  No Right Turn Sign
+  No Left Turn Sign
+  No Right Turn Sign
+  Traffic Light 02 Mirror
+  Traffic Light Pedestrian
+  Traffic Light 02
+  Traffic Light Pedestrian
+  Traffic Light 02 Mirror
+  Traffic Light Pedestrian
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  Traffic Light 02
+Medium Road Tunnel Trolleybus
+Oneway Road Bridge Trolleybus
+  --
+  Stop Sign
+  Stop Sign
+  New Street Light Small Road
+  Traffic Light 01
+  Traffic Light 01 Mirror
+  40 Speed Limit
+  40 Speed Limit
+  No Left Turn Sign
+  No Right Turn Sign
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Random Street Prop NoParking
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Stop Sign
+  Stop Sign
+  Traffic Light 01 Mirror
+  Traffic Light 01
+  40 Speed Limit
+  40 Speed Limit
+  No Right Turn Sign
+  No Left Turn Sign
+  Street Name Sign
+  Street Name Sign
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Random Street Prop NoParking
+  Railway Crossing Medium
+  Railway Crossing Medium
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+Oneway Road Elevated Trolleybus
+  --
+  Stop Sign
+  Stop Sign
+  New Street Light Small Road
+  Traffic Light 01
+  Traffic Light 01 Mirror
+  40 Speed Limit
+  40 Speed Limit
+  No Left Turn Sign
+  No Right Turn Sign
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Random Street Prop NoParking
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Stop Sign
+  Stop Sign
+  Traffic Light 01 Mirror
+  Traffic Light 01
+  40 Speed Limit
+  40 Speed Limit
+  No Right Turn Sign
+  No Left Turn Sign
+  Street Name Sign
+  Street Name Sign
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Random Street Prop NoParking
+  Railway Crossing Medium
+  Railway Crossing Medium
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+Oneway Road Slope Trolleybus
+  --
+  Stop Sign
+  Stop Sign
+  Traffic Light 01
+  Traffic Light 01 Mirror
+  40 Speed Limit
+  40 Speed Limit
+  No Left Turn Sign
+  No Right Turn Sign
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Tunnel Light Small Road
+  Tunnel Light Small Road
+  Tunnel Light Small Road
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Stop Sign
+  Stop Sign
+  Traffic Light 01 Mirror
+  Traffic Light 01
+  40 Speed Limit
+  40 Speed Limit
+  No Right Turn Sign
+  No Left Turn Sign
+  Street Name Sign
+  Street Name Sign
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Railway Crossing Medium
+  Railway Crossing Medium
+  Tunnel Light Small Road
+  Tunnel Light Small Road
+  Tunnel Light Small Road
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+Oneway Road Trolleybus
+  --
+  Stop Sign
+  Stop Sign
+  Bus Stop Small
+  Sightseeing Bus Stop Small
+  Trolleybus Stop
+  New Street Light Small Road
+  Traffic Light 02 Mirror
+  Traffic Light 02
+  40 Speed Limit
+  40 Speed Limit
+  No Left Turn Sign
+  No Right Turn Sign
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Random Street Prop
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Stop Sign
+  Stop Sign
+  Bus Stop Small
+  Sightseeing Bus Stop Small
+  Trolleybus Stop
+  Traffic Light 02
+  Traffic Light 02 Mirror
+  40 Speed Limit
+  40 Speed Limit
+  No Right Turn Sign
+  No Left Turn Sign
+  Street Name Sign
+  Street Name Sign
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Random Street Prop
+  Railway Crossing Long
+  Railway Crossing Long
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+Oneway Road Tunnel Trolleybus
+Trolleybus Line
+Trolleybus Depot Road
+  --
+  Stop Sign
+  Stop Sign
+  Traffic Light 01
+  Traffic Light 02
+  40 Speed Limit
+  40 Speed Limit
+  No Left Turn Sign
+  No Right Turn Sign
+  No Left Turn Sign
+  No Right Turn Sign
+  Traffic Light 02 Mirror
+  Traffic Light 01 Mirror
+  Railway Crossing Short
+  Railway Crossing Short
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+  --
+  Stop Sign
+  Stop Sign
+  Traffic Light 02
+  Traffic Light 01
+  40 Speed Limit
+  40 Speed Limit
+  No Left Turn Sign
+  No Right Turn Sign
+  No Left Turn Sign
+  No Right Turn Sign
+  Traffic Light 01 Mirror
+  Traffic Light 02 Mirror
+  Railway Crossing Short
+  Railway Crossing Short
+  Trolleypole Side
+  Trolleypole Side
+  Trolleypole Side
+Medium Road Fixed Height
+  --
+  Stop Sign
+  Stop Sign
+  Bus Stop Large
+  Sightseeing Bus Stop Large
+  50 Speed Limit
+  Traffic Light Pedestrian
+  Traffic Light 02
+  50 Speed Limit
+  No Right Turn Sign
+  No Left Turn Sign
+  Traffic Light 02 Mirror
+  Traffic Light Pedestrian
+  Random Street Prop
+  Railway Crossing Long
+  Railway Crossing Long
+  --
+  Stop Sign
+  Stop Sign
+  Bus Stop Large
+  Sightseeing Bus Stop Large
+  50 Speed Limit
+  Traffic Light 02
+  Traffic Light 02 Mirror
+  50 Speed Limit
+  No Right Turn Sign
+  No Left Turn Sign
+  Traffic Light Pedestrian
+  Traffic Light Pedestrian
+  Random Street Prop
+  Railway Crossing Long
+  Railway Crossing Long
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Road Arrow F
+  Road Arrow FR
+  Road Arrow L
+  Road Arrow LF
+  Road Arrow LFR
+  Road Arrow LR
+  Road Arrow R
+  Manhole
+  --
+  Stop Sign
+  Stop Sign
+  Stop Sign
+  Stop Sign
+  Traffic Light Pedestrian
+  50 Speed Limit
+  50 Speed Limit
+  50 Speed Limit
+  50 Speed Limit
+  Avenue Light
+  No Left Turn Sign
+  No Right Turn Sign
+  No Left Turn Sign
+  No Right Turn Sign
+  Traffic Light 02 Mirror
+  Traffic Light Pedestrian
+  Traffic Light 02
+  Traffic Light Pedestrian
+  Traffic Light 02 Mirror
+  Traffic Light Pedestrian
+  Traffic Light 02
+Aviation Club Runway
+  --
+  Runway Light
+  Runway Light
+  --
+  Runway Light
+  Runway Light
+  Runway Light
+  Runway Light
+  Runway Light
+  Runway Light
+  --
+  Runway Light
+  Runway Light
+  Runway Light
+  Runway Light
+  Runway Light
+  Runway Light

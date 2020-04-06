@@ -14,10 +14,9 @@ Train Engine
   Train Passenger  100
   Train Engine  100
 Metro
-  Metro  100
-  Metro  100
-  Metro  100
-  Metro  100
+  Metro Passenger  100
+  Metro Passenger  100
+  Metro Passenger  100
   Metro  100
 Train Cargo Engine
   Train Cargo  100
@@ -48,3 +47,7 @@ Truck Animal
   Truck Trailer Animal 01  100
 Truck Luxury Products
   Truck Trailer Car 01  100
+Waste Transfer Truck
+  Waste Transfer Truck Trailer  100
+Fish Truck 01
+  Fish Truck 01 Trailer  100

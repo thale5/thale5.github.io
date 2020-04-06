@@ -7533,6 +7533,126 @@ Metro Entrance
   High Bench
   TrashCan02
   High Bench
+Overground Metro Station 01
+  Park Bench 01
+  Wall Light White
+  Park Bench 01
+  Plant Pot 06
+  Wall Light White
+  Parking Spaces 02
+  StreetLamp01 1
+  Wall Light White
+  bicycle_stand
+  Park Bench 01
+  Plant Pot 04
+  Parking Spaces 02
+  Wall Light White
+  Plant Pot 06
+  Wall Light White
+  Parking Spaces 02
+  Wall Light White
+  StreetLamp01 1
+  Parking Spaces 01
+  Wall Light White
+  Parking Spaces 02
+  Park Bench 01
+  bicycle_stand
+  Wall Light White
+  Plant Pot 06
+  Wall Light White
+  Wall Light White
+  Plant Pot 06
+  Plant Pot 06
+  Vending machine
+  Vending machine
+  Park Bench 01
+  Hedge 01
+  Wall Light White
+  Park Bench 01
+  Plant Pot 06
+  Wall Light White
+  Park Bench 01
+  Vending machine
+  Wall Light White
+  bicycle_stand
+  Wall Light White
+  Plant Pot 06
+  Wall Light White
+  Parking Spaces 02
+  Hedge 01
+  Parking Spaces 02
+  Park Bench 01
+  Wall Light White
+  Vending machine
+  Wall Light White
+  Plant Pot 06
+  Wall Light White
+  bicycle_stand
+  Vending machine
+  Park Bench 01
+  Hedge 01
+  Wall Light White
+Overground Metro Station Elevated 01
+  Wall Light White
+  StreetLamp01 1
+  Vending machine
+  Wall Light White
+  Wall Light White
+  Park Bench 01
+  Wall Light White
+  Plant Pot 06
+  Wall Light White
+  Plant Pot 06
+  kiosk_02
+  kiosk_03
+  TrashCan01
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Park Bench 01
+  Park Bench 01
+  Wall Light White
+  StreetLamp01 1
+  TrashCan01
+  Park Bench 01
+  Wall Light White
+  Vending machine
+  Plant Pot 06
+  StreetLamp01 1
+  TrashCan02
+  Wall Light White
+  Park Bench 01
+  TrashCan01
+  Wall Light White
+  Vending machine
+  Vending machine
+  Vending machine
+  Wall Light White
+  Park Bench 01
+  StreetLamp01 1
+  Park Bench 01
+  Wall Light White
+  Wall Light White
+  Park Bench 01
+  Vending machine
+  StreetLamp01 1
+  TrashCan01
+  Wall Light White
+  StreetLamp01 1
+  Wall Light White
+  Park Bench 01
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Vending machine
+  Wall Light White
+  TrashCan02
+  Park Bench 01
 Forestry 4x3 Processing
   Wall Light White
   Wall Light White
@@ -12967,6 +13087,102 @@ Cemetery
   StreetLamp02
   StreetLamp02
   StreetLamp02
+Eldercare 01
+  Plant Pot 02
+  Satellite
+  Plant Pot 02
+  Tiles
+  Tiles
+  Door Marker
+  Tiles
+  Plant Pot 06
+  Air Source Heat Pump 01
+  Bench 01
+  Wifi antenna
+  Roof Vegetation 03
+  Air Source Heat Pump 01
+  Plant Pot 04
+  Wall Light White
+  Plant Pot 04
+  Plant Pot 06
+  Air Source Heat Pump 01
+  Plant Pot 06
+  Modern Table Set 01
+  StreetLamp02
+  Tiles
+  Bench 01
+  Plant Pot 06
+  Plant Pot 02
+  Roof Vegetation 03
+  Plant Pot 06
+  Wall Light White
+  Air Source Heat Pump 01
+  Tiles
+  Door Marker
+  Parking Spaces 01
+  Park Bench 01
+  Wall Light White
+  Plant Pot 06
+  Flowerbed 03
+  Wall Light White
+  Flowerbed 03
+  Bench 01
+  Plant Pot 04
+  Modern Table Set 01
+  Plant Pot 02
+  Parking Spaces 01
+  Pavilion
+  Plant Pot 04
+  Flowerbed 02
+  Wall Light White
+Child Health Center 01
+  StreetLamp02
+  Wall Light White
+  Small Recycling Container 02
+  Park Bench 02
+  Plant Pot 02
+  swing-set
+  Roof Vegetation 03
+  hedge
+  Parking Spaces 01
+  Roof Vegetation 01
+  High Bench
+  Roof Vegetation 03
+  Wall Light White
+  spinning-wheel
+  seesaw
+  Plant Pot 04
+  High Tableset
+  Parking Spaces 02
+  Park Bench 02
+  Sandbox 02
+  Wall Light White
+  StreetLamp02
+  hedge2
+  seesaw
+  Park Trashbin 01
+  Plant Pot 06
+  Wall Light White
+  Roof Vegetation 03
+  Plant Pot 04
+  hedge
+  Roof Vegetation 03
+  Plant Pot 04
+  hedge2
+  Wall Light White
+  Plant Pot 02
+  bicycle_stand
+  Roof Vegetation 03
+  Roof Vegetation 01
+  Small Recycling Container 01
+  Roof Vegetation 01
+  Park Bench 01
+  hedge
+  hedge
+  Wall Light White
+  Park Bench 01
+  hedge
+  Roof Vegetation 03
 ParadoxPlaza
   Flood Light Floor White
   Large Hang Around Marker
@@ -42908,6 +43124,2299 @@ Trade School Beach Volleyball Club 01
   hedge2
   Wall Light White
   Air Source Heat Pump 02
+Waste Transfer Facility 01
+  Air Source Heat Pump 02
+  Wall Light Orange
+  Air Source Heat Pump 02
+  Barrel 01
+  Industrial Fence Long 01
+  Roof Walkway 02
+  Industrial Fence Long 01
+  Wall Light Orange
+  Barrels
+  Cargo container
+  Cargo container
+  Wall Light Orange
+  Large Recycling Container 02
+  Ventilation Pipe 01
+  industrial_fence
+  Wall Light Orange
+  Warning Light Orange
+  Industrial Fence Long 01
+  industrial_gate
+  industrial_fence
+  Air Source Heat Pump 02
+  Cargo container
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Wall Light Orange
+  Industrial Fence Long 01
+  Roof Walkway 02
+  Warning Light Orange
+  Industrial Fence Long 01
+  industrial_fence
+  industrial_fence
+  Large Recycling Container 02
+  Roof Walkway 02
+  industrial_fence
+  Ventilation Pipe 01
+  Wall Light White
+  Industrial Fence Long 01
+  Large Recycling Container 02
+  Parking Spaces 02
+  Industrial Fence Long 01
+  Wall Light Orange
+  Air Source Heat Pump 02
+  industrial_fence
+  Industrial Fence Long 01
+  Barrels
+  Industrial Fence Long 01
+  Wall Light Orange
+  Industrial Fence Long 01
+  Barrel 01
+  Wall Light Orange
+  Barrels
+  Wall Light Orange
+  Door Marker
+  Crate pile
+  Invisible Parking Space
+Waste Processing Complex 01
+  Large Recycling Container 01
+  Wall Light Orange
+  Warning Light Orange
+  Industrial Fence Long 01
+  Large Recycling Container 01
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Light Pole Orange
+  Flood Light Down Orange
+  Industrial Fence Long 01
+  Warning Light Orange
+  Wall Light Orange
+  Crate pile
+  Parking Spaces 02
+  Wall Light Orange
+  Parking Space
+  Industrial Fence Long 01
+  Crate pile
+  Parking Spaces 02
+  Wall Light Orange
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Cargo container
+  Wall Light Orange
+  Parking Spaces 01
+  industrial_gate
+  Door Marker
+  industrial_gate
+  Flood Light Down Orange
+  Light Pole Orange
+  Wall Light Orange
+  Park Bench 01
+  Wall Light Orange
+  Parking Spaces 02
+  Plant Pot 02
+  Flood Light Down Orange
+  Flood Light Down Orange
+  Wall Light Orange
+  Wall Light White
+  Industrial Fence Long 01
+  Cargo container
+  Wall Light Orange
+  Wall Light Orange
+  Large Recycling Container 01
+  Cargo container
+  Industrial Fence Long 01
+  Warning Light Orange
+  Wall Light Orange
+  Industrial Fence Long 01
+  Wall Light White
+  Industrial Fence Long 01
+  Wall Light White
+  Crate pile
+  Large Recycling Container 01
+  Industrial Fence Long 01
+  Cargo container
+  Park Bench 01
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Wall Light White
+  Cargo container
+  Light Pole Orange
+  Industrial Fence Long 01
+Passenger Helicopter Depot
+  Roof Walkway 02
+  industrial_fence
+  Door Marker
+  Wall Light White
+  Industrial Fence Long 01
+  Wall Light White
+  Industrial Fence Long 01
+  Runway Light
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Ventilation Pipe 01
+  Industrial Fence Long 01
+  Cargo container
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Runway Light
+  industrial_fence
+  Industrial Fence Long 01
+  Parking Space
+  Industrial Fence Long 01
+  Wall Light White
+  Runway Light
+  Industrial Fence Long 01
+  Satellite
+  Park Bench 01
+  Wall Light White
+  industrial_fence
+  Industrial Fence Long 01
+  Ventilation Pipe 01
+  Industrial Fence Long 01
+  Ac box 01
+  Runway Light
+  Microwave antenna
+  Runway Light
+  Parking Space
+  Industrial Fence Long 01
+  Runway Light
+  Roof Walkway 02
+  Parking Spaces 02
+  Cargo container
+  Runway Light
+  Radio mast
+  Industrial Fence Long 01
+  Cargo container
+  industrial_gate
+  Wall Light White
+  Wall Light White
+  Warning Light Orange
+  Roof Walkway 02
+  Industrial Fence Long 01
+  Small Recycling Container 02
+  Plant Pot 06
+  Industrial Fence Long 01
+  Runway Light
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+Passenger Helicopter Stop
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Warning Light Orange
+  industrial_fence
+  Parking Space
+  industrial_fence
+  Industrial Fence Long 01
+  Small Recycling Container 01
+  Industrial Fence Long 01
+  industrial_fence
+  Small Recycling Container 02
+  Barrel 01
+  Cargo container
+  Barrels
+  Parking Spaces 01
+  TrashCan01
+  Warning Light Orange
+  bicycle_stand
+  Barrel 01
+  Runway Light
+  industrial_gate
+  Plant Pot 02
+  Runway Light
+  Barrels
+  industrial_gate
+  Runway Light
+  Industrial Fence Long 01
+  Flood Light Floor White
+  industrial_fence
+  Wall Light White
+  Plant Pot 02
+  Wall Light White
+  Warning Light Orange
+  Warning Light Orange
+  Wall Light White
+  Industrial Fence Long 01
+  Runway Light
+  Parking Space
+  Industrial Fence Long 01
+  industrial_fence
+  Cargo container
+  bicycle_stand
+  ILS Building
+  Bench 01
+  Barrel 01
+  Plant Pot 02
+Advanced Inland Water Treatment Plant 01
+  Warning Light Orange
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Cargo container
+  Industrial Fence Long 01
+  industrial_fence
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Park Bench 02
+  Industrial Fence Long 01
+  Door Marker
+  Industrial Fence Long 01
+  Warning Light Orange
+  Wall Light White
+  Ac box 02
+  Wall Light White
+  Rotating ac
+  Barrels
+  Barrel 01
+  Cargo container
+  Wall Light White
+  Ac box 01
+  industrial_fence
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Barrels
+  StreetLamp01 1
+  Ac box 02
+  Wall Light White
+  Wall Light White
+  bicycle_stand
+  Barrel 01
+  Ac box 01
+  Barrels
+  Industrial Fence Long 01
+  Rotating ac
+  Industrial Fence Long 01
+  Barrels
+  Industrial Fence Long 01
+  Barrels
+  industrial_gate
+  Industrial Fence Long 01
+  Large Recycling Container 02
+  Barrel 01
+  Industrial Fence Long 01
+  StreetLamp01 1
+  Barrel 01
+  Crate pile
+  industrial_fence
+  Wall Light White
+  Crate 01
+  Parking Spaces 02
+  Industrial Fence Long 01
+  Barrels
+  Industrial Fence Long 01
+  StreetLamp01 1
+  Barrel 01
+  Barrels
+  TrashCan01
+Inland Water Treatment Plant 01
+  bicycle_stand
+  Roof Walkway 01
+  Barrels
+  Door Marker
+  Barrels
+  Ventilation Pipe 02
+  Roof Walkway 02
+  Ventilation Pipe 01
+  Barrels
+  Wall Light White
+  Barrel 01
+  Roof Walkway 02
+  bicycle_stand
+  Parking Spaces 02
+  Ventilation Pipe 01
+  Wall Light White
+  Barrel 01
+  Barrel 01
+  Cargo container
+  Barrel 01
+  Ventilation Pipe 01
+  Barrels
+  Barrel 01
+  Barrels
+  Crate 01
+  Barrels
+  Barrels
+  Barrels
+  Roof Walkway 02
+  Barrels
+  Barrel 01
+  Wall Light White
+  Barrels
+  Barrels
+  Barrel 01
+  Ventilation Pipe 01
+  Barrels
+  industrial_fence
+  Cargo container
+  Barrel 01
+  Crate pile
+  Barrels
+  Wall Light White
+Large Water Tower 01
+  Light Pole Orange
+  Barrel 01
+  Light Pole Orange
+  Flood Light Wall White
+  Barrel 01
+  Flood Light Wall White
+  Ventilation Pipe 01
+Trolleybus Depot 01
+  Wall Light White
+  Industrial Fence Long 01
+  Wall Light White
+  Parking Space
+  Cargo container
+  Rooftop access 01
+  Wall Light White
+  Crate pile
+  Industrial Fence Long 01
+  Wall Light White
+  Industrial Fence Long 01
+  StreetLamp01 1
+  Industrial Fence Long 01
+  Satellite
+  Barrels
+  Parking Spaces 02
+  Wifi antenna
+  Wall Light White
+  Wall Light White
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  StreetLamp01 1
+  Park Bench 01
+  Barrels
+  Industrial Fence Long 01
+  Small Recycling Container 02
+  Microwave antenna
+  industrial_fence
+  Parking Spaces 02
+  Industrial Fence Long 01
+  Parking Spaces 02
+  Radio mast
+  Rooftop access 01
+  Small Recycling Container 02
+  Wall Light White
+  Industrial Fence Long 01
+  Flowerbed 04
+  Parking Spaces 02
+  StreetLamp01 1
+  Rooftop access 01
+  Rooftop access 01
+  Cargo container
+  Crate pile
+  Large Recycling Container 02
+  Parking Spaces 01
+  Flowerbed 04
+  industrial_gate
+  Barrels
+  Wall Light White
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Cargo container
+  industrial_fence
+  TrashCan01
+  Barrel 01
+  Industrial Fence Long 01
+  Wall Light White
+Transport Hub 03 A
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Door Marker
+  Wall Light White
+  Door Marker
+Transport Hub 03 B
+  Parking Spaces 01
+  Wall Light White
+  Plant Pot 06
+  Vending machine
+  bicycle_stand
+  Parking Spaces 02
+  bicycle_stand
+  Plant Pot 06
+  Wall Light White
+  Plant Pot 06
+  Park Bench 01
+  Park Bench 01
+  Park Bench 01
+  Park Bench 01
+  Park Trashbin 01
+  Plant Pot 06
+  Parking Spaces 02
+  Park Bench 01
+  Plant Pot 06
+  Wall Light White
+  Park Trashbin 01
+  bicycle_stand
+  TrashCan01
+  Parking Spaces 02
+  Wall Light White
+  Wall Light White
+  Plant Pot 06
+  Park Bench 01
+  Wall Light White
+  bicycle_stand
+  Parking Spaces 02
+  Wall Light White
+  Park Bench 01
+  Plant Pot 06
+  Park Bench 01
+  Wall Light White
+  Park Bench 01
+  Parking Spaces 02
+  Wall Light White
+  Park Bench 01
+  TrashCan01
+  Plant Pot 06
+  Wall Light White
+  Park Bench 01
+  Plant Pot 06
+  Wall Light White
+  Park Bench 01
+  Park Trashbin 01
+  Plant Pot 06
+  Wall Light White
+  Plant Pot 06
+  Park Bench 01
+  Wall Light White
+  Wall Light White
+  Vending machine
+  Park Bench 01
+  Park Bench 01
+  Park Bench 01
+  TrashCan01
+  bicycle_stand
+  Park Bench 01
+  Park Bench 01
+  bicycle_stand
+  Plant Pot 04
+Transport Hub 03 C
+  Billboard_small_variation_03
+  Plant Pot 04
+  Plant Pot 06
+  Parking Spaces 01
+  Vending machine
+  Plant Pot 06
+  Plant Pot 04
+  Park Bench 01
+  Vending machine
+  Park Bench 01
+  Wall Light White
+  Plant Pot 06
+  Park Trashbin 01
+  Park Bench 01
+  Plant Pot 06
+  bicycle_stand
+  Parking Spaces 02
+  Wall Light White
+  Parking Spaces 02
+  Wall Light White
+  Plant Pot 06
+  Park Bench 01
+  Air Source Heat Pump 01
+  Park Bench 01
+  Park Bench 01
+  Roof Walkway 02
+  Plant Pot 06
+  Wall Light White
+  bicycle_stand
+  Wall Light White
+  Plant Pot 06
+  bicycle_stand
+  Park Bench 01
+  Vending machine
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Park Bench 01
+  Wall Light White
+  Park Bench 01
+  Air Source Heat Pump 01
+  Park Bench 01
+  Park Trashbin 01
+  Park Bench 01
+  bicycle_stand
+  Park Bench 01
+  Park Bench 01
+  Plant Pot 06
+  Parking Spaces 02
+  Park Bench 01
+  Vending machine
+  Wall Light White
+  bicycle_stand
+  Plant Pot 06
+  Vending machine
+  Billboard_small_variation_01
+  Wall Light White
+  Roof Walkway 02
+  Vending machine
+  Park Bench 01
+  Parking Spaces 02
+  kiosk_02
+  Wall Light White
+  Plant Pot 06
+Fish Farm 01
+  Cable reel 02
+  Barrel 01
+  Door Marker
+  Invisible Parking Space
+  Wall Light White
+  Invisible Parking Space
+  Cable reel 02
+  Barrel 01
+  StreetLamp01 1
+  Barrels
+  Wall Light White
+  Barrels
+  Ventilation Pipe 01
+  Ventilation Pipe 01
+  Crate pile
+  Invisible Parking Space
+  Crate pile
+  Crate 01
+  Invisible Parking Space
+  Air Source Heat Pump 01
+  StreetLamp01 1
+  Crate pile
+  Cargo container
+  Cable reel 01
+  Cargo container
+  Small Recycling Container 03
+  Roof Walkway 02
+  Small Recycling Container 03
+  Crate pile
+  Rotating ac
+  StreetLamp01 1
+  Cargo container
+  Air Source Heat Pump 01
+  Crate 01
+  Roof Walkway 02
+  Wall Light White
+  Crate pile
+  Barrels
+  Rotating ac
+  Barrels
+  Invisible Parking Space
+  Wall Light White
+  Wall Light White
+  Invisible Parking Space
+Fish Factory 01
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Cargo container
+  Air Source Heat Pump 01
+  Barrels
+  Air Source Heat Pump 01
+  Cargo container
+  Industrial Fence Long 01
+  Cargo container
+  Cargo container
+  Large Recycling Container 01
+  Industrial Fence Long 01
+  Air Source Heat Pump 01
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Plant Pot 06
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Cargo container
+  Cargo container
+  bicycle_stand
+  Plant Pot 06
+  Wall Light White
+  Crate pile
+  Small Recycling Container 02
+  Barrels
+  Plant Pot 06
+  Wall Light White
+  Industrial Fence Long 01
+  Parking Spaces 01
+  Barrel 01
+  Wall Light White
+  Plant Pot 06
+  Trashpile
+  Parking Spaces 02
+  Wall Light White
+  Industrial Fence Long 01
+  Wall Light White
+  Air Source Heat Pump 01
+  Plant Pot 06
+  Plant Pot 06
+  Industrial Fence Long 01
+  Rotating ac
+  Ventilation Pipe 01
+  bicycle_stand
+  Air Source Heat Pump 02
+  Industrial Fence Long 01
+  Large Recycling Container 02
+  Cargo container
+  Wall Light White
+  Air Source Heat Pump 01
+  Large Recycling Container 01
+  Door Marker
+  Rotating ac
+  Industrial Fence Long 01
+  Parking Spaces 02
+  Crate 01
+  Barrels
+Intercity Bus Station 01
+  Air Source Heat Pump 01
+  Wall Light White
+  Rooftop access 01
+  TrashCan01
+  Wall Light White
+  Plant Pot 02
+  Tiles
+  Radio mast
+  bicycle_stand
+  TrashCan01
+  Wall Light White
+  Ventilation Pipe 01
+  Roof Vegetation 06
+  Ac box 01
+  TrashCan01
+  bicycle_stand
+  Parking Spaces 02
+  Billboard_small_variation_02
+  TrashCan01
+  Roof Vegetation 05
+  Ac box 01
+  Air Source Heat Pump 02
+  Industrial Fence Long 01
+  bicycle_stand
+  Park Bench 01
+  streetclock
+  Vending machine
+  Parking Spaces 02
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Park Bench 02
+  Tiles
+  Small Recycling Container 02
+  Wall Light White
+  Air Source Heat Pump 01
+  Park Bench 02
+  Billboard_small_variation_03
+  Tiles
+  Tiles
+  bicycle_stand
+  Air Source Heat Pump 02
+  Wall Light White
+  Door Marker
+  TrashCan01
+  Wifi antenna
+  Tiles
+  TrashCan01
+  Wall Light White
+  Ventilation Pipe 02
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  bicycle_stand
+  Small Recycling Container 03
+  Wall Light White
+  Vending machine
+  Plant Pot 02
+  Air Source Heat Pump 02
+  Wall Light White
+  Air Source Heat Pump 02
+  Ventilation Pipe 01
+Intercity Bus Station 02
+  Parking Spaces 02
+  Plant Pot 06
+  Plant Pot 06
+  Wall Light White
+  Wall Light White
+  Tiles
+  Tiles
+  Wall Light White
+  Air Source Heat Pump 02
+  Parking Spaces 01
+  industrial_gate
+  Plant Pot 06
+  StreetLamp01 1
+  Rooftop access 01
+  Wall Light White
+  Tiles
+  StreetLamp01 1
+  Plant Pot 06
+  Park Bench 01
+  Parking Spaces 01
+  Vending machine
+  Wall Light White
+  Industrial Fence Long 01
+  Cargo container
+  Plant Pot 06
+  Tiles
+  Tiles
+  Air Source Heat Pump 02
+  Cargo container
+  Wall Light White
+  Parking Space
+  Tiles
+  Plant Pot 06
+  Plant Pot 06
+  Plant Pot 06
+  Cargo container
+  Industrial Fence Long 01
+  Plant Pot 06
+  Parking Spaces 02
+  Tiles
+  Plant Pot 06
+  Wall Light White
+  Ac box 01
+  Plant Pot 06
+  Wall Light White
+  Tiles
+  StreetLamp01 1
+  Parking Space
+  Plant Pot 06
+  Industrial Fence Long 01
+  Plant Pot 06
+  Plant Pot 06
+  Plant Pot 04
+  industrial_fence
+  Wall Light White
+  Industrial Fence Long 01
+  Tiles
+  Wall Light White
+  Park Bench 01
+  Door Marker
+  Door Marker
+  Parking Spaces 02
+  Wall Light White
+  Ac box 01
+Fishing Boat Harbor 01
+  Cable reel 02
+  Cargo container
+  Barrels
+  Crate pile
+  Park Bench 02
+  Crate 01
+  StreetLamp01 1
+  Crate pile
+  Barrels
+  Air Source Heat Pump 01
+  Small Recycling Container 02
+  Barrels
+  Barrel 01
+  Crate pile
+  Ventilation Pipe 01
+  Wall Light White
+  Ventilation Pipe 01
+  Crate 01
+  Barrels
+  Wall Light White
+  Cable reel 01
+  Cable reel 02
+  bicycle_stand
+  Crate 01
+  Barrel 01
+  Park Bench 02
+  Crate 01
+  Invisible Parking Space
+  Ventilation Pipe 01
+  Park Bench 01
+  Cargo container
+  Cargo container
+  Cable reel 02
+  Cargo container
+  StreetLamp01 1
+  Barrel 01
+  Barrels
+  Wall Light White
+  Air Source Heat Pump 01
+  Park Bench 02
+  Cable reel 02
+  Barrels
+  Cable reel 02
+  Door Marker
+  Barrel 01
+  Cargo container
+  Barrels
+  Ventilation Pipe 01
+  Invisible Parking Space
+  Wall Light White
+  StreetLamp01 1
+  Crate 01
+  Barrels
+  StreetLamp01 1
+  Wall Light White
+  Air Source Heat Pump 02
+  Crate pile
+  Invisible Parking Space
+  Invisible Parking Space
+  Crate pile
+  Wall Light White
+  Cargo container
+  Park Bench 02
+  Small Recycling Container 02
+Fish Farm 01 Sub
+  Wall Light White
+  Wall Light White
+  Warning Light Red
+  Barrel 01
+  Wall Light White
+  Warning Light Red
+  Crate 01
+  Warning Light Red
+  Wall Light White
+  Warning Light Red
+Aviation Club 01 A
+  Wall Light White
+  Rotating ac
+  Wall Light White
+  Hedge 01
+  Wall Light White
+  Door Marker
+  Air Source Heat Pump 01
+  Windsock
+  Wall Light White
+  Wall Light White
+  Air Source Heat Pump 02
+  Park Bench 01
+  Wall Light White
+  hedge
+  Hedge 01
+  Park Bench 01
+  Wall Light White
+  Air Source Heat Pump 01
+  Park Bench 01
+  Plant Pot 02
+  Plant Pot 02
+  Wall Light White
+  Hedge 01
+  Air Source Heat Pump 01
+  Wall Light White
+  Plant Pot 02
+  Parking Space
+  Ventilation Pipe 02
+  Wall Light White
+  Parking Space
+  Park Bench 01
+  hedge
+  Plant Pot 02
+  Parking Spaces 02
+  Plant Pot 02
+  ILS Building
+  Hedge 01
+  Ventilation Pipe 02
+  Parking Spaces 02
+  Air Source Heat Pump 01
+  Wall Light White
+  Park Bench 01
+  Wall Light White
+  Airport Light
+  Wall Light White
+  Wall Light White
+  Airport Light
+  hedge
+  Door Marker
+  Parking Spaces 02
+  bicycle_stand
+  Air Source Heat Pump 01
+  Parking Spaces 02
+  Park Bench 01
+  Parking Spaces 02
+  Plant Pot 02
+Aviation Club 01 B
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Barrel 01
+  Ventilation Pipe 01
+  Industrial Fence Long 01
+  Wall Light White
+  Industrial Fence Long 01
+  Barrels
+  Industrial Fence Long 01
+  Wall Light White
+  Industrial Fence Long 01
+  Barrel 01
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Large Recycling Container 02
+  Air Source Heat Pump 01
+  Parking Space
+  Barrels
+  Barrels
+  Industrial Fence Long 01
+  Air Source Heat Pump 02
+  Air Source Heat Pump 01
+  Air Source Heat Pump 02
+  Industrial Fence Long 01
+  Roof Walkway 02
+  Airport Light
+  Parking Space
+  Ventilation Pipe 02
+  Cargo container
+  Roof Walkway 02
+  Barrel 01
+  Barrel 01
+  industrial_fence
+  Wall Light White
+  Roof Walkway 02
+  Ventilation Pipe 01
+  Cargo container
+  Wall Light White
+  Cargo container
+  Roof Walkway 02
+  Barrels
+  Air Source Heat Pump 01
+  Parking Space
+  Cargo container
+  Barrel 01
+  Ventilation Pipe 02
+  Barrel 01
+Aviation Club 01 C
+  Park Bench 02
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Airport Light
+  Barrel 01
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Modern Table Set 01
+  Cargo container
+  Cargo container
+  Cargo container
+  Air Source Heat Pump 01
+  Roof Walkway 02
+  Wall Light White
+  Parking Space
+  Barrels
+  Barrel 01
+  Industrial Fence Long 01
+  Barrels
+  Barrel 01
+  Air Source Heat Pump 01
+  Roof Walkway 02
+  Industrial Fence Long 01
+  Parking Spaces 02
+  Barrels
+  Wall Light White
+  Industrial Fence Long 01
+  Parking Space
+  Industrial Fence Long 01
+  Tiles
+  Air Source Heat Pump 01
+  Cargo container
+  Wall Light White
+  Barrels
+  Roof Walkway 02
+  Small Recycling Container 02
+  Industrial Fence Long 01
+  Wall Light White
+  Roof Walkway 02
+  Small Recycling Container 03
+  Large Recycling Container 02
+  Wall Light White
+  Small Recycling Container 02
+  Barrels
+  Wall Light White
+  Park Trashbin 02
+  Industrial Fence Long 01
+  Barrel 01
+  Industrial Fence Long 01
+Transport Hub 01 A
+  Wall Light White
+  kiosk_02
+  Parking Spaces 02
+  Wall Light White
+  Wall Light White
+  Air Source Heat Pump 02
+  Wall Light White
+  Plant Pot 06
+  Plant Pot 02
+  Air Source Heat Pump 02
+  Parking Spaces 02
+  Plant Pot 06
+  Park Bench 01
+  TrashCan01
+  Wall Light White
+  Plant Pot 06
+  Parking Spaces 02
+  Wall Light White
+  Parking Spaces 02
+  Wall Light White
+  Parking Spaces 02
+  Wall Light White
+  TrashCan01
+  Wall Light White
+  TrashCan01
+  TrashCan01
+  Park Bench 01
+  Vending machine
+  Park Bench 01
+  Wall Light White
+  Billboard_medium_flat_variation_01
+  Billboard_small_variation_03
+  Wall Light White
+  Plant Pot 06
+  Wall Light White
+  Park Bench 01
+  Wall Light White
+  TrashCan01
+  Wall Light White
+  Rooftop access 01
+  Parking Spaces 02
+  Wall Light White
+  TrashCan01
+  Wall Light White
+  Air Source Heat Pump 02
+  Rooftop access 01
+  Wall Light White
+  Park Bench 01
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  TrashCan01
+  TrashCan01
+  Billboard_small_variation_01
+  Air Source Heat Pump 02
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  TrashCan01
+  Park Bench 01
+  Plant Pot 02
+  Wall Light White
+  Wall Light White
+Transport Hub 02 A
+  TrashCan01
+  Radio mast
+  Wall Light White
+  Park Bench 01
+  Wall Light White
+  Wall Light White
+  Park Bench 02
+  Wall Light White
+  Vending machine
+  Park Bench 02
+  Wall Light White
+  Park Bench 02
+  Wall Light White
+  Invisible Parking Space
+  Park Bench 01
+  Vending machine
+  Microwave antenna
+  TrashCan01
+  TrashCan01
+  Wall Light White
+  Wall Light White
+  Park Bench 02
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Park Bench 01
+  TrashCan01
+  Park Bench 02
+  Wall Light White
+  Wall Light White
+  Wifi antenna
+  Satellite
+  Hang Around Marker
+  kiosk_02
+  TrashCan01
+  Wall Light White
+  Wall Light White
+  Park Bench 02
+  Wall Light White
+  Park Bench 01
+  Wall Light White
+  Park Bench 02
+  Wall Light White
+  Park Bench 02
+  Park Bench 01
+  TrashCan01
+  Wall Light White
+  Vending machine
+  Park Bench 01
+  Park Bench 02
+  Invisible Parking Space
+  Wall Light White
+  Park Bench 01
+  Wall Light White
+  Wall Light White
+  TrashCan01
+  Wall Light White
+  Park Bench 02
+  Park Bench 01
+  Wall Light White
+  Invisible Parking Space
+  Wall Light White
+  Wall Light White
+Transport Hub 02 B
+  Plant Pot 06
+  Parking Spaces 02
+  Plant Pot 06
+  Parking Spaces 02
+  bicycle_stand
+  Park Bench 01
+  TrashCan01
+  Plant Pot 06
+  Plant Pot 06
+  Parking Spaces 02
+  Air Source Heat Pump 02
+  Wall Light White
+  Plant Pot 02
+  bicycle_stand
+  Plant Pot 06
+  Plant Pot 06
+  StreetLamp01 1
+  Parking Spaces 02
+  Wall Light White
+  Billboard_medium_flat_variation_01
+  Plant Pot 06
+  Plant Pot 02
+  Wall Light White
+  Park Bench 01
+  Air Source Heat Pump 02
+  Park Bench 01
+  Billboard_small_variation_02
+  Plant Pot 06
+  Plant Pot 06
+  Wall Light White
+  Plant Pot 06
+  Plant Pot 06
+  Plant Pot 06
+  Wall Light White
+  bicycle_stand
+  Park Bench 01
+  Park Bench 01
+  StreetLamp01 1
+  Parking Spaces 02
+  Plant Pot 06
+  Parking Spaces 02
+  Air Source Heat Pump 02
+  Billboard_small_variation_03
+  StreetLamp01 1
+  Wall Light White
+  Plant Pot 06
+  Plant Pot 02
+  Wall Light White
+  Billboard_small_variation_01
+  Park Bench 01
+  Wall Light White
+  Plant Pot 06
+  Parking Spaces 02
+  Parking Spaces 01
+  Parking Spaces 02
+  Parking Spaces 02
+  Plant Pot 02
+  TrashCan01
+  Plant Pot 06
+  Parking Spaces 02
+  Parking Spaces 02
+  StreetLamp01 1
+Transport Hub 02 C
+  Parking Spaces 02
+  Small Recycling Container 02
+  bicycle_stand
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Air Source Heat Pump 01
+  Crate pile
+  Wall Light White
+  Small Recycling Container 02
+  Wall Light White
+  Air Source Heat Pump 01
+  Wall Light White
+  Wall Light White
+  Air Source Heat Pump 01
+  bicycle_stand
+  Ac box 01
+  Parking Spaces 02
+  Wall Light White
+  Crate 01
+  Wall Light White
+  Air Source Heat Pump 01
+  Wall Light White
+  Wall Light White
+  TrashCan01
+  Air Source Heat Pump 01
+  Cargo container
+  Wall Light White
+  Cargo container
+  Wall Light White
+  Ac box 01
+Fish Market 01
+  Hang Around Marker
+  Wall Light White
+  Cargo container
+  Hang Around Marker
+  Wall Light White
+  Park Bench 02
+  Wall Light White
+  Wall Light White
+  Crate pile
+  Large Recycling Container 02
+  Cargo container
+  Wall Light White
+  Barrels
+  Large Recycling Container 02
+  Crate pile
+  StreetLamp01 1
+  Hang Around Marker
+  Wall Light White
+  Cargo container
+  Park Tableset 01
+  StreetLamp01 1
+  Park Tableset 01
+  StreetLamp01 1
+  Parking Space
+  Barrels
+  Crate 01
+  Cargo container
+  Cargo container
+  Crate pile
+  TrashCan01
+  Wall Light White
+  Crate pile
+  Cargo container
+  Hang Around Marker
+  Wall Light White
+  TrashCan01
+  Parking Spaces 01
+  Crate pile
+  Cargo container
+  Crate pile
+  StreetLamp01 1
+  Cargo container
+  StreetLamp01 1
+  Hang Around Marker
+  Park Tableset 01
+  Cargo container
+  TrashCan01
+  Cargo container
+  Barrels
+  StreetLamp01 1
+  Cargo container
+  TrashCan01
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Park Tableset 01
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Hang Around Marker
+  Wall Light White
+  Wall Light White
+Fish Farm 02
+  Air Source Heat Pump 01
+  Invisible Parking Space
+  Park Bench 02
+  Crate pile
+  Barrels
+  Wall Light White
+  Crate 01
+  Cargo container
+  Wall Light White
+  Crate pile
+  Crate 01
+  Wall Light White
+  Park Bench 02
+  Ventilation Pipe 01
+  Crate 01
+  StreetLamp01 1
+  Cargo container
+  StreetLamp01 1
+  Crate 01
+  Invisible Parking Space
+  Crate pile
+  Cargo container
+  Barrels
+  Invisible Parking Space
+  Air Source Heat Pump 01
+  Wall Light White
+  Large Recycling Container 02
+  StreetLamp01 1
+  TrashCan01
+  Ventilation Pipe 01
+  Cargo container
+  Wall Light White
+  Air Source Heat Pump 01
+  Barrel 01
+  Small Recycling Container 03
+  Invisible Parking Space
+  Barrel 01
+  Ventilation Pipe 01
+  Wall Light White
+  Air Source Heat Pump 01
+  Crate 01
+  Invisible Parking Space
+  Door Marker
+  Crate 01
+  Wall Light White
+  Hang Around Marker
+  Barrel 01
+  StreetLamp01 1
+  Crate pile
+  table-set
+  Crate pile
+  Crate pile
+Fish Farm 03
+  Crate 01
+  Park Bench 02
+  Crate 01
+  Ventilation Pipe 01
+  Crate pile
+  Wall Light White
+  Barrel 01
+  Wall Light White
+  Crate 01
+  Crate 01
+  Crate 01
+  Invisible Parking Space
+  StreetLamp01 1
+  Air Source Heat Pump 01
+  StreetLamp01 1
+  Barrels
+  Cargo container
+  Barrels
+  Barrel 01
+  Crate 01
+  Crate 01
+  Air Source Heat Pump 01
+  Ventilation Pipe 01
+  Barrel 01
+  Barrels
+  Crate pile
+  Crate pile
+  StreetLamp01 1
+  Cargo container
+  StreetLamp01 1
+  Invisible Parking Space
+  Wall Light White
+  Park Bench 02
+  Air Source Heat Pump 01
+  StreetLamp01 1
+  Wall Light White
+  Barrel 01
+  Air Source Heat Pump 01
+  Cargo container
+  Invisible Parking Space
+  Park Bench 02
+  StreetLamp01 1
+  Barrel 01
+  Crate 01
+  Crate pile
+  Large Recycling Container 02
+  Ventilation Pipe 01
+  Crate pile
+  Crate 01
+  Ventilation Pipe 01
+  Crate pile
+  Crate 01
+  Barrels
+  Barrels
+  Barrels
+  Cargo container
+  Door Marker
+  Barrels
+  Wall Light White
+  Park Bench 02
+  bicycle_stand
+  Crate 01
+  Air Source Heat Pump 01
+  Crate pile
+Fishing Boat Harbor 02
+  Park Bench 02
+  Flood Light Floor White
+  Invisible Parking Space
+  Park Bench 02
+  Flood Light Floor White
+  Cargo container
+  Hang Around Marker
+  Barrels
+  Crate pile
+  Flood Light Floor White
+  Flood Light Floor White
+  Crate pile
+  Park Bench 02
+  Park Bench 01
+  Flood Light Floor White
+  Wall Light White
+  Wall Light White
+  Crate pile
+  Crate 01
+  Wall Light White
+  Cargo container
+  Flood Light Floor White
+  Modern Fence 02
+  Flood Light Floor White
+  Invisible Parking Space
+  Door Marker
+  Crate pile
+  Barrel 01
+  Cable reel 02
+  Cargo container
+  Cable reel 01
+  Barrel 01
+  Park Bench 02
+  Barrels
+  Wall Light White
+  Barrel 01
+  Barrels
+  Flood Light Floor White
+  Invisible Parking Space
+  Park Bench 02
+  Flood Light Floor White
+  Crate pile
+  Park Bench 01
+  Invisible Parking Space
+  Crate pile
+  Flood Light Floor White
+  Flood Light Floor White
+  Park Bench 02
+  Park Bench 01
+  Modern Fence 02
+  Flood Light Floor White
+  Cargo container
+  Wall Light White
+  Invisible Parking Space
+  Wall Light White
+  Park Bench 01
+  Invisible Parking Space
+  Wall Light White
+  Cargo container
+  Barrels
+  Invisible Parking Space
+  Invisible Parking Space
+  Cable reel 02
+  Barrels
+Fishing Boat Harbor 03
+  Invisible Parking Space
+  Wall Light White
+  Barrel 01
+  Barrel 01
+  Park Bench 02
+  Invisible Parking Space
+  Door Marker
+  Crate pile
+  Barrels
+  Crate 01
+  Flood Light Floor White
+  Barrel 01
+  Crate 01
+  Park Bench 02
+  Crate 01
+  Flood Light Floor White
+  Crate pile
+  Invisible Parking Space
+  Crate pile
+  Large Recycling Container 02
+  Wall Light White
+  Barrel 01
+  Barrel 01
+  Wall Light White
+  Park Bench 02
+  Barrels
+  Flood Light Floor White
+  Park Bench 02
+  Barrel 01
+  Cargo container
+  Wall Light White
+  Barrels
+  Barrel 01
+  Barrel 01
+  Crate pile
+  Wall Light White
+  Crate pile
+  Crate 01
+  Crate 01
+  Barrel 01
+  Crate pile
+  Crate pile
+  Cargo container
+  Barrel 01
+  StreetLamp01 1
+  Invisible Parking Space
+  Small Recycling Container 03
+  Barrels
+  Flood Light Floor White
+  StreetLamp01 1
+  Barrels
+  Flood Light Floor White
+  Park Bench 02
+  Crate 01
+  Crate 01
+  Cargo container
+  Flood Light Floor White
+  Barrels
+  Crate 01
+  Flood Light Floor White
+  Barrels
+  Barrels
+  Flood Light Floor White
+  Wall Light White
+Fishing Boat Harbor 04
+  Wall Light White
+  Crate pile
+  Crate pile
+  Roof Walkway 02
+  Cargo container
+  Cargo container
+  Invisible Parking Space
+  StreetLamp01 1
+  Cargo container
+  Wall Light White
+  Ventilation Pipe 01
+  Barrel 01
+  Crate pile
+  Crate 01
+  Invisible Parking Space
+  Ventilation Pipe 01
+  Crate pile
+  Invisible Parking Space
+  Air Source Heat Pump 01
+  Wall Light White
+  Ventilation Pipe 01
+  Air Source Heat Pump 01
+  Large Recycling Container 02
+  Crate pile
+  Cargo container
+  StreetLamp01 1
+  Air Source Heat Pump 01
+  Air Source Heat Pump 01
+  Invisible Parking Space
+  Barrel 01
+  Barrels
+  Wall Light White
+  Cargo container
+  Barrels
+  Crate 01
+  Crate pile
+  Roof Walkway 02
+  Invisible Parking Space
+  Air Source Heat Pump 01
+  Crate 01
+  Cargo container
+  Roof Walkway 02
+  Ventilation Pipe 01
+  Door Marker
+  Roof Walkway 02
+  Cargo container
+  Cargo container
+  Barrels
+  Air Source Heat Pump 01
+  Crate pile
+  Barrels
+  Wall Light White
+  Roof Walkway 02
+  Barrels
+  Cargo container
+  Crate 01
+  Air Source Heat Pump 01
+  Cargo container
+  Crate 01
+  Wall Light White
+  Crate pile
+  Cargo container
+  Wall Light White
+  Crate pile
+Fishing Boat Harbor 05
+  Flood Light Floor White
+  Crate 01
+  Park Bench 02
+  Barrel 01
+  Barrel 01
+  Flood Light Floor White
+  Large Recycling Container 02
+  Invisible Parking Space
+  Wall Light White
+  Crate pile
+  Flood Light Floor White
+  Ac box 01
+  Cargo container
+  Cargo container
+  Barrels
+  Flood Light Floor White
+  Wall Light White
+  Cargo container
+  Wall Light White
+  Wall Light White
+  Ventilation Pipe 02
+  Flood Light Floor White
+  Crate pile
+  Small Recycling Container 03
+  Flood Light Floor White
+  Door Marker
+  Cargo container
+  Flood Light Floor White
+  Invisible Parking Space
+  Invisible Parking Space
+  Wall Light White
+  Flood Light Floor White
+  Barrels
+  Wall Light White
+  Crate 01
+  Wall Light White
+  Park Bench 02
+  Flood Light Floor White
+  Barrels
+  Invisible Parking Space
+  Crate pile
+  Flood Light Floor White
+  Invisible Parking Space
+  Barrels
+  Wall Light White
+  Barrels
+  StreetLamp01 1
+  Barrel 01
+  Ac box 01
+  Wall Light White
+  Crate pile
+  Park Bench 02
+  Wall Light White
+  Barrel 01
+  Cargo container
+  Cargo container
+  Crate pile
+  Park Bench 02
+  Barrels
+  Crate pile
+  Flood Light Floor White
+  Crate 01
+  Cargo container
+  Wall Light White
+Transport Hub 04 E
+  Parking Spaces 02
+  Park Bench 01
+  Hedge 01
+  StreetLamp01 1
+  Parking Spaces 02
+  Wall Light White
+  Parking Spaces 02
+  Hedge 01
+  Hedge 01
+  StreetLamp01 1
+  Parking Spaces 02
+  StreetLamp01 1
+  Hedge 01
+  Parking Spaces 02
+  Parking Spaces 02
+  Hedge 01
+  Hedge 01
+  Parking Spaces 02
+  Parking Spaces 02
+  StreetLamp01 1
+  Hedge 01
+  Wall Light White
+  Parking Spaces 02
+  Wall Light White
+  Hedge 01
+  Parking Spaces 02
+  StreetLamp01 1
+  Hedge 01
+  Parking Spaces 02
+  Flood Light Floor White
+  Wall Light White
+  Parking Spaces 02
+  Parking Spaces 02
+  Parking Spaces 02
+  Wall Light White
+  Parking Spaces 02
+  Hedge 01
+  Parking Spaces 02
+  Parking Spaces 02
+  Hedge 01
+  Parking Spaces 02
+  Flood Light Floor White
+  StreetLamp01 1
+  Hedge 01
+  Hedge 01
+  Parking Spaces 02
+  Parking Spaces 02
+  Hedge 01
+  Parking Spaces 02
+  Hedge 01
+  Parking Spaces 02
+  Parking Spaces 02
+  Parking Spaces 02
+  Park Bench 01
+  Hedge 01
+  Parking Spaces 02
+  Parking Spaces 02
+  Hedge 01
+  Hedge 01
+  Flood Light Floor White
+  Parking Spaces 02
+  Hedge 01
+  Parking Spaces 02
+  Hedge 01
+Transport Hub 04 B
+  Air Source Heat Pump 02
+  Runway Light
+  Industrial Fence Long 01
+  Park Bench 01
+  Plant Pot 06
+  Industrial Fence Long 01
+  Plant Pot 06
+  Industrial Fence Long 01
+  Air Source Heat Pump 02
+  Park Bench 01
+  Wall Light White
+  Wall Light White
+  Satellite
+  Industrial Fence Long 01
+  Park Bench 01
+  Industrial Fence Long 01
+  Plant Pot 06
+  Tiles
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Tiles
+  Industrial Fence Long 01
+  Runway Light
+  Industrial Fence Long 01
+  Runway Light
+  Industrial Fence Long 01
+  Air Source Heat Pump 02
+  Plant Pot 06
+  Runway Light
+  Wall Light White
+  Wall Light White
+  Runway Light
+  Industrial Fence Long 01
+  Tiles
+  Runway Light
+  Wall Light White
+  Industrial Fence Long 01
+  Wall Light White
+  Airport Light
+  ILS Building
+  Tiles
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Satellite
+  Plant Pot 06
+  Wall Light White
+  Plant Pot 06
+  Industrial Fence Long 01
+  industrial_gate
+  Tiles
+  Wifi antenna
+  Wall Light White
+  Runway Light
+  Runway Light
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Plant Pot 06
+  Radio mast
+  Wall Light White
+  Plant Pot 06
+  Industrial Fence Long 01
+  kiosk_03
+  Wall Light White
+Transport Hub 04 C
+  StreetLamp01 1
+  Wall Light White
+  Park Bench 01
+  StreetLamp01 1
+  Hedge 01
+  Rooftop access 01
+  Parking Spaces 02
+  Parking Spaces 01
+  Parking Spaces 02
+  Hedge 01
+  Parking Spaces 02
+  Hedge 01
+  Hedge 01
+  Parking Spaces 02
+  Air Source Heat Pump 02
+  Parking Spaces 01
+  Hedge 01
+  Wall Light White
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Wall Light White
+  Plant Pot 02
+  Air Source Heat Pump 02
+  Hedge 01
+  Parking Space
+  Hedge 01
+  Parking Spaces 02
+  Parking Space
+  Parking Spaces 02
+  Parking Spaces 02
+  Rooftop access 01
+  Hedge 01
+  Parking Spaces 01
+  Air Source Heat Pump 02
+  Wall Light White
+  Airport Light
+  Parking Spaces 02
+  StreetLamp01 1
+  StreetLamp01 1
+  Hedge 01
+  Hedge 01
+  Parking Spaces 02
+  Radio mast
+  Parking Spaces 02
+  Hedge 01
+  Parking Spaces 02
+  Parking Spaces 02
+  Parking Spaces 02
+  Hedge 01
+  Satellite
+  Hedge 01
+  Plant Pot 02
+  Wall Light White
+  Hedge 01
+  Hedge 01
+  Parking Spaces 02
+Transport Hub 04 D
+  Park Tableset 01
+  Luggage Car
+  Air Source Heat Pump 02
+  Cargo container
+  Airport Light
+  Park Tableset 01
+  Air Source Heat Pump 02
+  Park Tableset 01
+  Tiles
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Rooftop access 01
+  Plant Pot 06
+  Cargo container
+  Wall Light White
+  Air Source Heat Pump 02
+  Rooftop access 01
+  Air Source Heat Pump 02
+  Tiles
+  Cargo container
+  Ventilation Pipe 02
+  Cargo container
+  Park Bench 01
+  Air Source Heat Pump 02
+  Rooftop access 01
+  Air Source Heat Pump 02
+  Tiles
+  Airport Light
+  Luggage Car
+  Cargo container
+  Rooftop access 01
+  Cargo container
+  Cargo container
+  Air Source Heat Pump 02
+  Luggage Car
+  Plant Pot 06
+  Luggage Car
+  Air Source Heat Pump 02
+  Plant Pot 06
+  Cargo container
+  Wall Light White
+  Plant Pot 06
+  Airport Light
+  Luggage Car
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Plant Pot 06
+  Industrial Fence Long 01
+  Plant Pot 06
+  Rooftop access 01
+  Rooftop access 01
+  Ventilation Pipe 01
+  Industrial Fence Long 01
+  Luggage Car
+  Ventilation Pipe 02
+  Cargo container
+  Park Bench 01
+  Air Source Heat Pump 02
+  Wall Light White
+Transport Hub 04 A
+  Luggage Car
+  Wall Light White
+  Airport Light
+  Cargo container
+  Cargo container
+  Air Source Heat Pump 02
+  Cargo container
+  Air Source Heat Pump 02
+  Wall Light White
+  Light Pole Red
+  Ventilation Pipe 01
+  Cargo container
+  Cargo container
+  Rooftop access 01
+  Wall Light White
+  Flood Light White
+  Wall Light White
+  Cargo container
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Luggage Car
+  Light Pole Red
+  Flood Light White
+  Air Source Heat Pump 02
+  Ventilation Pipe 02
+  Flood Light White
+  Wall Light White
+  Cargo container
+  Cargo container
+  Air Source Heat Pump 02
+  Flood Light White
+  Air Source Heat Pump 02
+  Wall Light White
+  Rooftop access 01
+  Wall Light White
+  Wall Light White
+  Cargo container
+  Wall Light White
+  Air Source Heat Pump 02
+  Light Pole Red
+  Wall Light White
+  Light Pole Red
+  Wall Light White
+  Air Source Heat Pump 02
+  Luggage Car
+  Air Source Heat Pump 02
+  Airport Light
+  Cargo container
+  Wall Light White
+  Wall Light White
+  Luggage Car
+Transport Hub 04 F
+  Air Source Heat Pump 02
+  Park Bench 01
+  Rotating ac
+  Cargo container
+  Luggage Car
+  Air Source Heat Pump 02
+  Rotating ac
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Rooftop access 01
+  Airport Light
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Rooftop access 01
+  Air Source Heat Pump 02
+  Cargo container
+  Cargo container
+  StreetLamp01 1
+  Tiles
+  Industrial Fence Long 01
+  Air Source Heat Pump 02
+  Cargo container
+  Air Source Heat Pump 02
+  Cargo container
+  Cargo container
+  Wall Light White
+  Rooftop access 01
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Luggage Car
+  Rooftop access 01
+  Cargo container
+  Air Source Heat Pump 02
+  Cargo container
+  Park Bench 01
+  Cargo container
+  Air Source Heat Pump 02
+  Cargo container
+  Airport Light
+  Cargo container
+  Tiles
+  Rooftop access 01
+  Luggage Car
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Luggage Car
+  Airport Light
+  Cargo container
+  Wall Light White
+  Park Bench 01
+  Industrial Fence Long 01
+  Luggage Car
+  Cargo container
+  Cargo container
+  Air Source Heat Pump 02
+Transport Hub 04 G
+  Air Source Heat Pump 02
+  Satellite
+  Air Source Heat Pump 02
+  Satellite
+  Luggage Car
+  Rooftop access 01
+  Air Source Heat Pump 02
+  Wifi antenna
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  Radio mast
+  Luggage Car
+  Satellite
+  Cargo container
+  Cargo container
+  Air Source Heat Pump 02
+  Airport Light
+  Luggage Car
+  Airport Light
+  Rooftop access 01
+  Air Source Heat Pump 02
+  Luggage Car
+  Air Source Heat Pump 02
+  Radio mast
+Transport Hub 05 A
+  Plant Pot 06
+  Wall Light White
+  Plant Pot 06
+  Wall Light White
+  Parking Spaces 02
+  Plant Pot 06
+  Wall Light White
+  Wall Light White
+  TrashCan01
+  Plant Pot 06
+  Plant Pot 06
+  Park Bench 01
+  StreetLamp01 1
+  Plant Pot 04
+  Wall Light White
+  Wall Light White
+  Parking Spaces 02
+  Wall Light White
+  Wall Light White
+  Plant Pot 02
+  Park Bench 02
+  Park Bench 01
+  Wall Light White
+  TrashCan01
+  Plant Pot 06
+  Parking Spaces 02
+  TrashCan01
+  Plant Pot 06
+  TrashCan01
+  Wall Light White
+  TrashCan01
+  Parking Spaces 02
+  Billboard_small_variation_02
+  Plant Pot 06
+  Wall Light White
+  Plant Pot 06
+  StreetLamp01 1
+  Park Bench 01
+  Plant Pot 06
+  Park Bench 01
+  StreetLamp01 1
+  Plant Pot 06
+  Wall Light White
+  Door Marker
+  StreetLamp01 1
+  Plant Pot 06
+  Hang Around Marker
+  Plant Pot 04
+  Park Bench 01
+  Plant Pot 06
+  Park Bench 01
+  Plant Pot 02
+  Plant Pot 06
+  Park Bench 01
+  Parking Spaces 01
+  Plant Pot 06
+  Plant Pot 06
+  Plant Pot 06
+  Wall Light White
+  Park Bench 01
+  Parking Spaces 02
+  Billboard_small_variation_03
+Eco Advanced Inland Water Treatment Plant 01
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Cargo container
+  Light Pole Orange
+  Warning Light Orange
+  Barrels
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Light Pole Orange
+  Industrial Fence Long 01
+  Warning Light Orange
+  Plant Pot 06
+  Industrial Fence Long 01
+  Barrel 01
+  Wall Light White
+  Light Pole Orange
+  Industrial Fence Long 01
+  industrial_fence
+  Wall Light White
+  Barrels
+  StreetLamp01 1
+  Cargo container
+  Industrial Fence Long 01
+  StreetLamp01 1
+  Door Marker
+  Barrels
+  Industrial Fence Long 01
+  Light Pole Orange
+  Plant Pot 06
+  Industrial Fence Long 01
+  Barrel 01
+  Industrial Fence Long 01
+  Rotating ac
+  Light Pole Orange
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Warning Light Orange
+  Ac box 02
+  Ac box 02
+  Rotating ac
+  Warning Light Orange
+  Industrial Fence Long 01
+  Barrel 01
+  StreetLamp01 1
+  StreetLamp01 1
+  Warning Light Orange
+  Parking Space
+  industrial_fence
+  Parking Space
+  Parking Space
+  Warning Light Orange
+  industrial_gate
+  industrial_fence
+  Wall Light White
+  Barrels
+  Warning Light Orange
+  Cargo container
+  Wall Light White
+  Rooftop access 01
+  Warning Light Orange
+  Industrial Fence Long 01
+  Light Pole Orange
+  Industrial Fence Long 01
+  Cargo container
+Eco Inland Water Treatment Plant 01
+  Large Recycling Container 02
+  Barrel 01
+  Barrel 01
+  Wall Light White
+  Park Bench 02
+  Barrels
+  Air Source Heat Pump 02
+  Ac box 01
+  Wall Light White
+  Barrels
+  Ventilation Pipe 01
+  Door Marker
+  Barrels
+  Barrel 01
+  Barrel 01
+  Ventilation Pipe 01
+  Crate 01
+  Parking Spaces 02
+  Barrels
+  Barrel 01
+  Cargo container
+  Wall Light White
+  Flood Light Floor White
+  Ac box 02
+  Air Source Heat Pump 01
+  Wifi antenna
+  Barrel 01
+  Flood Light Floor White
+  Wall Light White
+  Light Pole Red
+  Barrel 01
+  Barrels
+  Barrels
+  TrashCan01
+  Ac box 01
+  Wall Light White
+  Crate 01
+  Crate pile
+  Air Source Heat Pump 01
+  Barrel 01
+  Ventilation Pipe 01
+  Barrels
+  Barrel 01
+  Barrel 01
+  Wall Light White
+Waste Processing Complex 01 B
+  Cargo container
+  Industrial Fence Long 01
+  Wall Light Orange
+  Large Recycling Container 01
+  Industrial Fence Long 01
+  Crate pile
+  Barrel 01
+  Cargo container
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Barrel 01
+  Large Recycling Container 01
+  Factory Smoke
+  Industrial Fence Long 01
+  Barrels
+  Large Recycling Container 02
+  Cargo container
+  Crate pile
+  Trashpile
+  Barrels
+  Barrels
+  Barrels
+  Cargo container
+  Barrels
+  Warning Light Orange
+  Wall Light Orange
+  Flood Light Down Orange
+  Flood Light Down Orange
+  Flood Light Down Orange
+  Large Recycling Container 02
+  Cable reel 01
+  Trashpile
+  Crate pile
+  Industrial Fence Long 01
+  Cargo container
+  Industrial Fence Long 01
+  Factory Smoke
+  Industrial Fence Long 01
+  Wall Light Orange
+  Crate pile
+  Cargo container
+  Barrels
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Trashpile
+  Cargo container
+  Cargo container
+  Industrial Fence Long 01
+  Flood Light Down Orange
+  Warning Light Orange
+  Wall Light Orange
+  Large Recycling Container 01
+  Industrial Fence Long 01
+  Cargo container
+  industrial_fence
+  Cargo container
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Industrial Fence Long 01
+  Plank pile
+  Crate pile
+  Barrels
+Waste Transfer Facility 01 B
+  Wall Light White
+  Wifi antenna
 Football Stadium Front
   Vending machine
   TrashCan01
@@ -50475,6 +52984,465 @@ MCW2W-17-L3
   Modern Table Set 01
   Flowerpot 04
   Park Trashbin 01
+PDX01_driveinn_taiheiyo
+  Wall Light Orange
+  Invisible Parking Space
+  Invisible Parking Space
+  Wall Light Orange
+  Parking Spaces 02
+  PDXProp_parking_lot_light_single
+  PDXProp_wall-mount-light-up
+  Parking Spaces 02
+  Invisible Parking Space
+  PDXProp_wall-mount-light-up
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_wall-mount-light-up
+  Invisible Parking Space
+  PDXProp_wall-mount-light-up
+  PDXProp_parking_lot_light_single
+  Parking Spaces 02
+  Parking Spaces 02
+  Door Marker
+  Parking Spaces 02
+  Invisible Parking Space
+  Parking Spaces 02
+  PDXProp_wall-mount-light-up
+  PDXProp_wall-mount-light-up
+  Invisible Parking Space
+  Parking Spaces 02
+  Invisible Parking Space
+  PDXProp_parking_lot_light_single
+  Wall Light Orange
+  Invisible Parking Space
+PDX02_driveinn_natori
+  Door Marker
+  Hang Around Marker
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_parking_lot_light_single
+  Invisible Parking Space
+  PDXProp_wall-mount-light-down
+  Invisible Parking Space
+  PDXProp_parking_lot_light_single
+  PDXProp_wall-mount-light-down
+  Invisible Parking Space
+  PDXProp_parking_lot_light_single
+  PDXProp_parking_lot_light_single
+  PDXProp_wall-mount-light-down
+  PDXProp_wall-mount-light-down
+  PDXProp_parking_lot_light_single
+  PDXProp_wall-mount-light-down
+  PDXProp_wall-mount-light-down
+  PDXProp_wall-mount-light-down
+  Invisible Parking Space
+  PDXProp_wall-mount-light-down
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_driveinn_natori_sign
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_wall-mount-light-down
+  PDXProp_parking_lot_light_single
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_parking_lot_light_single
+  PDXProp_wall-mount-light-down
+  PDXProp_wall-mount-light-down
+PDX03_Soba Restaurant
+  Wall Light Orange
+  Wall Light Orange
+  Door Marker
+  PDXProp_parking_lot_light_single
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_parking_lot_light_single
+  PDXProp_wall-mount-light-up
+  Invisible Parking Space
+  PDXProp_wall-mount-light-up
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Door Marker
+  Invisible Parking Space
+  PDXProp_parking_lot_light_single
+  PDXProp_parking_lot_light_single
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+PDX04_Udon Shop
+  PDXProp_parking_lot_light_single
+  PDXProp_parking_lot_light_single
+  PDXProp_wall-mount-light-up
+  PDXProp_wall-mount-light-up
+  PDXProp_wall-mount-light-up
+  PDXProp_parking_lot_light_single
+  PDXProp_parking_lot_light_single
+  PDXProp_parking_lot_light_single
+  PDXProp_parking_lot_light_single
+  Door Marker
+  PDXProp_parking_lot_light_single
+  PDXProp_wall-mount-light-up
+PDX05_Ramen Shop
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_wall-mount-light-down
+  Invisible Parking Space
+  PDXProp_parking_lot_light_single
+  PDXProp_wall-mount-light-down
+  PDXProp_wall-mount-light-down
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_wall-mount-light-down
+  PDXProp_parking_lot_light_single
+  PDXProp_wall-mount-light-down
+  PDXProp_parking_lot_light_single
+  Invisible Parking Space
+  Door Marker
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_wall-mount-light-down
+  PDXProp_parking_lot_light_single
+  PDXProp_wall-mount-light-down
+PDX06_Driveinn Large
+  Invisible Parking Space
+  PDXProp_parking_lot_light_double
+  Wall Light Orange
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_parking_lot_light_double
+  Door Marker
+  Invisible Parking Space
+  Invisible Parking Space
+  StreetLamp02
+  Invisible Parking Space
+  Wall Light Orange
+  PDXProp_parking_lot_light_double
+  StreetLamp02
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_parking_lot_light_double
+  Invisible Parking Space
+  Wall Light Orange
+  Invisible Parking Space
+  PDXProp_parking_lot_light_double
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Door Marker
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  StreetLamp02
+  Invisible Parking Space
+  Invisible Parking Space
+  Hang Around Marker
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  StreetLamp02
+  Invisible Parking Space
+  PDXProp_parking_lot_light_double
+  Door Marker
+PDX07_Cityoffice_M
+  PDXProp_parking_lot_light_single
+  Invisible Parking Space
+  Wall Light Orange
+  Wall Light Orange
+  Wall Light Orange
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Door Marker
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_parking_lot_light_single
+  PDXProp_parking_lot_light_single
+  Door Marker
+  Invisible Parking Space
+  Invisible Parking Space
+  Wall Light Orange
+  Wall Light Orange
+  Invisible Parking Space
+  Door Marker
+  Invisible Parking Space
+  PDXProp_parking_lot_light_single
+  Wall Light Orange
+PDX08_Cityoffice_L
+  Door Marker
+  Wall Light Orange
+  Wall Light Orange
+  Wall Light Orange
+  Door Marker
+  Wall Light Orange
+  Door Marker
+  Door Marker
+PDX09_medium_office
+  Wall Light Orange
+  Wall Light Orange
+  Wall Light Orange
+  Wall Light Orange
+  Wall Light Orange
+  Wall Light Orange
+  Wall Light Orange
+  Door Marker
+  Wall Light Orange
+  Wall Light Orange
+  Wall Light Orange
+  Door Marker
+PDX10_JA_BLDG
+  Wall Light Orange
+  PDXProp_parking_lot_light_single
+  PDXProp_parking_lot_light_single
+  Door Marker
+  Wall Light Orange
+  Door Marker
+  Wall Light Orange
+  Door Marker
+  Wall Light Orange
+  Door Marker
+  PDXProp_parking_lot_light_single
+  PDXProp_parking_lot_light_single
+PDX11_Hotel_kikyo
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_parking_lot_light_double
+  Wall Light Orange
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_parking_lot_light_single
+  PDXProp_wall-mount-light-up
+  PDXProp_wall-mount-light-up
+  PDXProp_parking_lot_light_single
+  PDXProp_parking_lot_light_double
+  Invisible Parking Space
+  Air Source Heat Pump 02
+  Invisible Parking Space
+  PDXProp_wall-mount-light-up
+  Air Source Heat Pump 02
+  Wall Light Orange
+  PDXProp_parking_lot_light_double
+  Invisible Parking Space
+  PDXProp_wall-mount-light-up
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_parking_lot_light_single
+  Invisible Parking Space
+  PDXProp_wall-mount-light-up
+  Invisible Parking Space
+  PDXProp_wall-mount-light-up
+  PDXProp_wall-mount-light-up
+  Invisible Parking Space
+  Air Source Heat Pump 02
+  Invisible Parking Space
+  Air Source Heat Pump 02
+  Air Source Heat Pump 02
+  PDXProp_parking_lot_light_single
+  PDXProp_parking_lot_light_double
+  PDXProp_parking_lot_light_single
+  Ac box 03
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Air Source Heat Pump 02
+  Invisible Parking Space
+  Invisible Parking Space
+  Door Marker
+  Invisible Parking Space
+  PDXProp_wall-mount-light-up
+PDX12_CityHotel
+  Invisible Parking Space
+  Wall Light Orange
+  Invisible Parking Space
+  Wall Light Orange
+  Invisible Parking Space
+  Door Marker
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Door Marker
+  Wall Light Orange
+  Wall Light Orange
+  Invisible Parking Space
+  Wall Light Orange
+  Wall Light Orange
+  Invisible Parking Space
+  Invisible Parking Space
+  Wall Light Orange
+  Invisible Parking Space
+  Wall Light Orange
+  Invisible Parking Space
+PDX13_Hiroshima_sta
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Door Marker
+  Door Marker
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Door Marker
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+PDX14_Shizuoka_Station
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+  Wall Light White
+PDX15_sasaki_hospital
+  Door Marker
+  Invisible Parking Space
+  PDXProp_parking_lot_light_single
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_wall-mount-light-up
+  PDXProp_parking_lot_light_single
+  PDXProp_parking_lot_light_single
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_wall-mount-light-up
+  PDXProp_parking_lot_light_single
+  Invisible Parking Space
+  PDXProp_parking_lot_light_double
+  Invisible Parking Space
+  PDXProp_wall-mount-light-up
+  PDXProp_wall-mount-light-up
+  PDXProp_parking_lot_light_single
+  PDXProp_parking_lot_light_single
+  Invisible Parking Space
+  PDXProp_parking_lot_light_double
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Door Marker
+  PDXProp_parking_lot_light_single
+PDX16_incineration_plant
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_parking_lot_light_single
+  Invisible Parking Space
+  Door Marker
+  PDXProp_parking_lot_light_double
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_parking_lot_light_double
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_parking_lot_light_single
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Door Marker
+  Invisible Parking Space
+  PDXProp_parking_lot_light_single
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+  PDXProp_parking_lot_light_single
+  Invisible Parking Space
+  Invisible Parking Space
+  Invisible Parking Space
+PDX18_Shinjuku_bldg
+  Wall Light Orange
+  Door Marker
+  Wall Light Orange
+  Door Marker
+  Wall Light Orange
+  Door Marker
+  Wall Light Orange
+  Wall Light Orange
+PDX19_Yokohama-bldg
+  Flood Light Floor Red
+  Flood Light Floor Red
+  PDXProp_parking_lot_light_double
+  Flood Light Floor Red
+  Flood Light Floor Red
+  PDXProp_parking_lot_light_double
+PDX20_Shin-maru
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
+  PDXProp_Shin-maru_light
 Panda Sanctuary
   SteetLampChina
   Flood Light Down Orange

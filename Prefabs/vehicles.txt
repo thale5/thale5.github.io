@@ -54,6 +54,7 @@ Public Transport
   Train Cargo Engine                                             PublicTransport PublicTransportTrain L4
   Ship Cargo                                                     PublicTransport PublicTransportShip L4
   School Bus 01                                                  PublicTransport PublicTransportBus L1
+  Metro Passenger                                                PublicTransport PublicTransportMetro L1
 
 Industrial Forestry
   Forestry Truck                                                 Industrial IndustrialForestry L1
@@ -133,3 +134,20 @@ Expansion 7
   Forest Forwarder Trailer 01 Empty                              Industrial IndustrialForestry L1
   Truck Animal                                                   PlayerIndustry PlayerIndustryFarming L1
   Truck Luxury Products                                          PlayerIndustry L2
+
+Expansion 9
+  Waste Collection Truck                                         Garbage L3
+  Waste Transfer Truck                                           Garbage L4
+  Passenger Helicopter                                           PublicTransport PublicTransportPlane L3
+  Intercity Bus                                                  PublicTransport PublicTransportBus L3
+  Fishing Boat 01                                                Fishing L1
+  Trolleybus 01                                                  PublicTransport PublicTransportTrolleybus L1
+  Aviation Club Plane 01                                         Monument L5
+  Fish Truck 01                                                  Fishing L1
+  Fish Truck 01 Trailer                                          Fishing L1
+  Fishing Boat 02                                                Fishing L2
+  Fishing Boat 03                                                Fishing L3
+  Fishing Boat 04                                                Fishing L4
+  Fishing Boat 05                                                Fishing L5
+  Aviation Club Plane 02                                         Monument L5
+  Waste Transfer Truck Trailer                                   Garbage L4

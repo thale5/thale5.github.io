@@ -390,6 +390,10 @@ Public Transport
   Integrated Metro Station                                       PublicTransport PublicTransportMetro L1 1x1 Straight
   RailOnewayBridgePillar                                         PublicTransport PublicTransportTrain L1 2x1 Straight
   RailOnewayElevatedPillar                                       PublicTransport PublicTransportTrain L1 2x1 Straight
+  Overground Metro Bridge Pillar 01                              PublicTransport PublicTransportMetro L1 2x1 Straight
+  Overground Metro Elevated Pillar 01                            PublicTransport PublicTransportMetro L1 2x1 Straight
+  Overground Metro Station 01                                    PublicTransport PublicTransportMetro L1 16x4 Straight
+  Overground Metro Station Elevated 01                           PublicTransport PublicTransportMetro L1 16x4 Straight
 
 Industrial Forestry
   Forestry 4x3 Processing                                        Industrial IndustrialForestry L1 4x3 Straight
@@ -671,6 +675,8 @@ Health Care
   Medical Center                                                 HealthCare L1 15x9 Straight
   Crematory                                                      HealthCare L2 3x3 Straight
   Cemetery                                                       HealthCare L2 10x8 Straight
+  Eldercare 01                                                   HealthCare L5 12x6 Straight
+  Child Health Center 01                                         HealthCare L4 6x5 Straight
 
 Login Pack
   ParadoxPlaza                                                   Beautification L1 5x5 Straight
@@ -1534,6 +1540,66 @@ Expansion 8
 
 Expansion 8 - Summer Only
 
+Expansion 9 - Summer Only
+
+Expansion 9
+  Waste Transfer Facility 01                                     Garbage L3 10x6 Straight
+  Waste Processing Complex 01                                    Garbage L4 16x8 Straight
+  Passenger Helicopter Depot                                     PublicTransport PublicTransportPlane L3 13x7 Straight
+  Passenger Helicopter Stop                                      PublicTransport PublicTransportPlane L3 6x6 Straight
+  Advanced Inland Water Treatment Plant 01                       Water L3 10x9 Straight
+  Inland Water Treatment Plant 01                                Water L3 5x7 Straight
+  Large Water Tower 01                                           Water L1 3x3 Straight
+  Trolleybus Depot 01                                            PublicTransport PublicTransportTrolleybus L1 10x12 Straight
+  Transport Hub 03 A                                             PublicTransport PublicTransportTrain L1 4x15 Straight
+  Transport Hub 03 B                                             PublicTransport PublicTransportMetro L1 5x15 Straight
+  Transport Hub 03 C                                             PublicTransport PublicTransportTrain L1 5x15 Straight
+  Fish Farm 01                                                   Fishing L1 5x9 Straight
+  Fish Factory 01                                                Fishing L1 14x10 Straight
+  Intercity Bus Station 01                                       PublicTransport PublicTransportBus L3 10x8 Straight
+  Intercity Bus Station 02                                       PublicTransport PublicTransportBus L3 15x9 Straight
+  Fishing Boat Harbor 01                                         Fishing L1 10x9 Straight
+  Fish Farm 01 Sub                                               Fishing L1 4x4 Straight
+  Aviation Club 01 A                                             Monument L5 8x8 Straight
+  Aviation Club Apron 01                                         PublicTransport PublicTransportPlane L1 8x5 Straight
+  Aviation Club 01 B                                             PublicTransport PublicTransportPlane L1 8x8 Straight
+  Aviation Club 01 C                                             PublicTransport PublicTransportPlane L1 8x8 Straight
+  Transport Hub 01 A                                             PublicTransport PublicTransportBus L3 15x9 Straight
+  Transport Hub 02 A                                             PublicTransport PublicTransportBus L1 12x13 Straight
+  Transport Hub 02 B                                             PublicTransport PublicTransportMetro L1 5x13 Straight
+  Transport Hub 02 C                                             PublicTransport PublicTransportMetro L1 5x13 Straight
+  Fish Market 01                                                 Fishing L1 14x11 Straight
+  Fish Farm 02                                                   Fishing L3 7x9 Straight
+  Fish Farm 02 Sub                                               Fishing L1 4x4 Straight
+  Fish Farm 03                                                   Fishing L1 10x14 Straight
+  Fish Farm 03 Sub                                               Fishing L1 4x4 Straight
+  Fishing Boat Harbor 02                                         Fishing L1 10x9 Straight
+  Fishing Boat Harbor 03                                         Fishing L1 10x12 Straight
+  Fishing Boat Harbor 04                                         Fishing L1 10x14 Straight
+  Fishing Boat Harbor 05                                         Fishing L1 10x11 Straight
+  Transport Hub 04 E                                             PublicTransport PublicTransportTrain L1 14x11 Straight
+  Transport Hub 04 B                                             PublicTransport PublicTransportTrain L1 14x10 Straight
+  Transport Hub 04 C                                             PublicTransport PublicTransportTrain L1 14x10 Straight
+  Transport Hub 04 D                                             PublicTransport PublicTransportTrain L1 14x11 Straight
+  Transport Hub 04 A                                             PublicTransport PublicTransportPlane L1 14x11 Straight
+  Transport Hub 04 F                                             PublicTransport PublicTransportTrain L1 14x11 Straight
+  Transport Hub 04 G                                             PublicTransport PublicTransportTrain L1 14x11 Straight
+  Transport Hub 05 A                                             PublicTransport PublicTransportBus L1 15x8 Straight
+  Transport Hub 05 B                                             PublicTransport PublicTransportMetro L1 1x1 Straight
+  Eco Advanced Inland Water Treatment Plant 01                   Water L3 10x9 Straight
+  Eco Inland Water Treatment Plant 01                            Water L3 5x7 Straight
+  Fish Farm 02 Sub Algae                                         Fishing L1 4x4 Straight
+  Waste Processing Complex 01 B                                  Garbage L4 16x8 Straight
+  Transport Hub Apron 4x10                                       PublicTransport PublicTransportPlane L1 4x10 Straight
+  Transport Hub Apron 4x11                                       PublicTransport PublicTransportPlane L1 4x11 Straight
+  Transport Hub Apron 14x7                                       PublicTransport PublicTransportPlane L1 14x7 Straight
+  Transport Hub Apron 3x4                                        PublicTransport PublicTransportPlane L1 3x4 Straight
+  Transport Hub Apron 9x2                                        PublicTransport PublicTransportPlane L1 9x2 Straight
+  Transport Hub Apron 14x1                                       PublicTransport PublicTransportPlane L1 10x1 Straight
+  Transport Hub Apron 1x2                                        PublicTransport PublicTransportPlane L1 1x2 Straight
+  Transport Hub 04 H                                             PublicTransport PublicTransportMetro L1 1x1 Straight
+  Waste Transfer Facility 01 B                                   Garbage L4 1x1 Straight
+
 Football
   Football Stadium Front                                         Monument L1 16x8 Straight
   Football Stadium Back                                          Monument L1 16x4 Straight
@@ -1850,6 +1916,28 @@ Modder Pack 5
   MCW2W-15-L1                                                    Commercial CommercialHigh L1 1x1 Straight
   MCW2W-16-L2                                                    Commercial CommercialHigh L2 1x1 Straight
   MCW2W-17-L3                                                    Commercial CommercialHigh L3 1x1 Straight
+
+Modder Pack 6
+  PDX01_driveinn_taiheiyo                                        Monument L1 4x4 Straight
+  PDX02_driveinn_natori                                          Monument L1 7x5 Straight
+  PDX03_Soba Restaurant                                          Monument L1 5x4 Straight
+  PDX04_Udon Shop                                                Monument L1 5x5 Straight
+  PDX05_Ramen Shop                                               Monument L1 3x4 Straight
+  PDX06_Driveinn Large                                           Monument L1 12x13 Straight
+  PDX07_Cityoffice_M                                             Monument L1 11x4 Straight
+  PDX08_Cityoffice_L                                             Monument L1 8x4 Straight
+  PDX09_medium_office                                            Monument L1 10x4 Straight
+  PDX10_JA_BLDG                                                  Monument L1 8x5 Straight
+  PDX11_Hotel_kikyo                                              Monument L1 15x9 Straight
+  PDX12_CityHotel                                                Monument L1 6x5 Straight
+  PDX13_Hiroshima_sta                                            Monument L1 15x5 Straight
+  PDX14_Shizuoka_Station                                         Monument L1 15x5 Straight
+  PDX15_sasaki_hospital                                          HealthCare L1 9x8 Straight
+  PDX16_incineration_plant                                       Garbage L1 13x12 Straight
+  PDX17_Five Story Pagora                                        Monument L1 2x3 Straight
+  PDX18_Shinjuku_bldg                                            Monument L1 6x4 Straight
+  PDX19_Yokohama-bldg                                            Monument L1 10x11 Straight
+  PDX20_Shin-maru                                                Monument L1 12x9 Straight
 
 China Pack
   Panda Sanctuary                                                Monument L1 12x12 Straight
