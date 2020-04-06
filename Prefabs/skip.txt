@@ -406,3 +406,67 @@ Levels:
 # Pearls From the East DLC.
 # Uncomment the next line to skip this level.
 #OrientalBuildings
+
+#
+#If you absolutely want, you can skip paid content as Unity levels, as shown below.
+#
+
+# After Dark DLC.
+# Uncomment the next line to skip this DLC.
+#AfterDarkDLC
+
+# Snowfall DLC.
+# Uncomment the next line to skip this DLC.
+#SnowFallDLC
+
+# Natural Disasters DLC.
+# Uncomment the next line to skip this DLC.
+#NaturalDisastersDLC
+
+# Mass Transit DLC.
+# Uncomment the next line to skip this DLC.
+#InMotionDLC
+
+# Green Cities DLC.
+# Uncomment the next line to skip this DLC.
+#GreenCitiesDLC
+
+# Parklife DLC.
+# Uncomment the next line to skip this DLC.
+#ParksDLC
+
+# Industries DLC.
+# Uncomment the next line to skip this DLC.
+#IndustryDLC
+
+# Campus DLC.
+# Uncomment the next line to skip this DLC.
+#CampusDLC
+
+# Sunset Harbor DLC.
+# Uncomment the next line to skip this DLC.
+#UrbanDLC
+
+# Art Deco Content Creator Pack.
+# Uncomment the next line to skip this Content Creator Pack.
+#ModderPack1
+
+# High-Tech Buildings Content Creator Pack.
+# Uncomment the next line to skip this Content Creator Pack.
+#ModderPack2
+
+# European Suburbia Content Creator Pack.
+# Uncomment the next line to skip this Content Creator Pack.
+#ModderPack3
+
+# University City Content Creator Pack.
+# Uncomment the next line to skip this Content Creator Pack.
+#ModderPack4
+
+# Modern City Center Content Creator Pack.
+# Uncomment the next line to skip this Content Creator Pack.
+#ModderPack5
+
+# Modern Japan Content Creator Pack.
+# Uncomment the next line to skip this Content Creator Pack.
+#ModderPack6
