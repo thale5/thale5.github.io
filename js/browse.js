@@ -162,7 +162,8 @@ function tgl(b,e)
 
             if (x[8].length)
             {
-                g.append($('<p><b>' + x[7] + '</b> uses these assets:</p>'))
+                const str = zh ? '使用' : 'uses these assets'
+                g.append($('<p><b>' + x[7] + '</b> ' + str + ':</p>'))
 
                 for (let j of x[8])
                     g.append(btn(d[j]))
@@ -170,7 +171,8 @@ function tgl(b,e)
 
             if (u[i].length)
             {
-                g.append($('<p>These assets use <b>' + x[7] + '</b>:</p>'))
+                const str = zh ? '这些资产使用' : 'These assets use'
+                g.append($('<p>' + str + ' <b>' + x[7] + '</b>:</p>'))
 
                 for (let j of u[i])
                     g.append(btn(d[j]))
