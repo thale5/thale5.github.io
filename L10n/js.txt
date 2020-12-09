@@ -1,0 +1,14 @@
+["Name", "Type", "Status", "Service", "Size", "Date", "Workshop item", "Workshop item used in city", "Asset used in city"]
+["名字", "类型", "状态", "服务", "大小", "日期", "工坊id", "工坊资产用于城市", "用于城市"]
+
+['building', 'park', 'prop', 'tree', 'vehicle', 'trailer', '?', 'sub-building', 'variation', 'citizen', 'net', 'elevation', 'pillar']
+['建筑物', '公园', '道具', '树木', '载具', '拖车', '?', '建筑物sub', '变化', '市民', '道路', '公路立交桥', '公路支柱']
+
+['failed', 'available', 'missing', 'name changed']
+['失败', '好', '丢失', '作者可能更改了名称']
+
+['?', '-', 'no', 'indirectly', 'yes', ' placed', ' once', ' times']
+['?', '-', '没有', '间接地', '是的', '直接', '一次', '次']
+
+['Asset in city:', 'WI in city:', 'Workshop link', 'No link', 'Mod or DLC asset', 'Not on workshop', 'Private asset', 'uses these assets', 'These assets use', 'contains this asset', 'contains these assets', 'These assets are private', 'Workshop item is unknown', 'Mod or DLC assets']
+['用于城市:', '工坊资产用于城市:', '链接', '没有可用链接', '可能是DLC或Mod内容', '不在工坊', '私有资产', '使用', '这些资产使用', '包含', '包含', '私有资产', '没有可用链接', '可能是DLC或Mod内容']
